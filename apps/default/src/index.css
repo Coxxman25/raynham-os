@@ -1,0 +1,337 @@
+/* ─────────────────────────────────────────────────────────────────────────────
+   Raynham Estate OS — Heritage Design System
+   Warm off-white surfaces, slate-grey typography, muted brass gold accent.
+   Heritage meets modern. Restraint is luxury.
+   ───────────────────────────────────────────────────────────────────────────── */
+@tailwind base;
+
+@custom-variant dark (&:is(.dark *));
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* ── Heritage Light — Warm off-white with depth ─────────────────── */
+    --background: 38 10% 96%;             /* #F5F2ED warm parchment */
+    --foreground: 210 15% 18%;           /* #272F3A slate ink */
+    --card: 0 0% 100%;                   /* #FFFFFF pure white */
+    --card-foreground: 210 15% 18%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 210 15% 18%;
+    --primary: 43 74% 47%;               /* #C9A227 brass gold */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 38 8% 93%;              /* #EDEAE3 warm surface */
+    --secondary-foreground: 210 15% 18%;
+    --muted: 38 8% 93%;
+    --muted-foreground: 210 8% 36%;      /* #4A5568 deeper muted */
+    --accent: 43 74% 47%;                /* brass gold */
+    --accent-foreground: 0 0% 100%;
+    --destructive: 5 60% 52%;            /* #B85450 muted red */
+    --destructive-foreground: 0 0% 100%;
+    --border: 38 8% 80%;                 /* #D6D0C6 warm border */
+    --input: 38 8% 80%;
+    --ring: 43 74% 47%;
+    --radius: 0.75rem;
+
+    /* ── Heritage palette tokens ────────────────────────────────────── */
+    --brass: #C9A227;
+    --brass-light: #D4B24A;
+    --brass-dim: rgba(201, 162, 39, 0.12);
+    --brass-glow: rgba(201, 162, 39, 0.06);
+    --slate-ink: #272F3A;
+    --slate-body: #4A5568;
+    --slate-muted: #7B8794;
+    --slate-faint: #A0AEC0;
+    --warm-bg: #F5F2ED;
+    --warm-surface: #EDEAE3;
+    --warm-surface-2: #E5E0D6;
+    --white: #FFFFFF;
+    --border-warm: rgba(0, 0, 0, 0.08);
+    --surface: #FFFFFF;
+    --surface-2: #EDEAE3;
+    --surface-3: #E5E0D6;
+    --surface-border: rgba(0, 0, 0, 0.08);
+    --text-primary: #272F3A;
+    --text-secondary: #4A5568;
+    --text-muted: #7B8794;
+    --text-faint: #A0AEC0;
+    --canvas-bg: #F5F2ED;
+    --rail-bg: #FFFFFF;
+    --rail-border: rgba(0, 0, 0, 0.08);
+    --panel-bg: rgba(255, 255, 255, 0.97);
+
+    /* ── Semantic status colors ─────────────────────────────────────── */
+    --status-operational: #5B8C5A;
+    --status-maintenance: #C9A227;
+    --status-closed: #B85450;
+    --status-info: #3B82A6;
+    --status-urgent: #B85450;
+    --status-low: #64748B;
+    --status-medium: #3B82A6;
+    --status-high: #C9A227;
+    --status-critical: #B85450;
+
+    /* ── Estate area colors ────────────────────────────────────────── */
+    --area-farm: #5B8C5A;
+    --area-property: #C9A227;
+    --area-hospitality: #8B6F47;
+
+    /* ── Agent identity ────────────────────────────────────────────── */
+    --agent-brass: #C9A227;
+
+    /* ── Personnel flow tokens (mobile /a/[anchorId] screens) ────────
+     * Source of truth: personnel mobile flow spec. These are ALWAYS the
+     * light-mode values — the personnel PWA is a fixed light theme
+     * (no dark mode) because it is used one-handed in the field.
+     */
+    --surface-base:        #FAFAF7;
+    --surface-raised:      #FFFFFF;
+    --surface-sunken:      #F3F2EC;
+    --border-subtle:       #E6E4DB;
+    --border-strong:       #D4D1C4;
+    --p-text-primary:      #2E3438;
+    --p-text-secondary:    #5B6770;
+    --p-text-muted:        #8A9299;
+    --brand-gold:          #C9A227;
+    --brand-gold-hover:    #B08D1E;
+    --brand-gold-soft:     #F5EBCE;
+    --status-success:      #2F7D4F;
+    --status-success-soft: #E3F0E7;
+    --status-warning-p:    #C9821E;
+    --status-warning-soft: #F9EEDC;
+    --status-danger:       #C43D2E; /* EMERGENCY ENTRY POINTS ONLY */
+    --status-danger-soft:  #F8E3DF;
+    --status-neutral:      #6B7280;
+    --focus-ring:          rgba(201, 162, 39, 0.45);
+  }
+
+  /* ── Heritage Dark — Deep slate with warm accents ────────────────── */
+  .dark {
+    --background: 215 20% 8%;           /* #10141C deep slate */
+    --foreground: 38 12% 86%;            /* #E8E2D5 warm platinum */
+    --card: 215 18% 11%;                 /* #151B26 card surface */
+    --card-foreground: 38 12% 86%;
+    --popover: 215 18% 11%;
+    --popover-foreground: 38 12% 86%;
+    --primary: 43 68% 52%;              /* #D4AF37 brighter brass for dark */
+    --primary-foreground: 215 20% 8%;
+    --secondary: 215 16% 14%;
+    --secondary-foreground: 38 12% 86%;
+    --muted: 215 16% 14%;
+    --muted-foreground: 215 10% 40%;
+    --accent: 43 68% 52%;
+    --accent-foreground: 215 20% 8%;
+    --destructive: 5 50% 50%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 215 14% 18%;
+    --input: 215 14% 18%;
+    --ring: 43 68% 52%;
+
+    /* ── Heritage dark surfaces ─────────────────────────────────────── */
+    --brass: #D4AF37;
+    --brass-light: #E0BC52;
+    --brass-dim: rgba(212, 175, 55, 0.12);
+    --brass-glow: rgba(212, 175, 55, 0.06);
+    --slate-ink: #E8E2D5;
+    --slate-body: #B0A99A;
+    --slate-muted: #7B8590;
+    --slate-faint: #4A5260;
+    --warm-bg: #10141C;
+    --warm-surface: #151B26;
+    --warm-surface-2: #1A2130;
+    --white: #151B26;
+    --border-warm: rgba(255, 255, 255, 0.06);
+    --surface: #151B26;
+    --surface-2: #1A2130;
+    --surface-3: #232B3A;
+    --surface-border: rgba(255, 255, 255, 0.06);
+    --text-primary: #E8E2D5;
+    --text-secondary: #B0A99A;
+    --text-muted: #7B8590;
+    --text-faint: #4A5260;
+    --canvas-bg: #10141C;
+    --rail-bg: #0D111A;
+    --rail-border: rgba(255, 255, 255, 0.04);
+    --panel-bg: rgba(21, 27, 38, 0.97);
+
+    /* ── Semantic status colors — dark adjusted ────────────────────── */
+    --status-operational: #6FAA6E;
+    --status-maintenance: #D4B24A;
+    --status-closed: #D96A65;
+    --status-info: #5B9CBF;
+    --status-urgent: #D96A65;
+    --status-low: #8B95A1;
+    --status-medium: #5B9CBF;
+    --status-high: #D4B24A;
+    --status-critical: #D96A65;
+
+    /* ── Estate area colors — dark adjusted ─────────────────────────── */
+    --area-farm: #6FAA6E;
+    --area-property: #D4B24A;
+    --area-hospitality: #A8895A;
+
+    /* ── Agent identity ────────────────────────────────────────────── */
+    --agent-brass: #D4AF37;
+  }
+}
+
+/* ── Scrollbar ──────────────────────────────────────────────────────────────── */
+@layer base {
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--surface-border);
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--slate-muted);
+  }
+}
+
+/* ── Leaflet map dark theme overrides ────────────────────────────────────────── */
+/* Satellite: photographic, only a slight dim in dark so terrain stays readable.
+ * Streets: flat cartography, invert-ish filter to blend with dark chrome.
+ * Terrain: photographic, only a slight dim in dark. */
+.dark .leaflet-tile-pane .basemap-satellite { filter: brightness(0.85) contrast(1.05); }
+.dark .leaflet-tile-pane .basemap-terrain   { filter: brightness(0.8) contrast(1.05) saturate(0.9); }
+.dark .leaflet-tile-pane .basemap-streets   { filter: brightness(0.65) contrast(1.1) hue-rotate(-5deg); }
+
+.dark .leaflet-container {
+  background: #0D111A;
+}
+
+.leaflet-container {
+  font-family: 'Inter', sans-serif;
+}
+
+.leaflet-control-attribution {
+  font-size: 9px !important;
+  opacity: 0.6;
+}
+
+/* ── Tabular nums for data ─────────────────────────────────────────────────── */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Animations ─────────────────────────────────────────────────────────────── */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.shimmer {
+  background: linear-gradient(
+    90deg,
+    var(--surface-2) 25%,
+    var(--surface-3) 50%,
+    var(--surface-2) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes pulse-brass {
+  0%, 100% { box-shadow: 0 0 0 0 var(--brass-dim); }
+  50% { box-shadow: 0 0 0 8px transparent; }
+}
+
+.pulse-brass {
+  animation: pulse-brass 2s infinite;
+}
+
+/* Alert-pin ring pulse (Section 23.1 red pulse) */
+@keyframes pin-alert-pulse {
+  0%   { transform: scale(0.9); opacity: 0.55; }
+  70%  { transform: scale(1.6); opacity: 0; }
+  100% { transform: scale(1.6); opacity: 0; }
+}
+.estate-map-pin-pulse .pulse-ring {
+  animation: pin-alert-pulse 1.6s ease-out infinite;
+  transform-origin: center;
+}
+@media (prefers-reduced-motion: reduce) {
+  .estate-map-pin-pulse .pulse-ring { animation: none; opacity: 0.35; }
+}
+
+@keyframes slide-up {
+  from { transform: translateY(100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.slide-up {
+  animation: slide-up 0.3s ease-out;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.fade-in {
+  animation: fade-in 0.3s ease-out;
+}
+
+/* ── Base typography ────────────────────────────────────────────────────────── */
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply antialiased bg-background text-foreground;
+    font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  .font-mono {
+    font-family: 'IBM Plex Mono', ui-monospace, SFMono-Regular, monospace !important;
+  }
+  .font-sans {
+    font-family: 'Inter', ui-sans-serif, system-ui, sans-serif !important;
+  }
+  .font-display {
+    font-family: 'Geist', 'Inter', ui-sans-serif, system-ui, sans-serif !important;
+  }
+}
+
+/* ── Glass panels ───────────────────────────────────────────────────────────── */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid var(--surface-border);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.03);
+}
+.dark .glass-panel {
+  background: rgba(21, 27, 38, 0.60);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid var(--surface-border);
+  box-shadow: none;
+}
+
+/* ── No scrollbar utility ──────────────────────────────────────────────────── */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* ── Mode transition ────────────────────────────────────────────────────────── */
+.mode-workspace {
+  position: absolute;
+  inset: 0;
+  will-change: opacity, transform;
+}
+
+/* ─── Legacy marquee (kept for backward compat) ─────────────────────────── */
+@keyframes marquee-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-33.333%); }
+}
+.marquee-track {
+  animation: marquee-scroll 120s linear infinite;
+  width: max-content;
+}
+.marquee-track:hover { animation-play-state: paused; }

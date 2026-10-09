@@ -1,0 +1,747 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "DOCTRINE — Absolute Defence Strategic Spine (locked April 2026)"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000010",
+            "text": {
+              "ops": [
+                {
+                  "insert": "WHO WE ARE (One Sentence)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Absolute Defence is the Public & Personnel Protection Operating System. We protect everybody on the premises — the guards who guard the people, and the people the guards are guarding. Powered by ADOS, our nine-agent autonomous defence architecture.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000020",
+            "text": {
+              "ops": [
+                {
+                  "insert": "THE THREE-LAYER STACK (Always reference this)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000021",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Layer 1 — Guard Accountability (QR-Patrol et al.) — proves the patrol happened",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000022",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Layer 2 — Workforce Management (TrackTik et al.) — runs the security business efficiently",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000023",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Layer 3 — Human Protection (Absolute Defence) — protects everybody on the premises. The category we own.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000024",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The argument that wins:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Layers 1 & 2 protect the security business. Layer 3 protects the people the security business is hired to keep safe. You need all three. We are the only ones who build Layer 3.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000030",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ADOS — The Brand For Our Architecture",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000031",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ADOS = Autonomous Defence Operating System. Locked April 2026. Treat as proper noun like iOS, Stripe Sigma, Linux. Always 'Powered by ADOS.' Trademark search to be initiated.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000032",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ADOS is the nine-agent autonomous architecture (SENTINEL, ARIA, GUARDIAN, WITNESS, COMPASS, ORACLE, BRIDGE, FORGE, SHIELD). Pattern: Supervisor-Handoff Hybrid. TrackTik's entire AI strategy is one feature (ReportPro). We have an organism. Structural moat — they cannot ship our architecture as a feature update.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000040",
+            "text": {
+              "ops": [
+                {
+                  "insert": "THE THREE BUSINESS OUTCOMES (CFO Language — Always Use)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000041",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "WIN MORE CONTRACTS — Differentiation, Martyn's Law readiness, threat intelligence dashboards",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000042",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "PROTECT CONTRACT VALUE — Duty-of-care evidence chain, courtroom-ready packs, insurer-verified premium reductions",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000043",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "NEW REVENUE LINE — Stop selling guard hours, start selling protected ecosystems. Per-site SaaS layer for partners to white-label.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000050",
+            "text": {
+              "ops": [
+                {
+                  "insert": "THE THREE MARKETING ANGLES (Always Available)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000051",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "EVERYBODY INSIDE — 'Your guards protect the building. We protect everybody inside it.' (Public-facing, ad creative, LinkedIn)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000052",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AGENTS IN THE ROOM — 'TrackTik gave you a report writer. We gave you nine specialists.' (Enterprise buyers, partner channels)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000053",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "BUILT FOR WHAT COMES NEXT — 'Martyn's Law isn't coming. It's here. £18M fines. Are you ready?' (Public sector, education, councils)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000060",
+            "text": {
+              "ops": [
+                {
+                  "insert": "VOCABULARY DOCTRINE (Replace old terms)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000061",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "'AI-powered' → 'Agentic'  |  'Smart features' → 'Autonomous specialists'  |  'Chatbot' → 'ARIA, our intelligence agent'  |  'Dashboard' → 'Command Surface'  |  'Workflow' → 'Agentic chain'  |  'Notification' → 'Acknowledgement chain'  |  'Reports' → 'Case Vault evidence packs'  |  'Analytics' → 'Predictive intelligence (ORACLE)'",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000070",
+            "text": {
+              "ops": [
+                {
+                  "insert": "THE PARTNER POSITIONING (For Dardan, Securitas, Mitie, G4S)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000071",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "NEVER position as TrackTik replacement. ALWAYS position as Layer 3 they add ON TOP. White-label commercial model: Partner sells Absolute Defence as their own branded technology layer. We capture per-site SaaS margin. They capture stickier clients, higher contracts, new differentiation.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000080",
+            "text": {
+              "ops": [
+                {
+                  "insert": "WHAT WE NEVER DO",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000081",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Compete head-to-head with TrackTik on workforce management. We will lose.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000082",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Build guard scheduling, payroll, billing, or invoicing. Not our category.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000083",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Lead with technology features. Lead with WHO we protect (everybody) and HOW we prove it (ADOS).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0c7a1b2-c3d4-4e5f-9a01-000000000084",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Use the word 'AI' alone. Always pair with 'agentic' or 'autonomous specialists.' Distance from generic AI noise.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📁"
+    }
+  }
+}

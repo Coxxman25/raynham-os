@@ -1,0 +1,794 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "2248cf54-00ed-4316-887e-e09451f7594c",
+        "text": {
+          "ops": [
+            {
+              "insert": "Universal Spatial Intelligence Expansion Brief"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "186f9a55-3c5f-47d2-b16d-265346a65938",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Direction and purpose",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "7046478a-fbfd-42f6-9759-c9b1722b8c68",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Evolve Raynham Estate OS from lone-worker safety, fast spatial reporting and a whole-estate map into a Universal Spatial Intelligence Operating System.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "69dd4fad-d1f4-444a-81d5-ba37dd17c8d8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Every important person, place, asset, livestock group, job, contractor and department needs identity, operational state, intelligence state, spatial context, recent activity, history and a next action when attention is needed.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "258d2624-fd52-403b-bbea-db907d89bfd8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Non-negotiable continuity",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "57337d29-d7f7-4400-a329-bad3acda08c9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Preserve map-first Tom experience, staff mobile PWA, current QR anchors, issue reporting, work items, lone-worker sessions, Estate Status, Estate Brief, Needs Attention and side inspector.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6a0dea20-ba34-4392-8e25-34a7100b6ae8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Preserve location freshness and last-known-location rules, offline-first field behaviour, role-based progressive disclosure, heritage visual language, and red for genuine emergencies only.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cc2cb9b2-694e-474c-b508-9a7292626c99",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Do not turn the platform into a generic HR dashboard, timesheet application, payroll engine, farm ERP, siloed departmental apps or employee-surveillance product.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "f636b7fc-3d2c-402f-acff-d8a7716a89b1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Universal Intelligence Card contract",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "1391df57-0078-4720-9867-3b9a3f418dfb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Required fields: entityId, entityType, title, subtitle, departmentId, operationalState, intelligenceState, stateReason, primaryLocation, locationUpdatedAt, locationSource, currentActivity, lastEventAt, attentionOwner, primaryAction, relatedEntityIds, permissions and expandedDetails.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8c9b18e7-71a3-4f40-a56f-f80002fc5ba7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "State colours: green operating normally, amber attention required, red act now or emergency, grey inactive or off duty, neutral ordinary state including authorised breaks. Always pair colour with icon, label and reason.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "58bcb913-f59a-46a5-92f2-d1890526b551",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Operational state and intelligence state must remain separate. Example: on_break plus neutral, or on_break plus amber with expected return exceeded.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e89f7ccc-d1c2-486e-b65d-329b3561da43",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Phase 0 foundation adaptation",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "70fa9549-f0fc-4489-927b-f1d892afde09",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Audit and safely extend existing Person, Safety Session, Workspace, Location and QR Anchor resources. Avoid duplicate projects and parallel data models.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bfbfa9de-f8a3-426e-9310-96946ddb9379",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Create or adapt department records, personnel profiles, shift and attendance events, operational and intelligence vocabularies, deterministic derivation rules, permission rules, audit events and offline idempotency.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "541f83c3-92ca-4ba1-ba54-07c27b7c8fac",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Introduce reusable Universal Intelligence Card components incrementally, without unnecessary screen changes. Audit mock or seed data that conflicts with derived state.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "3c7937a5-1fd7-4601-b23b-d771f589cd57",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Phase 1 personnel intelligence",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d8250018-daa0-4aca-bfd9-36f5f1ff515e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Build QR clock-in and clock-out, optional break start and end, approved clock-point anchors, offline capture and sync, current shift state and manager corrections.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fd46a159-b89d-4f44-b158-77eead994179",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Build Who's On Estate, personnel and department intelligence cards, recent operational location and freshness, map filters, audit history and Needs Attention attendance exceptions.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a9bd9096-3c1c-4186-b791-27b8d24cc351",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Every clock event captures event ID, person ID, type, device and server timestamps, anchor ID, permitted GPS, department, source, verification level, sync state and correction reason. Reconnection must not duplicate writes.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "c83b6d89-dbe6-40f9-837f-a87b4120f1f8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Privacy, safety and automation",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "1db42e07-1a76-4655-819a-887a8b503af2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Normal work-location sharing begins only during visible active work state and ends on clock-out. Off-duty people show off duty, never a private location. No hidden continuous surveillance or employee performance scoring.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "29b81aad-803f-4e3c-91b6-b14034c0f209",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Attendance and safety are related but distinct. Preserve working state, lone-working state, check-in state, location freshness and safety escalation as connected dimensions. Clocking in is not proof of safety; breaks are not automatically amber; clocking out is not red.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4a05b52d-7660-4887-a2d7-78363f40b53b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Use deterministic rules for clock state, lateness, overdue break, stale location, missed safety check-in and emergency state. AI may explain or summarise but must not decide attendance, payroll-relevant time or emergency classification.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "0132e728-8788-4dbe-a726-348573b5a0ae",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Genesis and integration boundaries",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "7ff5fa7f-a469-4c38-a3e8-3c70e7df6376",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Use Projects for persistent data, Agents for intelligence and summaries, Automations for durable rules and escalation, Genesis React for UI, Media for files, Leaflet for spatial context and browser APIs for QR, GPS, camera and offline support.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c6da3d61-ef7d-48b2-ab21-a629469600e8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Use stable IDs, deliberate denormalised summaries and one source of truth for each derived state. Compose cross-project relationships in React or automations.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cc77696e-ba84-48b4-92dd-2cfbdebe4a73",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "NoFence and Xero are discovery items only. Add integration boundaries or status placeholders only after access, API documentation, ownership and sync direction are agreed. Do not fabricate endpoints.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "6b71ebf8-4ea1-47b8-929a-1f83c6ed3c5f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Build governance",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "1803bd79-7f85-43dd-98d3-719f280bfa6c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "For every phase: state changes, reused resources and schema changes; build data first, deterministic automation second, interface third; test end to end; reconcile visible counts and states; report constraints; wait for approval before the next phase.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "962b1e58-252d-402b-b581-554b3a8c23b4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Before any implementation, present and obtain approval for the exact Phase 0 and Phase 1 migration plan.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "🖋️"
+    }
+  }
+}

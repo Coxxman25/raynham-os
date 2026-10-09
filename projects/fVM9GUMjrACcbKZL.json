@@ -1,0 +1,1206 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "156c2608-e1d1-4458-9cb5-94337fb2c7cc",
+        "text": {
+          "ops": [
+            {
+              "insert": "Site Content"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "aa65e85b-a57b-4735-b14d-cea1c579b5f5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Soup of the day",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@type_1": {
+                "type": "Select",
+                "optionId": "cafeteria-item"
+              },
+              "@detail_1": "Tomato & basil — served until 14:30",
+              "@tag_1": "Hot",
+              "@status_1": "Available",
+              "@hours_1": "Mon–Fri 08:00–16:00"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "52e86f22-d693-4a6c-8b62-e6353e9a0c8f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Sandwiches & wraps",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@type_1": {
+                "type": "Select",
+                "optionId": "cafeteria-item"
+              },
+              "@detail_1": "Made to order · Gluten-free available",
+              "@tag_1": "Fresh",
+              "@status_1": "Available",
+              "@hours_1": "Mon–Fri 08:00–16:00"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f40be6dd-2889-4073-aa6c-1d94a8013130",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Hot drinks",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@type_1": {
+                "type": "Select",
+                "optionId": "cafeteria-item"
+              },
+              "@detail_1": "Barista coffee · Tea · Hot chocolate",
+              "@tag_1": "All day",
+              "@status_1": "Available",
+              "@hours_1": "Mon–Fri 08:00–16:00"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "38e73d0d-341e-4505-a9ef-13b2340d981c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cold drinks & snacks",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@type_1": {
+                "type": "Select",
+                "optionId": "cafeteria-item"
+              },
+              "@detail_1": "Fridge restocked 08:00 & 12:00",
+              "@tag_1": "Chilled",
+              "@status_1": "Available",
+              "@hours_1": "Mon–Fri 08:00–16:00"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e546cb53-a41b-4222-b312-b37f6e49b1f7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Level 1 — Main Parking",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@type_1": {
+                "type": "Select",
+                "optionId": "parking-level"
+              },
+              "@detail_1": "Main visitor parking",
+              "@status_1": "Open",
+              "@hours_1": "Mon–Fri 07:00–22:00",
+              "@avail_1": 38,
+              "@total_1": 120
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d86b496a-266b-4290-b16e-9a12c9bb8f6e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Level 2 — Staff Parking",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@type_1": {
+                "type": "Select",
+                "optionId": "parking-level"
+              },
+              "@detail_1": "Staff and permit holders only",
+              "@status_1": "Open",
+              "@hours_1": "Mon–Fri 07:00–22:00",
+              "@avail_1": 4,
+              "@total_1": 60
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "98b6293e-0017-427f-8c09-89d7d072661f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Level 3 — Overflow Parking",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@type_1": {
+                "type": "Select",
+                "optionId": "parking-level"
+              },
+              "@detail_1": "Overflow and event parking",
+              "@status_1": "Open",
+              "@hours_1": "Mon–Fri 07:00–22:00",
+              "@avail_1": 62,
+              "@total_1": 80
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ea366a41-c7d0-4600-9331-8ad0e8aaf088",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Guest Wi-Fi",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@type_1": {
+                "type": "Select",
+                "optionId": "service"
+              },
+              "@detail_1": "Network: AD-Guest · No password required",
+              "@tag_1": "All zones",
+              "@status_1": "Active"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "afd84a72-c0d0-409a-93f4-e220d682210e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Opening Hours",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@type_1": {
+                "type": "Select",
+                "optionId": "service"
+              },
+              "@detail_1": "Mon–Fri 08:00–18:00 · Sat 09:00–13:00",
+              "@tag_1": "All zones",
+              "@status_1": "Active"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b578e1a1-f0e8-4478-9773-3c758adcdd21",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Report a Hazard",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@type_1": {
+                "type": "Select",
+                "optionId": "service"
+              },
+              "@detail_1": "Submit an anonymous safety concern directly to security",
+              "@tag_1": "All zones",
+              "@status_1": "Active"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@type_1": {
+            "id": "/attributes/@type_1",
+            "fieldPath": "/attributes/@type_1",
+            "rank": "z"
+          },
+          "/attributes/@detail_1": {
+            "id": "/attributes/@detail_1",
+            "fieldPath": "/attributes/@detail_1",
+            "rank": "zV"
+          },
+          "/attributes/@tag_1": {
+            "id": "/attributes/@tag_1",
+            "fieldPath": "/attributes/@tag_1",
+            "rank": "zk"
+          },
+          "/attributes/@status_1": {
+            "id": "/attributes/@status_1",
+            "fieldPath": "/attributes/@status_1",
+            "rank": "zs"
+          },
+          "/attributes/@hours_1": {
+            "id": "/attributes/@hours_1",
+            "fieldPath": "/attributes/@hours_1",
+            "rank": "zw"
+          },
+          "/attributes/@avail_1": {
+            "id": "/attributes/@avail_1",
+            "fieldPath": "/attributes/@avail_1",
+            "rank": "zy"
+          },
+          "/attributes/@total_1": {
+            "id": "/attributes/@total_1",
+            "fieldPath": "/attributes/@total_1",
+            "rank": "zz"
+          },
+          "/attributes/@zone_1": {
+            "id": "/attributes/@zone_1",
+            "fieldPath": "/attributes/@zone_1",
+            "rank": "zzV"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@type_1": {
+            "id": "/attributes/@type_1",
+            "fieldPath": "/attributes/@type_1",
+            "rank": "z"
+          },
+          "/attributes/@detail_1": {
+            "id": "/attributes/@detail_1",
+            "fieldPath": "/attributes/@detail_1",
+            "rank": "zV"
+          },
+          "/attributes/@tag_1": {
+            "id": "/attributes/@tag_1",
+            "fieldPath": "/attributes/@tag_1",
+            "rank": "zk"
+          },
+          "/attributes/@status_1": {
+            "id": "/attributes/@status_1",
+            "fieldPath": "/attributes/@status_1",
+            "rank": "zs"
+          },
+          "/attributes/@hours_1": {
+            "id": "/attributes/@hours_1",
+            "fieldPath": "/attributes/@hours_1",
+            "rank": "zw"
+          },
+          "/attributes/@avail_1": {
+            "id": "/attributes/@avail_1",
+            "fieldPath": "/attributes/@avail_1",
+            "rank": "zy"
+          },
+          "/attributes/@total_1": {
+            "id": "/attributes/@total_1",
+            "fieldPath": "/attributes/@total_1",
+            "rank": "zz"
+          },
+          "/attributes/@zone_1": {
+            "id": "/attributes/@zone_1",
+            "fieldPath": "/attributes/@zone_1",
+            "rank": "zzV"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@type_1": {
+            "id": "/attributes/@type_1",
+            "fieldPath": "/attributes/@type_1",
+            "rank": "z"
+          },
+          "/attributes/@detail_1": {
+            "id": "/attributes/@detail_1",
+            "fieldPath": "/attributes/@detail_1",
+            "rank": "zV"
+          },
+          "/attributes/@tag_1": {
+            "id": "/attributes/@tag_1",
+            "fieldPath": "/attributes/@tag_1",
+            "rank": "zk"
+          },
+          "/attributes/@status_1": {
+            "id": "/attributes/@status_1",
+            "fieldPath": "/attributes/@status_1",
+            "rank": "zs"
+          },
+          "/attributes/@hours_1": {
+            "id": "/attributes/@hours_1",
+            "fieldPath": "/attributes/@hours_1",
+            "rank": "zw"
+          },
+          "/attributes/@avail_1": {
+            "id": "/attributes/@avail_1",
+            "fieldPath": "/attributes/@avail_1",
+            "rank": "zy"
+          },
+          "/attributes/@total_1": {
+            "id": "/attributes/@total_1",
+            "fieldPath": "/attributes/@total_1",
+            "rank": "zz"
+          },
+          "/attributes/@zone_1": {
+            "id": "/attributes/@zone_1",
+            "fieldPath": "/attributes/@zone_1",
+            "rank": "zzV"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@type_1": {
+            "id": "/attributes/@type_1",
+            "fieldPath": "/attributes/@type_1",
+            "rank": "z"
+          },
+          "/attributes/@detail_1": {
+            "id": "/attributes/@detail_1",
+            "fieldPath": "/attributes/@detail_1",
+            "rank": "zV"
+          },
+          "/attributes/@tag_1": {
+            "id": "/attributes/@tag_1",
+            "fieldPath": "/attributes/@tag_1",
+            "rank": "zk"
+          },
+          "/attributes/@status_1": {
+            "id": "/attributes/@status_1",
+            "fieldPath": "/attributes/@status_1",
+            "rank": "zs"
+          },
+          "/attributes/@hours_1": {
+            "id": "/attributes/@hours_1",
+            "fieldPath": "/attributes/@hours_1",
+            "rank": "zw"
+          },
+          "/attributes/@avail_1": {
+            "id": "/attributes/@avail_1",
+            "fieldPath": "/attributes/@avail_1",
+            "rank": "zy"
+          },
+          "/attributes/@total_1": {
+            "id": "/attributes/@total_1",
+            "fieldPath": "/attributes/@total_1",
+            "rank": "zz"
+          },
+          "/attributes/@zone_1": {
+            "id": "/attributes/@zone_1",
+            "fieldPath": "/attributes/@zone_1",
+            "rank": "zzV"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@type_1": {
+            "id": "/attributes/@type_1",
+            "fieldPath": "/attributes/@type_1",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@detail_1": {
+            "id": "/attributes/@detail_1",
+            "fieldPath": "/attributes/@detail_1",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@tag_1": {
+            "id": "/attributes/@tag_1",
+            "fieldPath": "/attributes/@tag_1",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@status_1": {
+            "id": "/attributes/@status_1",
+            "fieldPath": "/attributes/@status_1",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@hours_1": {
+            "id": "/attributes/@hours_1",
+            "fieldPath": "/attributes/@hours_1",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@avail_1": {
+            "id": "/attributes/@avail_1",
+            "fieldPath": "/attributes/@avail_1",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@total_1": {
+            "id": "/attributes/@total_1",
+            "fieldPath": "/attributes/@total_1",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@zone_1": {
+            "id": "/attributes/@zone_1",
+            "fieldPath": "/attributes/@zone_1",
+            "rank": "zzV",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@type_1": {
+            "id": "/attributes/@type_1",
+            "fieldPath": "/attributes/@type_1",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@detail_1": {
+            "id": "/attributes/@detail_1",
+            "fieldPath": "/attributes/@detail_1",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@tag_1": {
+            "id": "/attributes/@tag_1",
+            "fieldPath": "/attributes/@tag_1",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@status_1": {
+            "id": "/attributes/@status_1",
+            "fieldPath": "/attributes/@status_1",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@hours_1": {
+            "id": "/attributes/@hours_1",
+            "fieldPath": "/attributes/@hours_1",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@avail_1": {
+            "id": "/attributes/@avail_1",
+            "fieldPath": "/attributes/@avail_1",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@total_1": {
+            "id": "/attributes/@total_1",
+            "fieldPath": "/attributes/@total_1",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@zone_1": {
+            "id": "/attributes/@zone_1",
+            "fieldPath": "/attributes/@zone_1",
+            "rank": "zzV",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@type_1": {
+        "type": "Select",
+        "displayName": "Content Type",
+        "options": {
+          "cafeteria-item": {
+            "id": "cafeteria-item",
+            "name": "Cafeteria Item",
+            "color": "#00C853",
+            "rank": "0"
+          },
+          "parking-level": {
+            "id": "parking-level",
+            "name": "Parking Level",
+            "color": "#FFB800",
+            "rank": "1"
+          },
+          "service": {
+            "id": "service",
+            "name": "Service",
+            "color": "#06B6D4",
+            "rank": "2"
+          },
+          "quick-tile": {
+            "id": "quick-tile",
+            "name": "Quick Tile",
+            "color": "#FF6B6B",
+            "rank": "3"
+          }
+        }
+      },
+      "@detail_1": {
+        "type": "string",
+        "displayName": "Detail"
+      },
+      "@tag_1": {
+        "type": "string",
+        "displayName": "Tag"
+      },
+      "@status_1": {
+        "type": "string",
+        "displayName": "Status"
+      },
+      "@hours_1": {
+        "type": "string",
+        "displayName": "Hours"
+      },
+      "@avail_1": {
+        "type": "number",
+        "displayName": "Availability",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@total_1": {
+        "type": "number",
+        "displayName": "Total",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@zone_1": {
+        "type": "string",
+        "displayName": "Zone Code"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🎤"
+    }
+  }
+}

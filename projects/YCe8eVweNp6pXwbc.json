@@ -1,0 +1,819 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "3df5802a-eadd-4b51-b635-5621c416994e",
+        "text": {
+          "ops": [
+            {
+              "insert": "RESEARCH.md"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "81e2a5e3-bfae-4d41-b9a2-2786e04ae253",
+            "text": {
+              "ops": [
+                {
+                  "insert": "2026-09-28 14:00 UTC - Genesis Farm field resilience and integration audit",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "cd07d852-817f-4f35-a014-ab7e1899df1d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Architecture decision: preserve raw latitude, longitude, accuracy and device capture time as source-of-truth. Enrich with What3Words only after transmission, never before the incident exists locally.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "37aacd2e-31bc-4070-90ed-381ba9ec8320",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Current worker report path is a prototype, not production persistence: it stores records in localStorage, performs a simulated online delay, and flushOutbox only clears the queue without writing to Taskade.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c8233992-2b4f-4a0f-b36a-717742229eab",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Current photo queue is not durable: it stores an ephemeral blob URL, revokes that URL on unmount, and does not persist the Blob. A close or reboot loses the actual image.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ba6f62da-f8dc-4f93-90cd-8f6ab1f15b45",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Production offline design: cache the app shell with a service worker, store incidents and compressed Blobs in IndexedDB, assign a client UUID idempotency key, sync records first and media second, and retry on app resume, online events and supported Background Sync.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3e1180f0-6f6e-4323-acc6-c32245116006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Background Sync and Network Information are limited-availability browser APIs. They can optimise delivery but cannot be the only sync path. iOS needs foreground resume and online-event retry fallbacks.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4c7036a6-3b1b-499e-a4e3-d21f4a7f0c5a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Browser geolocation is permission-gated and uses the best source available. It can often obtain a satellite fix without data on GPS-equipped phones, but the web API does not guarantee GPS hardware, cold-fix speed or continuous background delivery.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "716dfedc-6183-4bde-a5ef-8374f0ae38d2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What3Words: the official API supports coordinates-to-3wa and 3wa-to-coordinates. Use the Taskade HTTP action with X-Api-Key stored as an encrypted API-key credential. Web conversion is online-only; no offline browser conversion was confirmed.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f0bc3aee-97f0-4b26-bec9-46cd46f430b0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "WhatsApp: Taskade's connector is outbound-only in the available registry. It sends text, templates and media-by-URL, but exposes no inbound reply trigger and no delivery-status webhook. Two-way conversations require Meta Cloud API webhooks through the HTTP connector or another external service.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bdf78dd5-b15d-4af2-8da7-793bf92c9ada",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Photo strategy: client-side canvas compression before upload is cheapest for weak signal. Taskade media conversion strips EXIF and can create JPEG, PNG, WebP or AVIF after upload, but cannot reduce the initial network transfer.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3ec8284a-41fa-470c-982e-d03350961ed9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Current farm app has no PWA manifest, service worker, push subscription, IndexedDB outbox or real network-quality adaptation. It uses localStorage, online/offline events and direct project writes.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fbdf4d95-7ddf-42c0-af12-01ae86575bf7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Current app does not mount GenesisAuth and has no server-side row scoping. Worker identity is a locally stored profile, so it is not suitable as a commercial employee authentication or authorisation boundary.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f3565977-a037-449f-bc18-4133c679135d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Current emergency paths are unsafe to market: Get Help Now is a no-op stub; another screen suppresses save errors and can show Alert logged even when no record was stored. It also records that police were called before the user actually taps the phone link.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ec1a8035-7c29-4e3c-a32f-eff4dcce60fc",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Emergency state machine required: captured locally, transmitted with server receipt, notification delivered when provider receipt exists, and acknowledged by a named human. Never collapse these into one success state.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "370f259b-97ff-4e68-92d5-41d09a5795cc",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Existing data foundation is reusable: Estate Reports, Estate Locations and Safety Check-ins already hold latitude, longitude, What3Words, accuracy, source and lone-worker fields. Add idempotency, capture, transmission, delivery, acknowledgement, media and retry fields rather than replacing these projects.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5322cb2a-6123-4a79-a1ed-d2e7f5af36f3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Existing workflow health: f"
+                    },
+                    {
+                      "insert": "ive",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " enabled webhook flows have zero runs; three scheduled or event flows are disabled; two scheduled AI flows previously failed repeatedly on monthly AI limits. No current What3Words or WhatsApp workflow exists."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "510cfa67-9985-4691-a83c-ea42117f0c2a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Notification architecture: deterministic severity router first, with Taskade email for baseline, WhatsApp templates for important alerts, and Twilio SMS or Pushover emergency alerts for critical cases. AI may summarise after capture but must not gate emergency delivery.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "aca4b790-7ea5-4da6-9a72-2286531c27ae",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Commercial gate: complete physical offline, reboot, duplicate, media, provider outage, partial-flow and 20-user load tests before promising lone-worker safety, guaranteed delivery, background tracking, offline maps or two-way WhatsApp.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e627872c-7430-4192-ad97-a8b85e843e66",
+            "text": {
+              "ops": [
+                {
+                  "insert": "2026-09-25 12:00 UTC - Taskade Genesis commercial operating envelope",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "8e0d316a-12c0-4c94-a9f8-93c844bdb408",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Documented: published apps serve unlimited end users on every plan; App Users are separate from workspace members and do not consume paid seats.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cefb6752-a6f4-4fee-b6e0-20675e2f35f2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Unknown: Taskade publishes no numerical ceiling for authenticated App Users, simultaneous sessions, Genesis gateway concurrency, form bursts, or latency thresholds.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ae098f9e-c70a-477f-b60f-9fa83fa64bea",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Observed app contract: project reads use ETag revalidation, but row create and update calls expose no revision precondition, transaction, record lock, or conflict response contract. Exact same-record concurrent-write behavior is undocumented.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "767cf11f-4b41-4c42-bf67-0d98fd30b685",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Plan limits: Free has 1 workspace, 3 apps, 2 workspace members, 10 automation runs per month, 6,000 one-time AI credits, and 250 MB AI knowledge storage. Pro and above document unlimited workspaces and apps.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "757f49ef-ebab-4a17-a554-c87069103835",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Plan limits: Pro documents 10 workspace members, 1,000 automation runs per paid seat per month, 50,000 monthly AI credits, and 100 GB shared AI storage.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4dab1ca7-0559-4181-9eb5-daac27d2be55",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Plan limits: Business documents unlimited workspace members, 150,000 monthly AI credits, 1 TB shared AI storage, custom domains and priority processing. A Taskade comparison page states 10,000 automation runs per seat per month on Business and above, but Business seat arithmetic needs written confirmation because the pricing page also says unlimited users.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e651b93f-cb9d-4100-97d8-bf8e961b0753",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "API: rate limits apply per endpoint, exact ceilings are not published and may change; 429 responses expose limit, remaining requests, and reset seconds.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "03e591cd-56bc-4308-8ee4-8b684b180424",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Third-party test only: one independent review claims response times increased above 15 concurrent sessions during a 25-user test. Test design, app shape, geography and raw measurements were not published, so this is a risk signal, not a platform limit.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fa83d160-f3b1-491e-ba34-f5daa010c3da",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Architecture assessment: separate customer workspaces provide data, configuration and operational isolation, but Taskade does not document dedicated compute isolation between workspaces. Account billing pools and shared platform infrastructure can remain common failure domains.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e06088dc-c307-492f-bb6f-728f930160f0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Commercial conclusion: 50 employees with 10 to 20 simultaneous users is plausible, but not documented or independently verified enough to call comfortably supported. Require a representative 20-user load test, a 50-user burst test, and written Taskade capacity confirmation before contractually committing.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "046fee3f-aeaa-491e-bc83-41bdef092cf4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "100 separate farms are architecturally safer than one workspace with thousands of users for isolation and blast radius, but operationally harder because provisioning, upgrades, credentials, usage metering and support must be managed across 100 environments.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "155d4180-cf7b-4375-ac8b-2cdbec76960c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Sources: Taskade Pricing, App Users, Public API Reference, Real-Time Collaboration, Workspace, AI Usage, Upgrade to Premium Plans, and the inspected Genesis data gateway client.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📗"
+    }
+  }
+}

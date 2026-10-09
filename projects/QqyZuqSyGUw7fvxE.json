@@ -1,0 +1,3027 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "8c6387b0-d778-408d-b638-9bf5560490cd",
+        "text": {
+          "ops": [
+            {
+              "insert": "ADOS Platform Strategy — The Vertical OS Blueprint"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "83eb82dc-7d65-4a04-8602-df8f84b6d984",
+            "text": {
+              "ops": [
+                {
+                  "insert": "EVE's Assessment — Read This First",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "4c2249fe-3145-4392-b442-21d51abfe348",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The ServiceNow document is directionally correct and strategically sound. The core thesis — that ADOS can become a vertical operating system built on Taskade Genesis rather than a single-purpose security app — is not just credible. It is the only model that creates a genuinely defensible, investable, and scalable business.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "477c7660-f518-4720-9f1a-b57feef9d3df",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "However, the document has one critical gap it does not address: the Taskade relationship itself. You are building on a third-party platform with its own roadmap, pricing, and terms. This is simultaneously your greatest asset and your most important risk. Both must be managed with precision.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1a7851cc-f106-4f64-9f3b-6b5319103ddb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Verdict: Pursue this. The revenue opportunity is real. The timing is near-perfect — Martyn's Law received Royal Assent April 2025 and is now in SIA implementation phase. The competitive gap is wide. The question is not whether to pursue it. The question is sequence, positioning, and how you manage the Taskade dependency as you scale.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "8f650df1-a6cd-44a3-8f8e-e4a6a4a32fb5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Section 1 — The Model Explained Simply",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "3f42654d-b446-466d-b577-f955dd8905ed",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What you are building in plain language",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "221a82b8-8fc8-4770-830d-cb6ef989aeb5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Taskade is a platform — like Salesforce or ServiceNow — that lets you build applications, automate workflows, and deploy AI agents. Taskade Genesis is their branded app builder. Your proposal: deploy it as the invisible engine behind a branded enterprise product called Absolute Defence OS — presented to clients not as 'a Taskade workspace' but as a purpose-built, industry-grade operating system for safety and compliance. Clients never see Taskade. They see your brand.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7730ed78-e5c5-4770-b138-19ba8d62ee30",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The analogy: Shopify lets retailers build online stores. The retailer's customers never see Shopify — they see the retailer's brand. You are doing exactly the same with Taskade Genesis for the safety and protection industry.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "0719778f-b25a-4f21-babc-afa1122221aa",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The three-layer stack this creates",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fb69de1c-bc9f-45f1-a238-462bfe6280aa",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "LAYER 1 — Taskade Genesis (invisible infrastructure): Projects as databases, automations as workflows, agents as AI workers, Genesis app builder as the front-end engine. You license this. The client never sees it.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "85796c1d-70cf-4416-ac41-4dd413f4cbd9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "LAYER 2 — ADOS Architecture (your product layer): The QR anchor system, ARIA intelligence engine, Case Vault, Evidence Chain, Pinboard, Zone management, and the nine-agent autonomous architecture. This is your IP, your differentiation, your brand.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "38943a81-3458-4ce1-85d1-864c272abc03",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "LAYER 3 — Vertical Modules (your go-to-market): Absolute Defence (security), Absolute Campus (education), Absolute Site (construction), Absolute Aviation (future). Each is a configured deployment of Layer 2 on Layer 1, with industry-specific language, categories, workflows, and compliance outputs.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "c4c4cd3d-729a-40d0-b926-59ae2546ad77",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Section 2 — Is This Worth Pursuing? The Honest Case",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "767e9d15-8c2c-4753-92cd-969a2d1c2b19",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The case FOR pursuing this",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bee74093-7627-4f76-af85-55bc28ae68ca",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "TIMING IS NEAR-PERFECT. Martyn's Law received Royal Assent April 2025. The SIA is now in implementation phase. Every qualifying UK venue (capacity 200+) must comply. Estimated 650,000+ qualifying venues. This is a legally mandated compliance market — not discretionary spend. Compliance deadlines create buying urgency that no marketing campaign can manufacture.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7a1f2a00-71db-499f-bd49-ff1d22fd2405",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "THE MARKET IS GENUINELY UNDERSERVED. TrackTik manages guards. QR Patrol proves patrols happened. Neither protects the people inside the building. Nobody owns Layer 3 — Human Protection — in a structured, platform way. You have a clear, unclaimed category.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ea050a60-028c-4663-a2c4-1d09a3346636",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "TASKADE GENESIS MAKES IT TECHNICALLY FEASIBLE TODAY. Custom domains, white-label branding (logos, colours, favicon), OIDC authentication, API access, automation webhooks, and AI agents are all live features at current Taskade pricing tiers. The infrastructure for the first two phases exists now — no custom build required.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "252f8f08-1b9e-491f-bbac-6a7da9eaffb2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "THE ECONOMICS ARE COMPELLING. Taskade's infrastructure cost is a fraction of what it would cost to build equivalent database, workflow, agent, and app infrastructure from scratch. Your gross margin on client-facing SaaS pricing can be extremely high in early phases because CapEx is near zero.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "657ee395-ba42-40c2-ae79-b5d501dc4e9e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "THE QR ANCHOR IS A UNIQUELY DEFENSIBLE INTERFACE PRIMITIVE. No competitor has a zero-friction, no-download, spatially-aware interaction model. This is not a feature — it is an architectural advantage that compounds in value as the platform expands across industries.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cc0ecda8-4a3b-42b7-a82e-c71cdc9cbde5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The honest risks you must not ignore",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7f46ad5a-7d1b-42ab-8a93-d7f33a86df05",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "PLATFORM DEPENDENCY RISK (HIGH). You are building a business-critical enterprise product on a third-party platform. If Taskade changes pricing, terms, white-label capabilities, or is acquired, your business is immediately affected. Establish a formal partnership agreement with Taskade before you take on enterprise clients — not a subscription, an agreement. Negotiate enterprise terms, data portability rights, and advance notice clauses.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1548b134-91e7-4368-a407-467025b5ee40",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ENTERPRISE PROCUREMENT SCRUTINY (MEDIUM). Large clients in aviation and construction will run due diligence on your technology stack. When they discover the underlying platform is Taskade, procurement teams may raise concerns. Your narrative must pre-empt this: 'We build on enterprise-grade infrastructure so you benefit from continuous investment without waiting for us to invent it.' Have Taskade's SOC 2 / ISO 27001 / UK GDPR documentation ready before any enterprise sales conversation.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "361ef391-827e-4182-abe2-c1c739c8f69a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "SEQUENCE DISCIPLINE (HIGH). The biggest risk is not the technology — it is dilution. If you move to education and construction before the security loop is proven with a flagship paying partner, you will have three half-built products and no revenue. One vertical, proven, with one named partner, is worth more than three verticals in pilot.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f51cfe07-3ca0-4891-bca5-f1c11c479ec3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "PHASE 3 INFRASTRUCTURE GAP (MEDIUM). By months 18-30, Taskade Genesis may not have the enterprise integration depth needed — pre-built connectors to Lenel, Genetec, Gallagher access control; direct API feeds to HSE reporting systems; insurance broker data pipelines. Budget and plan for supplementary integration middleware before Phase 3 begins.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "fcc1ce31-e44d-41aa-9ebd-c92784a89c2a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Section 3 — The Revenue Model and Numbers",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e8ab2e64-3022-4c81-9cc0-0cd13ac6db2d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Five revenue streams (not just subscription)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "57932519-1c5c-4d14-8476-afc8b8f7b5bc",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "STREAM 1 — Platform Subscription (per site/month): The base ADOS platform fee. Zone management, QR anchors, Case Vault, Evidence Chain, ARIA. Proposed pricing: £299–£799/month per site depending on size and sector. A 50-site security firm partner = £15K–£40K/month ARR from a single partner relationship.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a0502bfb-8cd2-456f-a150-db4230207b1d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "STREAM 2 — Vertical Module Fees: Additional modules layered on the base. Absolute Campus adds safeguarding workflows, campus lockdown protocols, MAT-wide reporting. Absolute Site adds CDM compliance templates, HSE near-miss workflows, subcontractor check-in. Proposed pricing: £150–£299/month per module per site — additive margin on existing sites.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "60dac120-0e45-4456-8fc9-72b227a5542a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "STREAM 3 — Professional Services: Site setup, QR anchor physical deployment, staff training, bespoke workflow configuration. One-time fee per site: £500–£2,500. At 50 sites this is £25K–£125K in year one before recurring revenue — important for cash flow in the early phase.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "0e048b1f-c064-4f33-9e75-02297ea240f1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "STREAM 4 — Partner White-Label Margin: Security firms (Dardan, Wilson James, Mitie, Securitas, G4S) pay a platform fee, white-label the product as their own technology layer, and deploy to their clients. You retain the SaaS margin; they retain the client relationship and the differentiation story. One £200M turnover security firm with 300 sites = potentially £1M–£3M ARR from a single partnership.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "dffb20a5-9c00-4d15-91ed-8f4794e19f77",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "STREAM 5 — Compliance-as-a-Service: Automated Martyn's Law compliance reports, Evidence Pack exports for insurers and legal proceedings, quarterly ORACLE executive briefings. £50–£150 per report, or £1,200–£3,600/year add-on. Future: underwriting partnership where insurers pay for direct data feeds — premium reductions funded by risk data access.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "eda6464c-4884-4684-a1fb-ef12d571a08a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Revenue scenario modelling (conservative)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "75dbd1fc-45e6-46b7-8323-ef31f21821aa",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "YEAR 1 (0–12 months): 1 flagship partner, 15 sites at £399/month avg = £71,820 ARR. Professional services on 15 sites at £1,000 avg = £15,000 one-time. Total Year 1: ~£87K. Modest but proof-of-concept. Generates the reference case study that unlocks Partner 2 and 3.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4078f16c-417a-4d08-93a6-155f50a8aa2e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "YEAR 2 (12–24 months): 3 partners, 80 sites avg, 2 vertical modules live. Platform: 80 × £450 × 12 = £432,000. Modules: 40 × £200 × 12 = £96,000. Services: £40,000. Total Year 2: ~£568K ARR. This is where the business becomes self-sustaining with a small team.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7d43c177-9c7d-4683-a36e-9eea7a99cf3c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "YEAR 3 (24–36 months): 8 partners, 300 sites, 3 verticals, compliance reports live. Platform: 300 × £499 × 12 = £1,797,000. Modules: 150 × £225 × 12 = £405,000. Compliance reports: £60,000. Total Year 3: ~£2.26M ARR. At this scale, institutional investor conversations and Series A become viable.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1222def2-9ffc-4986-bb23-7c543c0acc01",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Context on these numbers: ServiceNow's first 12 months generated ~$1M ARR. They reached $100M ARR after 7 years. The pattern above is faster because: (a) your infrastructure cost is near-zero vs their build-from-scratch, (b) Martyn's Law creates urgency that ServiceNow's early ITSM market did not have, and (c) the partner channel multiplies sites without multiplying headcount. The key ratio to watch: sites per headcount. ServiceNow peaked at ~$2M ARR per employee. Your model should target £500K+ ARR per headcount by Year 2 given the low infrastructure overhead.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "8f286f91-c4c4-4c6e-b31c-e222ff844154",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Section 4 — The Four Industries: What Changes, What Stays the Same",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "0e17ea02-a26f-4cd9-9618-b79cc608a962",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What never changes across all four industries",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b76b5387-b38d-4bc3-8595-d32b813bb614",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The QR anchor as the zero-friction front door — no download, no login, no training. This is the universal interface across every sector.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1955387f-a17b-4747-820c-05a7ca206653",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Zone / Observation / Case / Notice / Evidence data model — these five entities work in any industry. Do not hardcode 'security incident' into the schema. Keep them abstract from day one.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1fc36df4-280a-4208-a641-2819ca723669",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The ADOS nine-agent autonomous architecture — ARIA triage, ORACLE analytics, BRIDGE communications, GUARDIAN dispatch, WITNESS logging, SENTINEL mapping, COMPASS routing, FORGE learning, SHIELD compliance. The same agents operate in all verticals; only their knowledge bases and category vocabularies change.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ac8d6ed3-99a6-4bdf-854f-2befc6b856e2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The bidirectional Pinboard — command broadcasts down to the site; people on the ground report up. This is a platform primitive, not a security-specific feature. Build it once, configure per industry.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4ec68e8f-effe-4c4e-a9ad-16791a724039",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Evidence Chain as the legally defensible system of record — immutable, timestamped, exportable. This is your deepest moat because the longer a client uses it, the more of their legal liability and insurance history lives inside your system. Switching away means leaving their compliance record behind.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "dd37d740-34a6-4fa6-a4bd-115666968f8f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Security — Absolute Defence (Phase 1, deploy now)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "879b5974-5290-4f3d-a6ad-a77b29840e09",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Regulatory driver: Martyn's Law (Terrorism (Protection of Premises) Act 2025) — LIVE. SIA implementation phase active. Transitional period running now.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c97722d0-0524-4c56-90cf-31a78835079f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Specific vocabulary: SOS, threat, hostile actor, duty of care, lone worker, anonymous reporting, safe space, crowd crush, lockdown, evacuation.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "96190262-ecae-4ace-aafa-74e7ffa8ca90",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Specific compliance outputs: Martyn's Law compliance report, Incident Evidence Pack (courtroom-grade), insurer-ready audit trail, duty-of-care record.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "51834de8-fa02-48b7-b92f-88081798ef53",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Go-to-market: Security firms (Dardan, Wilson James, Mitie, Securitas, G4S) as white-label channel partners. Their brand, your engine, shared margin. Never position as TrackTik replacement — always Layer 3 added on top.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8d08a97e-17d0-4174-9a36-9b9b03306565",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Education — Absolute Campus (Phase 2, months 12–18)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8011e3bc-003a-499c-bd0b-01c1b88c8e65",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Regulatory drivers: Keeping Children Safe in Education (KCSIE), Prevent Duty, Safeguarding obligations, and Martyn's Law requirements for university campuses with 800+ capacity venues.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d4b905c1-2f54-4641-92cb-0de84b451230",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Specific vocabulary: Safeguarding, wellbeing, bullying, disclosure, lockdown, campus alert, anonymous concern, pastoral welfare, student voice.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d3b87909-d87b-4a43-89eb-c9cdb5aa4ba0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Specific compliance outputs: KCSIE-compliant safeguarding log, anonymous wellbeing report, campus lockdown protocol trigger with evidence trail, Multi-Academy Trust rollup report across all schools in the trust.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "174ed38f-b981-40cb-b174-84db8dbbc5e7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Go-to-market: Multi-Academy Trusts (MATs managing 5–30 schools = massive site multiplier from a single contract), universities direct, security firms who already hold university campus contracts (Dardan/Wilson James university work becomes the door opener).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b13b507a-d9c1-4d70-87a3-6d5ac16854c2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Construction — Absolute Site (Phase 3, months 18–30)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "269e11dd-5849-4877-8dcd-51158ff24beb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Regulatory drivers: HSE Health & Safety at Work Act, CDM Regulations 2015, RIDDOR (Reporting of Injuries, Diseases and Dangerous Occurrences Regulations) — near-miss reporting is a legal obligation, not optional.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4914b45b-125f-4255-9f3c-64984aeb0930",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Specific vocabulary: Near-miss, hazard, PPE compliance, toolbox talk, RIDDOR report, CDM coordinator, subcontractor induction, method statement, risk assessment, permit to work.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3b2a4456-bff8-4352-b840-fc30c6d70fe0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Specific compliance outputs: RIDDOR-format near-miss report, CDM compliance log, subcontractor induction record, site safety statistics for insurance renewal, HSE-ready evidence pack.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "896865c6-55aa-4100-afb2-a17d8dd63bf6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Go-to-market: Principal contractors (Mace, Laing O'Rourke, Kier, Morgan Sindall), insurance brokers as referral channel (premium discount incentive), CDM principal designers as influencers and specifiers.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "eed3f3f2-836f-4014-a839-b74d2df944da",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Aviation — Absolute Aviation (Phase 4, 30+ months — treat as separate programme)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe111111-0000-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Regulatory drivers: CAA (Civil Aviation Authority) security protocols, ICAO Annex 17 (Aviation Security), DfT Aviation Security Programme.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe111111-0000-4000-a000-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Critical note: Aviation is the highest-value vertical (airport contracts are multi-million pound) but also the most regulated and slowest-moving procurement environment. CAA and DfT approval processes run 18–36 months. Do NOT attempt before Phase 4. Enter this vertical only after you have a security vertical reference client list and provable evidence chain credibility with a named major partner.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "fe222222-0000-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Section 5 — The Taskade Relationship: Your Asset and Your Risk",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "This is the section the ServiceNow document does not address. It is the most operationally critical section for your specific situation.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What Taskade Genesis currently provides for this model",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Custom domains with automatic SSL — clients access their deployment at absolute-defence.app, not taskade.com. Complete brand separation.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Complete white-label branding — custom logos, colours, favicon, branded 404 pages. Clients see zero Taskade branding in the end-user experience. Confirmed live feature as of 2026.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "OIDC authentication / SSO — enterprise clients already on Azure AD, Okta, or Google Workspace can federate identity. This is a hard requirement for NHS trusts, local authorities, and FTSE 250 security firms.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Workspace isolation = multi-tenancy — each client or partner deploys into a separate workspace with no data bleed between clients. Critical for GDPR compliance and enterprise trust.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000008",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Automation webhooks + full API access — the backbone of your observation intake workflow, SLA monitoring, evidence chain, and nine-agent ADOS architecture. All functional today.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000009",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AI agents with custom system prompts, knowledge bases, and tool access — your entire nine-agent ADOS architecture runs on this infrastructure. ARIA, ORACLE, GUARDIAN, WITNESS all live here.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Three actions you must take regarding the Taskade relationship",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ACTION 1 — Formalise the relationship. Contact Taskade directly about an enterprise or reseller arrangement. You are building significant usage on their platform and potentially driving substantial workspace volume. They should be motivated to formalise. Ask for: (a) enterprise pricing with volume discounts, (b) formal reseller agreement, (c) advance notice of changes to white-label or API capabilities, (d) dedicated support SLA. Do this before you sign your first enterprise client.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ACTION 2 — Obtain compliance documentation. You need Taskade's SOC 2 Type II, ISO 27001 (if applicable), GDPR data processing agreement, and UK data residency confirmation. Enterprise procurement due diligence for NHS trusts, local authorities, and CAA-regulated aviation clients will require this. Do not attempt to sell to those sectors without it.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe222222-0000-4000-a000-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ACTION 3 — Build a data portability protocol. Define now: if you ever need to migrate away from Taskade, how do you extract all client data? Where does it go? What is the client continuity plan? Having this answer ready is not disloyalty to Taskade — it is responsible enterprise product management and will be required by enterprise legal teams before they sign.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "fe333333-0000-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Section 6 — EVE's Strategic Additions (Beyond the ServiceNow Document)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The insurance broker channel — your hidden flywheel",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The ServiceNow document does not mention this. It is potentially your most powerful growth lever and your most distinctive business model innovation.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Insurance underwriters (Aviva, AXA, Zurich, Lloyd's syndicates) who provide public liability, employer's liability, and event insurance price policies based on industry averages and paper-based risk assessments. ADOS gives them real-time, granular, verifiable risk data from every site it is deployed on. This is data they cannot get any other way.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Proposition to insurers: ADOS-deployed sites have lower incident rates, faster response times, and better evidence chains. Share anonymised aggregate data; in return, insurers offer premium reductions to ADOS clients. This makes the platform self-funding: the premium saving covers the platform fee. At a 500-person venue, a typical public liability premium reduction of £1,200–£3,000/year more than covers a £499/month ADOS subscription.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Sales implication: You stop selling a cost and start selling a saving. 'ADOS pays for itself' is the most powerful objection-handler in enterprise SaaS. It removes the budget conversation entirely.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The naming architecture — protect it now",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000008",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "'Absolute Defence,' 'Absolute Campus,' 'Absolute Site,' 'Absolute Aviation,' and 'ADOS' form a strong brand family. The word 'Absolute' is doing heavy lifting as the brand umbrella. File trademark applications now in Classes 42 (software/technology services) and 45 (security services) before building the education and construction products publicly. The cost is low (£170–£300 per class per mark via the UK IPO). The cost of rebranding after a third-party trademark conflict is very high.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000009",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The data moat — your long-term competitive barrier",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ServiceNow's deepest moat is not its workflow engine — it is 25 years of enterprise process data locked into its platform. Every customisation, workflow, and integration makes migration more expensive. Your equivalent moat is the Evidence Chain. Every observation, SOS, acknowledgement, and override is timestamped, immutable, and legally significant. After 3 years of use, a client's entire Martyn's Law compliance history lives in your system. Switching to a competitor means losing that history. That is a genuine, legally reinforced moat that no competitor can replicate simply by copying your features.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Where the ServiceNow document slightly misframes your situation",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Aviation is framed as a Phase 4 vertical module. It should be treated as a separate product line with its own regulatory, sales cycle, and partnership programme — not simply a config change to the base platform. CAA and DfT security approvals are not gained through product configuration; they are gained through 18-month formal approval processes with dedicated regulatory engagement.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The document treats 'no-code studio for partners' (Phase 4) as a nice-to-have. In your model it is more strategically important than that. Once partners can configure their own vertical modules on your platform without your involvement, your revenue becomes platform-level margin on partner-built products — exactly how Salesforce's AppExchange generates billions in ecosystem revenue without Salesforce building any of the apps.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe333333-0000-4000-a000-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The document does not address investor narrative. If you are seeking investment, the framing changes: you are not a security tech company — you are a vertical SaaS platform company using the security sector as the wedge. SaaS platform companies at £2M ARR are valued at 8–15x revenue (£16M–£30M). Security tech companies at the same ARR are valued at 3–5x. The ServiceNow frame is not just strategically correct — it is the higher-valuation frame for fundraising.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "fe444444-0000-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Section 7 — The Phased Blueprint: How To Actually Build This",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Phase 1 — Lock the security vertical (Now to Month 12)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Close Dardan or Wilson James as the flagship partner. Do not pitch both simultaneously — focus, close one, make them wildly successful, use them as the reference case. A named flagship partner is worth more than ten conversations.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": true,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Deploy to 10–15 sites with the flagship partner. Measure obsessively: QR scan rate per site, observation submission rate, SLA compliance %, ARIA triage accuracy, and time-to-response. These are your product-market fit metrics — not vanity metrics.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Formalise the Taskade relationship (enterprise/reseller agreement, compliance documentation, data processing agreement). Do this before signing any enterprise contract — not after.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "File trademark applications for 'Absolute Defence,' 'ADOS,' 'Absolute Campus,' and 'Absolute Site' in Classes 42 and 45 at the UK Intellectual Property Office.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Begin insurance broker conversations — identify 1–2 Lloyd's brokers or specialist insurers interested in the risk-data partnership model. You do not need to close a deal in Phase 1. You need to validate that the model is commercially viable before Phase 3 depends on it.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000008",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Phase 2 — Platform generalisation (Month 12–18)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000009",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Extract security-specific language from the core ADOS data model. The Observation entity needs a 'category set' config field (security categories, safeguarding categories, near-miss categories) rather than hardcoded security labels. This is an architecture decision, not a feature. Do it now — it becomes exponentially harder to refactor after three verticals are live.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Build and deploy Absolute Campus with 2–3 university or MAT pilots. Target: universities already under contract with your security partner (Dardan/Wilson James university clients). The security relationship is the door into the education procurement conversation.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Build the Partner Onboarding Portal — a self-serve interface where partner firms can configure their white-label deployment, add sites, manage QR codes, and view their cross-site intelligence dashboard without requiring your involvement. This is the scale engine. Without it, every new partner requires your direct headcount. With it, partners onboard themselves.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Phase 3 — Construction and multi-vertical (Month 18–30)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Launch Absolute Site with a principal contractor pilot. Target: firms with both construction and FM/security contracts — they already understand the cross-departmental compliance problem and can see the platform play immediately.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Close the first insurance broker data partnership. This unlocks the 'ADOS pays for itself' sales narrative and dramatically accelerates construction sector adoption (construction has some of the highest public liability premiums in any industry).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Assess Taskade Genesis capabilities against Phase 3 requirements. If pre-built connectors to major access control systems (Lenel, Genetec, Gallagher) or third-party CCTV platforms are needed and not available natively, plan for a middleware integration layer (n8n, Make, custom microservice). Budget for this now.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Phase 4 — Platform maturity and aviation (Month 30–48)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000017",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Launch the ADOS Partner Studio — a no-code configuration environment where partners can build their own vertical modules on the platform without requiring ADOS engineering. This is the Salesforce AppExchange moment. When it exists, ADOS becomes a platform company, not just a product company, and valuation multiples change accordingly.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe444444-0000-4000-a000-000000000018",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Begin the Aviation regulatory engagement programme — dedicated CAA/DfT relationship, specialist aviation security consultant on the advisory board, reference security partner who already holds airport contracts. This is an 18-month programme before a contract, not a product launch.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "fe555555-0000-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Section 8 — Immediate Actions (Do These Before Anything Else)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "fe555555-0000-4000-a000-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1. CLOSE THE FLAGSHIP PARTNER. The entire model accelerates from a signed, paying, named partner. Everything else is theory until that moment. The demonstration you have built — with live QR anchors, voice recording, SVG zone maps, real-time safety heartbeat — is compelling enough to close. Use it.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe555555-0000-4000-a000-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2. CONTACT TASKADE FOR AN ENTERPRISE AGREEMENT. Before your first enterprise client signs, you need a formal relationship with Taskade — not a subscription. This is non-negotiable for enterprise-grade commercial credibility.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe555555-0000-4000-a000-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3. FILE THE TRADEMARKS. UK IPO applications for 'Absolute Defence,' 'ADOS,' 'Absolute Campus,' and 'Absolute Site' in Classes 42 and 45. Cost: approximately £700–£1,200 total. Do this month, not quarter.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe555555-0000-4000-a000-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "4. ARCHITECT THE DATA MODEL FOR VERTICAL AGNOSTICISM. Before adding any more security-specific features, abstract the core entities: 'Observation' not 'Security Incident', 'Zone' not 'Building', 'Respondent' not 'Guard'. This is a 2-day architectural decision that saves 6 months of refactoring later.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe555555-0000-4000-a000-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5. OBTAIN TASKADE'S COMPLIANCE DOCUMENTATION. SOC 2, GDPR DPA, UK data residency confirmation. Request these from Taskade support or your account manager now. You will need them for the first enterprise sales conversation, not the fifth.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe555555-0000-4000-a000-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "6. DOCUMENT THE INVESTOR NARRATIVE. Write a one-page investor brief that frames this as: 'Vertical SaaS platform, security as wedge, £2.26M ARR target by Year 3, ServiceNow model applied to the largest legally-mandated compliance market in the UK.' This is the framing for any future fundraise and should be written before it is needed.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "fe666666-0000-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Section 9 — Final Verdict",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "fe666666-0000-4000-a000-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Is this worth pursuing? Yes. Without qualification.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe666666-0000-4000-a000-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Is there revenue opportunity? Yes — multi-million pound ARR within 36 months is achievable with disciplined sequencing and two or three well-chosen partners. The insurance flywheel, if it works, could make the platform self-funding for clients and create a data asset that becomes the business's primary valuation driver.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe666666-0000-4000-a000-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Is the Taskade Genesis model sound? Yes — for Phases 1 and 2, it is the correct architecture. You are leveraging enterprise-grade infrastructure at startup-grade cost. The white-label capability, the AI agent layer, and the automation engine are all genuinely enterprise-ready. Phase 3 onwards requires vigilance about capability gaps, but those are plannable risks, not existential ones.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe666666-0000-4000-a000-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What could kill it? Two things. First: pursuing all four verticals simultaneously before the security vertical is proven. Dilution kills more good ideas than competition does. Second: not formalising the Taskade relationship before taking on enterprise obligations you cannot fulfil if that relationship changes. Manage these two risks and the opportunity is real, large, and genuinely yours to own.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fe666666-0000-4000-a000-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The refined vision statement from the document is correct and should be adopted verbatim: 'Absolute Defence OS is the first module of a vertical operating system built on Taskade Genesis. It starts by protecting people in security environments. It expands to manage safety, communication, and compliance across education and construction. The QR anchor system is the universal human interface. The Case Vault is the universal system of record. And the partner channel is the universal distribution model.' That is credible, investable, and buildable.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📈"
+    }
+  }
+}

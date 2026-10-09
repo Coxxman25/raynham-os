@@ -1,0 +1,363 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a0a1b2c3-d4e5-f678-90ab-cdef01234567",
+        "text": {
+          "ops": [
+            {
+              "insert": "ADOS Agentic Architecture — The Nine Agents"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b1c2d3e4-f567-890a-bcde-f01234567890",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Architecture Overview: SENTINEL — The Agentic Orchestration Layer",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c2d3e4f5-6789-0abc-def0-123456789abc",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Pattern: Supervisor-Handoff Hybrid. A central Orchestrator Agent (SENTINEL) routes to specialised agents. Agents can also hand off directly to each other when workflow demands it. Shared memory bus for state.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d3e4f567-890a-bcde-f012-3456789abcde",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "9 specialised agents, each eliminating a specific industry bottleneck. Each agent has: defined domain, clear inputs/outputs, inter-agent communication protocols, and autonomous decision boundaries.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e4f56789-0abc-def0-1234-56789abcdef0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "The Nine Agents",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "f5678901-bcde-f012-3456-789abcdef012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1. SENTINEL (Orchestrator) — Central coordinator. Routes incidents to appropriate agents. Manages handoffs. Monitors agent health. Escalates when human decision required.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "06789012-cdef-0123-4567-89abcdef0123",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2. ARIA (Threat Intelligence) — Analyses incoming reports. Sentiment analysis on voice. Risk scoring. Pattern recognition. Predictive heatmapping. Feeds intelligence to all other agents.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "17890123-def0-1234-5678-9abcdef01234",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3. GUARDIAN (Triage & Response) — Receives incident from ARIA. Classifies severity. Triggers Acknowledgement Chain. Deploys real-time situational guidance to person at risk. Manages response SLA countdown.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "28901234-ef01-2345-6789-abcdef012345",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "4. WITNESS (Evidence & Documentation) — Constructs the Case Vault entry in real-time. Chains evidence. Timestamps every acknowledgement. Produces courtroom-ready packs. Serves GDPR subject access requests.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "39012345-f012-3456-789a-bcdef0123456",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5. COMPASS (Compliance) — Monitors Martyn's Law obligations. Tracks RIDDOR 10-day windows. Auto-classifies incidents against regulatory frameworks. Generates compliance reports. Alerts before breaches.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "40123456-0123-4567-89ab-cdef01234567",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "6. ORACLE (Predictive Analytics) — Learns from historical incidents across all sites. Recency-weighted heatmaps. Seasonal/temporal pattern detection. Proactive risk advisories. Feeds GUARDIAN with pre-positioned response plans.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "51234567-1234-5678-9abc-def012345678",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "7. BRIDGE (Stakeholder Communication) — Manages multi-channel comms. Notifies Safety Leads, escalation contacts, emergency services. Generates client reports. Handles victim follow-up scheduling. Multi-language support.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "62345678-2345-6789-abcd-ef0123456789",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "8. FORGE (Training & Readiness) — Analyses incident patterns to identify training gaps. Generates scenario-based training recommendations. Tracks certification/competency. Suggests deployment optimisations based on personnel capability.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "73456789-3456-789a-bcde-f01234567890",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "9. SHIELD (Insurance & Risk Transfer) — Generates insurance evidence packs on-demand. Calculates risk scores per site. Produces premium reduction documentation. Interfaces with insurers' risk assessment frameworks.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📅"
+    }
+  }
+}

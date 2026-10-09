@@ -1,0 +1,215 @@
+{
+  "version": "2",
+  "flowTitle": "Reflex B — Spatial Cluster Detection",
+  "trigger": {
+    "valid": false,
+    "displayName": "New Incident Added to Vault",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "BLANK",
+      "triggerName": "task.added",
+      "input": {}
+    }
+  },
+  "actions": [
+    {
+      "name": "b1c2d3e4-f5a6-7890-bcde-f12345678901",
+      "valid": false,
+      "displayName": "Find All Incidents For This Location",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "tasks.find",
+        "input": {
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "r7RYBwhZXTAuaaP7"
+          },
+          "rowsToReturn": "all_matching_rows",
+          "noTasksFoundBehavior": "continue"
+        }
+      }
+    },
+    {
+      "name": "c2d3e4f5-a6b7-8901-cdef-234567890123",
+      "valid": true,
+      "displayName": "AI — Assess Cluster Risk",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.categorize",
+        "input": {
+          "input": "Location code from new incident: {{ trigger[\"nodeText\"] }}. Analyse whether a spatial risk cluster exists for this location. If 3 or more incidents share the same location code in the vault data, output cluster_detected as true. Respond only with JSON.",
+          "output": {
+            "type": "custom",
+            "schema": {
+              "type": "object",
+              "required": [
+                "cluster_detected",
+                "location_code",
+                "incident_count",
+                "recommended_severity",
+                "protocol_summary"
+              ],
+              "properties": {
+                "location_code": {
+                  "type": "string"
+                },
+                "incident_count": {
+                  "type": "number"
+                },
+                "cluster_detected": {
+                  "type": "boolean"
+                },
+                "protocol_summary": {
+                  "type": "string"
+                },
+                "recommended_severity": {
+                  "enum": [
+                    "medium",
+                    "high",
+                    "critical"
+                  ],
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "d3e4f5a6-b7c8-9012-defa-345678901234",
+      "valid": true,
+      "displayName": "Cluster Detected?",
+      "type": "BRANCH",
+      "settings": {},
+      "paths": [
+        {
+          "name": "e4f5a6b7-c8d9-0123-efab-456789012345",
+          "valid": true,
+          "displayName": "Yes — Create Risk Zone",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "CUSTOM",
+              "input": {
+                "type": "or",
+                "value": [
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_contains",
+                        "id": "0de2c085-a383-488c-8adb-b3fd000395df",
+                        "data": "{{ c2d3e4f5-a6b7-8901-cdef-234567890123[\"cluster_detected\"] }}",
+                        "comparator": "true"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          "actions": [
+            {
+              "name": "f5a6b7c8-d9e0-1234-fabc-567890123456",
+              "valid": false,
+              "displayName": "Create Risk Zone Entry",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-taskade",
+                "pieceVersion": "BLANK",
+                "actionName": "task.create",
+                "input": {
+                  "fields": {
+                    "@rzIC": {
+                      "data": {
+                        "value": "{{ c2d3e4f5-a6b7-8901-cdef-234567890123[\"incident_count\"] }}"
+                      },
+                      "rank": "0",
+                      "fieldId": "@rzIC"
+                    },
+                    "@rzRD": {
+                      "data": {
+                        "value": "50"
+                      },
+                      "rank": "1",
+                      "fieldId": "@rzRD"
+                    },
+                    "@rzSV": {
+                      "data": {
+                        "value": "{{ c2d3e4f5-a6b7-8901-cdef-234567890123[\"recommended_severity\"] }}"
+                      },
+                      "rank": "2",
+                      "fieldId": "@rzSV"
+                    }
+                  },
+                  "content": "Risk Cluster — {{ c2d3e4f5-a6b7-8901-cdef-234567890123[\"location_code\"] }}",
+                  "position": "afterbegin",
+                  "projectId": {
+                    "type": "flow-template-variable-input-type",
+                    "id": "W5sUhohHVrBfCnz8"
+                  }
+                }
+              }
+            },
+            {
+              "name": "a6b7c8d9-e0f1-2345-abcd-678901234567",
+              "valid": false,
+              "displayName": "ARIA Pre-Compute Protocol",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-openai",
+                "pieceVersion": "BLANK",
+                "actionName": "agent.ask",
+                "input": {
+                  "input": "SYSTEM ALERT — Spatial cluster detected at location {{ c2d3e4f5-a6b7-8901-cdef-234567890123[\"location_code\"] }}. Incident count: {{ c2d3e4f5-a6b7-8901-cdef-234567890123[\"incident_count\"] }}. Severity: {{ c2d3e4f5-a6b7-8901-cdef-234567890123[\"recommended_severity\"] }}. Based on your knowledge base and safety policies, draft a 2-step immediate response protocol for the Welfare Officer. Be specific and actionable.",
+                  "agentId": {
+                    "type": "flow-template-variable-input-type",
+                    "id": "01KRYKE3TVFYXGG1BDJ9JR1PP0"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "b7c8d9e0-f1a2-3456-bcde-789012345678",
+          "valid": true,
+          "displayName": "No — Monitor Only",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "FALLBACK"
+            }
+          },
+          "actions": []
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "r7RYBwhZXTAuaaP7": {
+      "id": "r7RYBwhZXTAuaaP7",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    },
+    "W5sUhohHVrBfCnz8": {
+      "id": "W5sUhohHVrBfCnz8",
+      "rank": "k",
+      "type": "string",
+      "format": "taskade-project-id"
+    },
+    "01KRYKE3TVFYXGG1BDJ9JR1PP0": {
+      "id": "01KRYKE3TVFYXGG1BDJ9JR1PP0",
+      "rank": "s",
+      "type": "string",
+      "format": "taskade-space-agent-id"
+    }
+  }
+}

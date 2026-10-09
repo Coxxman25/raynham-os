@@ -1,0 +1,78 @@
+{
+  "version": "2",
+  "flowTitle": "Case Status Lookup — Ref Code Check",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "ref_code": {
+            "type": "string",
+            "description": "Input for ref_code"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "e5b6c7d8-f9a0-1234-efab-234567890123",
+      "valid": false,
+      "displayName": "Find Case by Ref Code",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "tasks.find",
+        "input": {
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "MNXitRw4WKLaDdGC"
+          },
+          "rowsToReturn": "first_matching_row",
+          "noTasksFoundBehavior": "continue"
+        }
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "http_response",
+      "body": {
+        "type": "json",
+        "data": {
+          "type": "basic",
+          "payload": [
+            {
+              "ref_code": "{{ trigger[\"body\"][\"ref_code\"] }}"
+            },
+            {
+              "found": "{{ e5b6c7d8-f9a0-1234-efab-234567890123[\"found\"] }}"
+            },
+            {
+              "status": "{{ e5b6c7d8-f9a0-1234-efab-234567890123[\"status\"] }}"
+            },
+            {
+              "zone": "{{ e5b6c7d8-f9a0-1234-efab-234567890123[\"zone\"] }}"
+            },
+            {
+              "message": "Your observation is being reviewed by the site team. No further action is needed from you."
+            }
+          ]
+        }
+      },
+      "key": "trigger"
+    }
+  ],
+  "variables": {
+    "MNXitRw4WKLaDdGC": {
+      "id": "MNXitRw4WKLaDdGC",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

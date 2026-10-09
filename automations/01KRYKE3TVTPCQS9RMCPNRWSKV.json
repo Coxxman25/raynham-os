@@ -1,0 +1,140 @@
+{
+  "version": "2",
+  "flowTitle": "Voice Journal Intake",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "mood": {
+            "type": "string",
+            "description": "Input for mood"
+          },
+          "audioUrl": {
+            "type": "string",
+            "description": "Input for audioUrl"
+          },
+          "latitude": {
+            "type": "number"
+          },
+          "longitude": {
+            "type": "number"
+          },
+          "locationCode": {
+            "type": "string",
+            "description": "Input for locationCode"
+          },
+          "transcription": {
+            "type": "string",
+            "description": "Input for transcription"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a1b2c3d4-1111-2222-3333-444455556666",
+      "valid": true,
+      "displayName": "AI Safeguarding Analysis",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.ask",
+        "input": {
+          "input": "Mood: {{ trigger[\"body\"][\"mood\"] }} | Entry: {{ trigger[\"body\"][\"transcription\"] }}",
+          "prompt": "You are a safeguarding and wellbeing AI analyst. Analyse the following voice journal entry submitted anonymously by a person at an organisation or venue. Return ONLY a valid JSON object with exactly two fields:\n1. \"flag\" — one of: \"none\" (positive/neutral, no concern), \"monitor\" (mild negativity, worth watching over time), \"concern\" (clear distress, threat, or safeguarding issue mentioned), \"urgent\" (immediate danger, self-harm, abuse, or violence mentioned)\n2. \"summary\" — a brief 1-2 sentence summary for the Safety Lead describing what the person expressed and any safeguarding relevance.\n\nPerson mood: {{ trigger[\"body\"][\"mood\"] }}\nPerson said: {{ trigger[\"body\"][\"transcription\"] }}\n\nRespond ONLY with the raw JSON object. No markdown, no code fences, no extra text."
+        }
+      }
+    },
+    {
+      "name": "b2c3d4e5-2222-3333-4444-555566667777",
+      "valid": false,
+      "displayName": "Store Voice Journal Entry",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "fields": {
+            "@vjAI": {
+              "data": {
+                "value": "{{ a1b2c3d4-1111-2222-3333-444455556666[\"result\"] }}"
+              },
+              "rank": "0",
+              "fieldId": "@vjAI"
+            },
+            "@vjAU": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"audioUrl\"] }}"
+              },
+              "rank": "1",
+              "fieldId": "@vjAU"
+            },
+            "@vjID": {
+              "data": {
+                "value": "VJ-{{ trigger[\"body\"][\"mood\"] }}-{{ trigger[\"body\"][\"locationCode\"] }}"
+              },
+              "rank": "2",
+              "fieldId": "@vjID"
+            },
+            "@vjLC": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"locationCode\"] }}"
+              },
+              "rank": "3",
+              "fieldId": "@vjLC"
+            },
+            "@vjLN": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"longitude\"] }}"
+              },
+              "rank": "4",
+              "fieldId": "@vjLN"
+            },
+            "@vjLT": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"latitude\"] }}"
+              },
+              "rank": "5",
+              "fieldId": "@vjLT"
+            },
+            "@vjMD": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"mood\"] }}"
+              },
+              "rank": "6",
+              "fieldId": "@vjMD"
+            },
+            "@vjTR": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"transcription\"] }}"
+              },
+              "rank": "7",
+              "fieldId": "@vjTR"
+            }
+          },
+          "content": "{{ trigger[\"body\"][\"transcription\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "D8sHB7epC3VTtBrE"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "D8sHB7epC3VTtBrE": {
+      "id": "D8sHB7epC3VTtBrE",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

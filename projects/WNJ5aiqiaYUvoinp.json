@@ -1,0 +1,1125 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "072b27ed-de78-4334-98b9-0ab8ce8fe26e",
+        "text": {
+          "ops": [
+            {
+              "insert": "Locations Registry"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "a1000001-0001-0001-0001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Term",
+                  "attributes": {}
+                },
+                {
+                  "insert": "i"
+                },
+                {
+                  "insert": "nal",
+                  "attributes": {}
+                },
+                {
+                  "insert": " 1 — "
+                },
+                {
+                  "insert": "Dep",
+                  "attributes": {}
+                },
+                {
+                  "insert": "a"
+                },
+                {
+                  "insert": "rtures",
+                  "attributes": {}
+                },
+                {
+                  "insert": " "
+                },
+                {
+                  "insert": "H",
+                  "attributes": {}
+                },
+                {
+                  "insert": "a"
+                },
+                {
+                  "insert": "ll",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@locID": "WJ-ARR-001",
+              "@locNM": "Terminal 1 — Departures Hall",
+              "@locTY": {
+                "type": "Select",
+                "optionId": "pitch"
+              },
+              "@locLT": 52.2348,
+              "@locLN": -0.5234,
+              "@locRK": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@locIC": 4
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a1000001-0001-0001-0001-000000000002",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Term",
+                  "attributes": {}
+                },
+                {
+                  "insert": "i"
+                },
+                {
+                  "insert": "nal",
+                  "attributes": {}
+                },
+                {
+                  "insert": " 2 — "
+                },
+                {
+                  "insert": "Arriv",
+                  "attributes": {}
+                },
+                {
+                  "insert": "a"
+                },
+                {
+                  "insert": "l",
+                  "attributes": {}
+                },
+                {
+                  "insert": "s "
+                },
+                {
+                  "insert": "Hall",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@locID": "WJ-ARR-002",
+              "@locNM": "Terminal 2 — Arrivals Hall",
+              "@locTY": {
+                "type": "Select",
+                "optionId": "pitch"
+              },
+              "@locLT": 52.2351,
+              "@locLN": -0.5218,
+              "@locRK": {
+                "type": "Select",
+                "optionId": "high"
+              },
+              "@locIC": 2
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a1000001-0001-0001-0001-000000000003",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Security ",
+                  "attributes": {}
+                },
+                {
+                  "insert": "Ch"
+                },
+                {
+                  "insert": "eckpo",
+                  "attributes": {}
+                },
+                {
+                  "insert": "in"
+                },
+                {
+                  "insert": "t",
+                  "attributes": {}
+                },
+                {
+                  "insert": " A — "
+                },
+                {
+                  "insert": "Airsid",
+                  "attributes": {}
+                },
+                {
+                  "insert": "e"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@locID": "WJ-ARR-003",
+              "@locNM": "Security Checkpoint A — Airside",
+              "@locTY": {
+                "type": "Select",
+                "optionId": "changing"
+              },
+              "@locLT": 52.2344,
+              "@locLN": -0.5241,
+              "@locRK": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@locIC": 1
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a1000001-0001-0001-0001-000000000004",
+            "text": {
+              "ops": [
+                {
+                  "insert": "B",
+                  "attributes": {}
+                },
+                {
+                  "insert": "agg"
+                },
+                {
+                  "insert": "age",
+                  "attributes": {}
+                },
+                {
+                  "insert": " R"
+                },
+                {
+                  "insert": "eclai",
+                  "attributes": {}
+                },
+                {
+                  "insert": "m — "
+                },
+                {
+                  "insert": "Zone B",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@locID": "WJ-ARR-004",
+              "@locNM": "Baggage Reclaim — Zone B",
+              "@locTY": {
+                "type": "Select",
+                "optionId": "changing"
+              },
+              "@locLT": 52.2343,
+              "@locLN": -0.5239,
+              "@locRK": {
+                "type": "Select",
+                "optionId": "low"
+              },
+              "@locIC": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a1000001-0001-0001-0001-000000000005",
+            "text": {
+              "ops": [
+                {
+                  "insert": "L",
+                  "attributes": {}
+                },
+                {
+                  "insert": "a"
+                },
+                {
+                  "insert": "nds",
+                  "attributes": {}
+                },
+                {
+                  "insert": "i"
+                },
+                {
+                  "insert": "de Co",
+                  "attributes": {}
+                },
+                {
+                  "insert": "n"
+                },
+                {
+                  "insert": "course",
+                  "attributes": {}
+                },
+                {
+                  "insert": " — "
+                },
+                {
+                  "insert": "Mai",
+                  "attributes": {}
+                },
+                {
+                  "insert": "n "
+                },
+                {
+                  "insert": "En",
+                  "attributes": {}
+                },
+                {
+                  "insert": "t"
+                },
+                {
+                  "insert": "rance",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@locID": "WJ-ARR-005",
+              "@locNM": "Landside Concourse — Main Entrance",
+              "@locTY": {
+                "type": "Select",
+                "optionId": "court"
+              },
+              "@locLT": 52.2346,
+              "@locLN": -0.5245,
+              "@locRK": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@locIC": 1
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a1000001-0001-0001-0001-000000000006",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Car Park — "
+                },
+                {
+                  "insert": "Multi-St",
+                  "attributes": {}
+                },
+                {
+                  "insert": "or"
+                },
+                {
+                  "insert": "ey",
+                  "attributes": {}
+                },
+                {
+                  "insert": " "
+                },
+                {
+                  "insert": "Lev",
+                  "attributes": {}
+                },
+                {
+                  "insert": "e"
+                },
+                {
+                  "insert": "l P3",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@locID": "WJ-ARR-006",
+              "@locNM": "Car Park — Multi-Storey Level P3",
+              "@locTY": {
+                "type": "Select",
+                "optionId": "corridor"
+              },
+              "@locLT": 52.2355,
+              "@locLN": -0.5228,
+              "@locRK": {
+                "type": "Select",
+                "optionId": "low"
+              },
+              "@locIC": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fb2ee978-1b48-4499-95b1-31b6dd2b9f69",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Gate Lounge — B12 to B18",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@locID": "WJ-ARR-007",
+              "@locNM": "Gate Lounge — B12 to B18",
+              "@locTY": {
+                "type": "Select",
+                "optionId": "corridor"
+              },
+              "@locLT": 52.236,
+              "@locLN": -0.522,
+              "@locRK": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@locIC": 1
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2cd52b7-3809-4f8e-8c39-5baae044d9f8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Staff Corridor — Airside Operations",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@locID": "WJ-ARR-008",
+              "@locNM": "Staff Corridor — Airside Operations",
+              "@locTY": {
+                "type": "Select",
+                "optionId": "corridor"
+              },
+              "@locLT": 52.2342,
+              "@locLN": -0.5248,
+              "@locRK": {
+                "type": "Select",
+                "optionId": "high"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f63fa7ac-2665-4bd7-9f2c-e5d851cb4712",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Cafeteria & Retail — Landside Mezzanine",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@locID": "WJ-ARR-009",
+              "@locNM": "Cafeteria & Retail — Landside Mezzanine",
+              "@locTY": {
+                "type": "Select",
+                "optionId": "court"
+              },
+              "@locLT": 52.2347,
+              "@locLN": -0.523,
+              "@locRK": {
+                "type": "Select",
+                "optionId": "low"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e47da410-d4f6-4714-a56b-e549ad85bb6a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Logistics Compound — Ground Handling Bay",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@locID": "WJ-ARR-010",
+              "@locNM": "Logistics Compound — Ground Handling Bay",
+              "@locTY": {
+                "type": "Select",
+                "optionId": "corridor"
+              },
+              "@locLT": 52.2338,
+              "@locLN": -0.5252,
+              "@locRK": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@locIC": 3
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "5d1d884a-6d83-4ac8-9b1f-d17f696212dd": {
+            "id": "5d1d884a-6d83-4ac8-9b1f-d17f696212dd",
+            "fieldPath": "/attributes/@locID",
+            "rank": "V"
+          },
+          "6d989763-c198-4300-aa36-ff2308e5f841": {
+            "id": "6d989763-c198-4300-aa36-ff2308e5f841",
+            "fieldPath": "/attributes/@locNM",
+            "rank": "k"
+          },
+          "2791e223-1a4c-49d9-9287-15f68dfa3cea": {
+            "id": "2791e223-1a4c-49d9-9287-15f68dfa3cea",
+            "fieldPath": "/attributes/@locTY",
+            "rank": "s"
+          },
+          "c15e4172-8726-461d-857b-ce26f2cfeb60": {
+            "id": "c15e4172-8726-461d-857b-ce26f2cfeb60",
+            "fieldPath": "/attributes/@locLT",
+            "rank": "w"
+          },
+          "c1e1f455-1bbc-4ba3-adb2-e2e703262334": {
+            "id": "c1e1f455-1bbc-4ba3-adb2-e2e703262334",
+            "fieldPath": "/attributes/@locLN",
+            "rank": "y"
+          },
+          "ac60690a-9621-488a-9291-6011c1cd1ea7": {
+            "id": "ac60690a-9621-488a-9291-6011c1cd1ea7",
+            "fieldPath": "/attributes/@locRK",
+            "rank": "z"
+          },
+          "192f925b-f22a-4ae7-8aad-69c650556879": {
+            "id": "192f925b-f22a-4ae7-8aad-69c650556879",
+            "fieldPath": "/attributes/@locIC",
+            "rank": "zV"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "89084e82-d9b6-465d-9b59-341b1dd7471a": {
+            "id": "89084e82-d9b6-465d-9b59-341b1dd7471a",
+            "fieldPath": "/attributes/@locID",
+            "rank": "V"
+          },
+          "ade6ed6e-741c-49af-ad15-1510649ac646": {
+            "id": "ade6ed6e-741c-49af-ad15-1510649ac646",
+            "fieldPath": "/attributes/@locNM",
+            "rank": "k"
+          },
+          "0c2cc14c-39f5-410c-ab4d-fbac8550bcd3": {
+            "id": "0c2cc14c-39f5-410c-ab4d-fbac8550bcd3",
+            "fieldPath": "/attributes/@locTY",
+            "rank": "s"
+          },
+          "2d57fd49-7971-4305-9c08-b3243b343d89": {
+            "id": "2d57fd49-7971-4305-9c08-b3243b343d89",
+            "fieldPath": "/attributes/@locLT",
+            "rank": "w"
+          },
+          "c44b16c3-1332-474f-a2c9-5c3a76c1cf26": {
+            "id": "c44b16c3-1332-474f-a2c9-5c3a76c1cf26",
+            "fieldPath": "/attributes/@locLN",
+            "rank": "y"
+          },
+          "0b084c87-51d3-4a20-aa17-efb1e50e761b": {
+            "id": "0b084c87-51d3-4a20-aa17-efb1e50e761b",
+            "fieldPath": "/attributes/@locRK",
+            "rank": "z"
+          },
+          "e6445fd3-8991-4e1f-8812-b7c2b5619db7": {
+            "id": "e6445fd3-8991-4e1f-8812-b7c2b5619db7",
+            "fieldPath": "/attributes/@locIC",
+            "rank": "zV"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "dbbcd95b-a9f3-4d98-98b8-7e654d7b5561": {
+            "id": "dbbcd95b-a9f3-4d98-98b8-7e654d7b5561",
+            "fieldPath": "/attributes/@locID",
+            "rank": "z"
+          },
+          "21c4dce3-afcb-4fcc-9e21-f41fbb304243": {
+            "id": "21c4dce3-afcb-4fcc-9e21-f41fbb304243",
+            "fieldPath": "/attributes/@locNM",
+            "rank": "zV"
+          },
+          "63434d4d-b772-4e6e-bd1f-13acc828828c": {
+            "id": "63434d4d-b772-4e6e-bd1f-13acc828828c",
+            "fieldPath": "/attributes/@locTY",
+            "rank": "zk"
+          },
+          "128b96b5-62b0-47d6-9133-64ade13be7cf": {
+            "id": "128b96b5-62b0-47d6-9133-64ade13be7cf",
+            "fieldPath": "/attributes/@locLT",
+            "rank": "zs"
+          },
+          "5be1bcb8-e28b-4c84-9b70-efac3725c342": {
+            "id": "5be1bcb8-e28b-4c84-9b70-efac3725c342",
+            "fieldPath": "/attributes/@locLN",
+            "rank": "zw"
+          },
+          "ea4d6e17-a520-4407-b31e-1166e76db734": {
+            "id": "ea4d6e17-a520-4407-b31e-1166e76db734",
+            "fieldPath": "/attributes/@locRK",
+            "rank": "zy"
+          },
+          "16527f64-9893-4c9a-b9b3-8e7fbc0fd213": {
+            "id": "16527f64-9893-4c9a-b9b3-8e7fbc0fd213",
+            "fieldPath": "/attributes/@locIC",
+            "rank": "zz"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "99976008-3b2d-4e29-b6a9-bfe075953e68": {
+            "id": "99976008-3b2d-4e29-b6a9-bfe075953e68",
+            "fieldPath": "/attributes/@locID",
+            "rank": "V"
+          },
+          "5417cefd-6829-41e7-9264-de1141ba5a58": {
+            "id": "5417cefd-6829-41e7-9264-de1141ba5a58",
+            "fieldPath": "/attributes/@locNM",
+            "rank": "k"
+          },
+          "ec5e83b7-7870-4dd7-990c-a47a93bc45bf": {
+            "id": "ec5e83b7-7870-4dd7-990c-a47a93bc45bf",
+            "fieldPath": "/attributes/@locTY",
+            "rank": "s"
+          },
+          "5fd1654e-e009-4448-a5c6-adcaed1b3e8a": {
+            "id": "5fd1654e-e009-4448-a5c6-adcaed1b3e8a",
+            "fieldPath": "/attributes/@locLT",
+            "rank": "w"
+          },
+          "eaafc5a1-68db-49ab-b9fe-fddeb0179458": {
+            "id": "eaafc5a1-68db-49ab-b9fe-fddeb0179458",
+            "fieldPath": "/attributes/@locLN",
+            "rank": "y"
+          },
+          "a2935b17-aef6-4917-b6c0-7eefa69c58b2": {
+            "id": "a2935b17-aef6-4917-b6c0-7eefa69c58b2",
+            "fieldPath": "/attributes/@locRK",
+            "rank": "z"
+          },
+          "cfd2827b-b904-4f55-8f3c-98aac87e57a0": {
+            "id": "cfd2827b-b904-4f55-8f3c-98aac87e57a0",
+            "fieldPath": "/attributes/@locIC",
+            "rank": "zV"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "fbbea08e-bd54-4f83-9dd0-ca2dffe62b54": {
+            "id": "fbbea08e-bd54-4f83-9dd0-ca2dffe62b54",
+            "fieldPath": "/attributes/@locID",
+            "rank": "V"
+          },
+          "113cc71a-77ee-4ad5-a156-771ce0004486": {
+            "id": "113cc71a-77ee-4ad5-a156-771ce0004486",
+            "fieldPath": "/attributes/@locNM",
+            "rank": "k"
+          },
+          "8bdf894e-c770-42ee-abfd-908ac32b65d1": {
+            "id": "8bdf894e-c770-42ee-abfd-908ac32b65d1",
+            "fieldPath": "/attributes/@locTY",
+            "rank": "s"
+          },
+          "fb7b46c2-f5c4-4956-a616-5f34df9009ea": {
+            "id": "fb7b46c2-f5c4-4956-a616-5f34df9009ea",
+            "fieldPath": "/attributes/@locLT",
+            "rank": "w"
+          },
+          "d504da3e-24e7-4c54-a233-d70856997412": {
+            "id": "d504da3e-24e7-4c54-a233-d70856997412",
+            "fieldPath": "/attributes/@locLN",
+            "rank": "y"
+          },
+          "94bb1b62-e456-423c-9f93-2cbb4274f02e": {
+            "id": "94bb1b62-e456-423c-9f93-2cbb4274f02e",
+            "fieldPath": "/attributes/@locRK",
+            "rank": "z"
+          },
+          "c4fbefcb-f4e0-42c8-96ea-ee1815928655": {
+            "id": "c4fbefcb-f4e0-42c8-96ea-ee1815928655",
+            "fieldPath": "/attributes/@locIC",
+            "rank": "zV"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "a04f19e8-8ad4-4ce5-a3b6-01e4dbc765ce": {
+            "id": "a04f19e8-8ad4-4ce5-a3b6-01e4dbc765ce",
+            "fieldPath": "/attributes/@locID",
+            "rank": "z"
+          },
+          "d4340369-33ec-4019-8356-cca18b2c4604": {
+            "id": "d4340369-33ec-4019-8356-cca18b2c4604",
+            "fieldPath": "/attributes/@locNM",
+            "rank": "zV"
+          },
+          "9e43d496-60db-46d8-8a7a-742bbd7da14d": {
+            "id": "9e43d496-60db-46d8-8a7a-742bbd7da14d",
+            "fieldPath": "/attributes/@locTY",
+            "rank": "zk"
+          },
+          "9694b58c-bcb3-44ce-a37e-cb66dfe44bdd": {
+            "id": "9694b58c-bcb3-44ce-a37e-cb66dfe44bdd",
+            "fieldPath": "/attributes/@locLT",
+            "rank": "zs"
+          },
+          "d81ad95c-f12c-49dd-ab28-d9a3a77fe7db": {
+            "id": "d81ad95c-f12c-49dd-ab28-d9a3a77fe7db",
+            "fieldPath": "/attributes/@locLN",
+            "rank": "zw"
+          },
+          "12571608-da07-4409-bcda-e830915472f3": {
+            "id": "12571608-da07-4409-bcda-e830915472f3",
+            "fieldPath": "/attributes/@locRK",
+            "rank": "zy"
+          },
+          "b4349119-cffb-4328-8d3f-3e34616312e5": {
+            "id": "b4349119-cffb-4328-8d3f-3e34616312e5",
+            "fieldPath": "/attributes/@locIC",
+            "rank": "zz"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@locID": {
+        "type": "string",
+        "displayName": "Location Code"
+      },
+      "@locNM": {
+        "type": "string",
+        "displayName": "Venue Name"
+      },
+      "@locTY": {
+        "type": "Select",
+        "displayName": "Venue Type",
+        "options": {
+          "pitch": {
+            "id": "pitch",
+            "name": "Pitch",
+            "rank": "0",
+            "color": "#10b981"
+          },
+          "changing": {
+            "id": "changing",
+            "name": "Changing Room",
+            "rank": "1",
+            "color": "#3b82f6"
+          },
+          "court": {
+            "id": "court",
+            "name": "Court",
+            "rank": "2",
+            "color": "#f59e0b"
+          },
+          "corridor": {
+            "id": "corridor",
+            "name": "Corridor",
+            "rank": "3",
+            "color": "#64748b"
+          }
+        }
+      },
+      "@locLT": {
+        "type": "number",
+        "displayName": "Latitude",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@locLN": {
+        "type": "number",
+        "displayName": "Longitude",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@locRK": {
+        "type": "Select",
+        "displayName": "Risk Level",
+        "options": {
+          "low": {
+            "id": "low",
+            "name": "Low",
+            "rank": "0",
+            "color": "#3b82f6"
+          },
+          "medium": {
+            "id": "medium",
+            "name": "Medium",
+            "rank": "1",
+            "color": "#f59e0b"
+          },
+          "high": {
+            "id": "high",
+            "name": "High",
+            "rank": "2",
+            "color": "#f43f5e"
+          },
+          "critical": {
+            "id": "critical",
+            "name": "Critical",
+            "rank": "3",
+            "color": "#9f1239"
+          }
+        }
+      },
+      "@locIC": {
+        "type": "number",
+        "displayName": "Incident Count",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      }
+    }
+  },
+  "preferences": {
+    "avatar": {
+      "type": "emoji",
+      "value": "✏️"
+    }
+  }
+}

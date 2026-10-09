@@ -1,0 +1,3174 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "b1c2d3e4-f567-4901-a234-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "Strategy & Implementation Plan — Absolute Defence as Layer 3 (ADOS Edition)"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b1c2d3e4-f567-4901-a234-000000000010",
+            "text": {
+              "ops": [
+                {
+                  "insert": "📌 EXECUTIVE SUMMARY (Read this first)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The market gap:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " TrackTik and competitors own Workforce Management. Nobody owns Public & Personnel Protection. Every visitor, staff member, contractor and member of the public on a guarded site is currently uncovered. Martyn's Law makes this a regulatory crisis.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Our position:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Absolute Defence is the Public & Personnel Protection Operating System — Layer 3. We sit ON TOP of TrackTik, not against it. We complete the stack.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Our moat:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " ADOS — the Autonomous Defence Operating System. Nine specialised AI agents in a Supervisor-Handoff Hybrid architecture. TrackTik's entire AI surface is one report-writing assistant. We are 18-24 months ahead in a category they have not recognised.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The plan:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Four movements over 12 months. REFRAME (positioning, 0-30 days). REINFORCE (product visibility of ADOS, 30-90 days). RELEASE (six new features, 90-180 days). REVENUE (white-label partner channel, 180-365 days).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The first proof point:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Dardan partnership through Andy. Partner-positioning meeting on 17 April. Goal: signed white-label pilot at one Dardan-protected site within 90 days.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b1c2d3e4-f567-4901-a234-000000000020",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎯 STRATEGIC DOCTRINE — The Spine",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000021",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Who We Are (One sentence — never deviate)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "b1c2d3e4-f567-4901-a234-000000000022",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "\"Absolute Defence is the Public & Personnel Protection Operating System. We protect everybody on the premises — the guards who guard the people, and the people the guards are guarding. Powered by ADOS, our nine-agent autonomous defence architecture.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000030",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Three-Layer Stack (Reference in every conversation)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "b1c2d3e4-f567-4901-a234-000000000031",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Layer 1 — Guard Accountability (QR-Patrol et al.) — Did the guard patrol?",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1c2d3e4-f567-4901-a234-000000000032",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Layer 2 — Workforce Management (TrackTik et al.) — Is the security business efficient?",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1c2d3e4-f567-4901-a234-000000000033",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Layer 3 — Human Protection (Absolute Defence) — Is everybody on site protected? OUR CATEGORY.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000040",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What We Never Do",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "b1c2d3e4-f567-4901-a234-000000000041",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Never compete head-to-head with TrackTik on workforce management. We will lose.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1c2d3e4-f567-4901-a234-000000000042",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Never build guard scheduling, payroll, billing, invoicing. Not our category.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1c2d3e4-f567-4901-a234-000000000043",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Never lead with technology. Lead with WHO we protect (everybody) and HOW we prove it (ADOS).",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b1c2d3e4-f567-4901-a234-000000000044",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Never use 'AI' alone. Always 'agentic' or 'autonomous specialists.' Distance from generic AI noise.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b1c2d3e4-f567-4901-a234-000000000050",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🤖 THE ADOS NARRATIVE (Brand & Architecture)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000051",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ADOS = Autonomous Defence Operating System.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Treat as proper noun, like iOS, Stripe Sigma, Linux, AWS. Always 'Powered by ADOS.' Trademark search to be initiated within 30 days.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000052",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Nine Agents:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000053",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "SENTINEL — Orchestrator. Routes incidents, manages handoffs, escalates to humans when judgement is required.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000054",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ARIA — Threat Intelligence. Sentiment analysis on voice. Risk scoring. Pattern recognition. Predictive heatmapping.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000055",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "GUARDIAN — Triage & Response. Severity classification. Real-time guidance to person at risk. Acknowledgement chain SLA management.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000056",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "WITNESS — Evidence & Documentation. Constructs Case Vault entries in real-time. Courtroom-ready packs. GDPR-ready.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000057",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "COMPASS — Compliance. Martyn's Law / RIDDOR / ISO 45001 / KCSIE. Auto-classifies, alerts before breach.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000058",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ORACLE — Predictive Analytics. Recency-weighted heatmaps. Seasonal/temporal pattern detection. Proactive risk advisories.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000059",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "BRIDGE — Stakeholder Communication. Multi-channel alerts. Client reports. Victim follow-up. Multilingual.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000060",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FORGE — Training & Readiness. Identifies capability gaps from incident patterns. Generates training recommendations.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000061",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "SHIELD — Insurance & Risk Transfer. On-demand insurance evidence packs. Premium reduction documentation. Insurer integration.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1c2d3e4-f567-4901-a234-000000000062",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Why this is a structural moat:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " TrackTik's AI is one model (ReportPro) bolted onto an existing flow. ADOS is an architecture — a Supervisor-Handoff Hybrid with shared memory bus and inter-agent communication protocols. To match us, TrackTik would need to rebuild their core platform. They will not, because their buyer (security company COO) does not yet demand it. By the time they do, we will own the category vocabulary.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "c4d5e6f7-8901-4234-b567-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "📣 MARKETING & POSITIONING (Three Angles, One Spine)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c4d5e6f7-8901-4234-b567-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Angle 1 — EVERYBODY INSIDE (Public-facing, ad creative, LinkedIn)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "c4d5e6f7-8901-4234-b567-000000000011",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Headline: \"Your guards protect the building. We protect everybody inside it.\"",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c4d5e6f7-8901-4234-b567-000000000012",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Visual: Wide lobby shot. Camera pulls back to reveal hundreds of people. Guards visible — protecting maybe 5%. Then green dots appear on every person on the premises.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c4d5e6f7-8901-4234-b567-000000000013",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Use for: Paid LinkedIn, billboard at IFSEC, ad in Security Journal, landing page hero.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "c4d5e6f7-8901-4234-b567-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Angle 2 — AGENTS IN THE ROOM (Enterprise buyer, partner channel)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "c4d5e6f7-8901-4234-b567-000000000021",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Headline: \"TrackTik gave you a report writer. We gave you nine specialists.\"",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c4d5e6f7-8901-4234-b567-000000000022",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Visual: Empty boardroom. Nine glowing seats fill — agent names appear. SENTINEL at the head.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c4d5e6f7-8901-4234-b567-000000000023",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Use for: COO meetings, Dardan-style partnerships, IFSEC stage talk, investor pitch.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "c4d5e6f7-8901-4234-b567-000000000030",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Angle 3 — BUILT FOR WHAT COMES NEXT (Public sector, councils, education, healthcare)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "c4d5e6f7-8901-4234-b567-000000000031",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Headline: \"Martyn's Law isn't coming. It's here. £18 million fines. Are you ready?\"",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c4d5e6f7-8901-4234-b567-000000000032",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Visual: Countdown clock. Manchester Arena memorial (respectfully shot). COMPASS UI activates: 'Site classified. Risk plan generated. Evidence chain active. Compliant.'",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c4d5e6f7-8901-4234-b567-000000000033",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Use for: Council procurement teams, NHS Trust security leads, university estates, BSIA conference, Government Digital Marketplace listing.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d6e7f890-1234-4567-a890-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🧬 SIX NEW FEATURES (Impossible For TrackTik To Ship)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d6e7f890-1234-4567-a890-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Each feature widens the moat. Each one requires a category TrackTik has not built for. Prioritised by build-effort vs commercial impact.",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d6e7f890-1234-4567-a890-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Feature 1 — The Public QR Layer (Already in product. Marketise it.)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000021",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Every site gets poster QR codes in lobbies, lifts, toilets, car parks. Anyone scans to access Report / SOS / Guidance. No app.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000022",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Why TrackTik can't: Their entire buyer is the security firm. Building a public-facing protection product breaks their business model.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000023",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Sales weapon: Andy can show a Cambridge-style client a Cambridge-branded QR poster in 48 hours. Tangible. Visceral.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d6e7f890-1234-4567-a890-000000000030",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Feature 2 — The Voice Journal (Build Q3 — high impact)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000031",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Anonymous voice reporting. 20-second clip. ARIA processes sentiment, urgency, classification. Distress detection triggers escalation.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000032",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Why TrackTik can't: Voice + sentiment + ARIA orchestration = 18 months of architecture work. They have no agentic foundation to plug it into.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d6e7f890-1234-4567-a890-000000000040",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Feature 3 — Visitor & Contractor Onboarding (Build Q3 — channel multiplier)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000041",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Every visitor signs in (digital pass). Receives a Safety Card with QR + 10-second protection briefing. They are now part of the network.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000042",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Why this is the killer: Client now sees Dardan as the firm that protects EVERY person who walks in. Not just the ones in uniform. Renewal pricing power increases.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d6e7f890-1234-4567-a890-000000000050",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Feature 4 — Threat Intelligence Subscription (Build Q4 — pure margin)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000051",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Quarterly sector reports per industry vertical. Education / Healthcare / Retail / Hospitality / Corporate. Generated by ORACLE from anonymised pooled data.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000052",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Sold as £15k/yr add-on. Pure margin. Pure moat. TrackTik doesn't have public-incident data to produce equivalent.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d6e7f890-1234-4567-a890-000000000060",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Feature 5 — The Insurer Channel via SHIELD (Q4 — Trojan horse distribution)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000061",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Direct integration with Marsh, Aon, Howden, AXA. Sites that deploy Absolute Defence get a verified premium discount.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000062",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Why this matters: Insurers become OUR distribution channel. They tell their clients to deploy us to lower premiums. Inverts the sales motion entirely.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d6e7f890-1234-4567-a890-000000000070",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Feature 6 — Behavioural Training Layer via FORGE (Q1 next year — retention engine)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000071",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Quarterly micro-training to ALL staff on a site, generated from THAT site's actual incident patterns by FORGE.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d6e7f890-1234-4567-a890-000000000072",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "TrackTik trains guards. We train everybody. Reception, security, retail floor, healthcare ward — all get site-specific defensive training.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e8f90123-4567-4890-b123-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🤝 PARTNER CHANNEL COMMERCIAL MODEL (The Dardan Template)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e8f90123-4567-4890-b123-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Why partner-led: Partners (Dardan, Securitas, Mitie, G4S, Corps Security, OCS) already have the contracts, the trust, the renewals. We supply the layer they cannot build. They sell. We power.",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e8f90123-4567-4890-b123-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Three commercial models (offer, let partner choose)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000021",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Co-brand — 'Dardan Sentinel, powered by Absolute Defence.' Both logos. Easiest entry. Lowest commitment from partner.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000022",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "White-label — 'Dardan Sentinel.' We are invisible. Partner pays us per site, sells at their own margin. Highest revenue ceiling per partner.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000023",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Referral — Partner introduces us to clients. Standard 20% revenue share for first 24 months. Lowest friction. Use for partners who don't want product ownership.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "e8f90123-4567-4890-b123-000000000030",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Pricing benchmark (per site / month, indicative)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000031",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Single site, standard: £400-£600/month. Includes ADOS platform, Public QR Layer, Acknowledgement Chain, Compliance reports.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000032",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Multi-site enterprise (10+ sites): £250-£400/site/month. Volume discount.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000033",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Threat Intelligence Subscription add-on: £15k/yr per sector report (Education, Healthcare, etc.)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000034",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Implementation: £0 for first pilot site (loss-leader). Standard £2,500 per subsequent site.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "e8f90123-4567-4890-b123-000000000040",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Dardan offer (specific, for the 17 April meeting)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000041",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Free 90-day pilot at one Dardan-protected site of Andy's choosing (suggest: an education or campus client where Martyn's Law urgency is highest)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000042",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Co-branded as 'Dardan Sentinel.' Joint deployment. Joint case study. Joint press release at end of pilot.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000043",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "At day 90: Dardan keeps the platform if pilot proves value. Standard partner pricing applies. Dardan gets first refusal on any other education-sector client we engage in next 12 months.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e8f90123-4567-4890-b123-000000000044",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "What Andy gets out of it: Walks into Philip Anthony with a signed innovation pilot, joint PR, and a credible new differentiator for renewals. Career win.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "f9012345-6789-4abc-c456-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⏱ THE 90-DAY EXECUTION PLAN (Four Movements)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "f9012345-6789-4abc-c456-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "MOVEMENT 1 — REFRAME (Days 0-30)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000011",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Goal: Every external surface speaks the new doctrine. Layer 3. ADOS. Powered by ADOS. Everybody on the premises.",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000012",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Rewrite homepage hero around 'Public & Personnel Protection Operating System. Powered by ADOS.'",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000013",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Rebuild Dardan-specific pitch deck around partner positioning ('on top of, not instead of')",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000014",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Produce 90-second explainer video using locked script. Send to Andy 24 hours before meeting.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000015",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Initiate ADOS trademark search (UK + EU + US). Domain capture: ados.security, getados.com, ados.ai if available.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000016",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Update LinkedIn (company + Ollie + leadership) with new positioning. 'Powered by ADOS' in bios.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000017",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Publish founder essay on LinkedIn / Medium: 'Why TrackTik Will Never Build Layer 3' — establishes thought leadership and category language.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "f9012345-6789-4abc-c456-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "MOVEMENT 2 — REINFORCE (Days 30-90 — Make ADOS visible in product)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000021",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Goal: A demo viewer can SEE the nine agents thinking. The organism becomes the centrepiece, not the dashboard.",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000022",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Ship the SENTINEL Neural Activity Strip on top of the dashboard. Agents light up as they process.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000023",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Ship Case Vault Forensic Timeline. Each incident reveals the agent chain with timestamps.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000024",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Ship Agent Confidence Badges on incident cards. 'ARIA 94% | COMPASS: RIDDOR applicable | GUARDIAN: response deployed.'",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000025",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Ship Predictive Risk Overlay on Zone Map. ORACLE's heatmap as a toggleable layer.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000026",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Ship ARIA orchestrator-voice. 'Consulting ORACLE for historical patterns…' Visible multi-agent chat.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "f9012345-6789-4abc-c456-000000000030",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "MOVEMENT 3 — RELEASE (Days 90-180 — New features that widen the moat)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000031",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Build Voice Journal (anonymous voice + sentiment via ARIA)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000032",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Build Visitor & Contractor Onboarding (digital pass + Safety Card + 10s briefing)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000033",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Productise the Public QR Layer (poster pack, Cambridge-style branded templates, install guide)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000034",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "First Threat Intelligence Subscription report shipped (Education sector — Q4)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "f9012345-6789-4abc-c456-000000000040",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "MOVEMENT 4 — REVENUE (Days 180-365 — Channel scale-out)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000041",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Dardan pilot complete. Public case study published. Joint press release.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000042",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Sign 2 more white-label partners (target: one mid-tier security firm + one regional)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000043",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "First insurer integration LOI signed (target: Marsh or Howden via SHIELD)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f9012345-6789-4abc-c456-000000000044",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Listed on Government G-Cloud / Digital Marketplace for public sector access",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "a1b2c3d4-9012-4345-c678-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "📊 SUCCESS METRICS (How We Know This Is Working)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "a1b2c3d4-9012-4345-c678-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "30 days: Andy / Dardan signed pilot LOI. New homepage live. ADOS trademark filed.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-9012-4345-c678-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "90 days: 5 frontend ADOS-visibility enhancements shipped. Pilot site live. First incident processed by full agent chain in production.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-9012-4345-c678-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "180 days: Voice Journal + Visitor Onboarding shipped. Dardan paid contract signed. 2 additional white-label partners in active pilot.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-9012-4345-c678-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "365 days: 25+ sites live across partner network. £500k+ ARR. First insurer LOI. Category language ('Layer 3', 'ADOS', 'Public & Personnel Protection') beginning to appear in trade press without our prompting.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b2c3d4e5-0123-4456-d789-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🚀 NEXT 7 DAYS (Concrete Actions)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b2c3d4e5-0123-4456-d789-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Day 1 — Approve this strategy. Lock the doctrine. Notify team.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2c3d4e5-0123-4456-d789-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Day 2 — I produce the Dardan-specific partner pitch deck (rebuild pitch deck around partner angle)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2c3d4e5-0123-4456-d789-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Day 3 — Draft the pre-meeting email to Andy with explainer video attached",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2c3d4e5-0123-4456-d789-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Day 4 — Build the one-page leave-behind PDF (CFO-friendly, three outcomes, partnership model)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2c3d4e5-0123-4456-d789-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Day 5 — Build the 7-minute live demo flow tailored to a Dardan-style education or healthcare client",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2c3d4e5-0123-4456-d789-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Day 6 — Initiate ADOS trademark search and domain capture",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2c3d4e5-0123-4456-d789-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Day 7 — Send the meeting kit to Andy. Confirm 17 April. Pre-frame the conversation with the video.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "🧩"
+    }
+  }
+}

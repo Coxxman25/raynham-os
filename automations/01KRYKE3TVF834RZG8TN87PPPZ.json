@@ -1,0 +1,68 @@
+{
+  "version": "2",
+  "flowTitle": "Reflex C — SLA Escalation Monitor",
+  "trigger": {
+    "valid": true,
+    "displayName": "Every 4 Hours — SLA Check",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-schedule",
+      "pieceVersion": "BLANK",
+      "triggerName": "schedule.hourly",
+      "input": {}
+    }
+  },
+  "actions": [
+    {
+      "name": "c8d9e0f1-a2b3-4567-cdef-890123456789",
+      "valid": false,
+      "displayName": "Find Pending High Priority Incidents",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "tasks.find",
+        "input": {
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "r7RYBwhZXTAuaaP7"
+          },
+          "rowsToReturn": "all_matching_rows",
+          "noTasksFoundBehavior": "continue"
+        }
+      }
+    },
+    {
+      "name": "d9e0f1a2-b3c4-5678-defa-901234567890",
+      "valid": false,
+      "displayName": "ARIA — Assess SLA Breach Risk",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "agent.ask",
+        "input": {
+          "input": "SCHEDULED SLA CHECK — Current time: {{ trigger[\"triggerTime\"] }}. Review the Incident Vault. Identify any incidents with status 'pending' or 'reviewing' that are high or critical severity. For each overdue incident, state the location code, how long it has been open, and recommend immediate escalation action. Format your response as a clear priority list for the Welfare Officer.",
+          "agentId": {
+            "type": "flow-template-variable-input-type",
+            "id": "01KRYKE3TVFYXGG1BDJ9JR1PP0"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "r7RYBwhZXTAuaaP7": {
+      "id": "r7RYBwhZXTAuaaP7",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    },
+    "01KRYKE3TVFYXGG1BDJ9JR1PP0": {
+      "id": "01KRYKE3TVFYXGG1BDJ9JR1PP0",
+      "rank": "k",
+      "type": "string",
+      "format": "taskade-space-agent-id"
+    }
+  }
+}

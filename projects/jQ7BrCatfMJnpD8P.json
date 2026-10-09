@@ -1,0 +1,1788 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "613685e4-ee1e-4cb4-aa16-817e3eabfae9",
+        "text": {
+          "ops": [
+            {
+              "insert": "🤝 Wilson James — Meeting Prep (Chief of Staff)"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "a24383a2-5078-4007-bb7b-abf458f82e75",
+            "text": {
+              "ops": [
+                {
+                  "insert": "WHO IS WILSON JAMES",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "9dee4413-b6e5-4860-992a-ad20faef3ece",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "30+ year UK company — security, aviation services, construction logistics",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a51acdb2-b27e-4a73-8c9a-111fc5de9cf0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5,000–6,000+ employees across UK and Europe",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b58a88ad-39a8-47f1-9f20-e48fb2a21d43",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "300+ clients — major airports, construction, events, facilities",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fa1380d1-bc30-4513-ada3-4fe419ecfda6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Recently won JFK Airport (New Terminal One) — passenger assistance services in the US",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cdbd463e-c994-4a0a-bdfc-e4684ce87f88",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Active at Birmingham Airport — one of their busiest contracts",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "feda046d-c39d-4a16-ad8e-bb1fda9d867d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "CEO: Mark Dobson. Today's contact: Chief of Staff (second in command of entire business)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "37ed3298-001d-41f6-b82b-fd060a17339b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "They have their own technology division — not just a security company, they invest in tech",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cacd0f80-ee83-44e0-a715-4b8c48dbb033",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2024 Annual Review: growing revenue, operating profits, expanding client base",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "9d43bcbf-57d4-4909-8cf3-01f7a0b18719",
+            "text": {
+              "ops": [
+                {
+                  "insert": "THEIR PAIN POINTS — WHAT KEEPS THEM UP AT NIGHT",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "180b0d20-4694-448d-a615-f77685ea06e8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Managing welfare and safety concerns across 6,000 dispersed staff in high-pressure environments",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "db49a192-9581-455b-8c1a-1546b2bf21cf",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Staff won't always report incidents through formal channels — fear of blame, culture, peer pressure",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6911aae-8f6f-47fd-bddf-a70d4d63ba3e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Insider threat is a rising problem in aviation — staff theft, misconduct, compliance breaches",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6a869b91-a2b2-49a2-ae2b-519e01843d93",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Multi-site operations — no consistent real-time picture of what is happening across locations",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "748f834c-5269-4ef9-ba15-78e026657715",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "SLA accountability — clients expect incident response times and audit trails",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "30a0362c-c348-41dd-999d-b3fd885156d4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Scaling to US (JFK) means managing cultural, operational and compliance differences",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c75416e0-c561-41fd-8981-d6a8dd4bc5b0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Demonstrating duty of care to end clients (airports, facilities) — they need proof, not promises",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "9b88d40b-9e80-4974-87bc-e337eb46d0c5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "HOW TO POSITION OUR PLATFORM",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d175dd2c-4682-47c6-ac0a-164dc26b0324",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The One-Line Pitch",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "70ec80b9-e508-465f-978c-4b2261a74d92",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"We've built a real-time safety intelligence platform that gives your teams on the ground a voice — and gives leadership an instant picture of what's happening, where, and how serious it is.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "aefbe1bc-83db-4945-b99e-0ae10bb7baea",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Three Angles That Land",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4381173b-87bc-439c-bdd0-d2f1f272858b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1. PEOPLE — Anonymous reporting via QR code means your staff speak up without fear. No app to download, no login, no trail back to them.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "111b9b07-3462-4be1-864c-b57a1da04bea",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2. OPERATIONS — Live dashboard shows every incident, by severity, by zone, by time. Your operations team stops flying blind across multi-site.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5dae0385-1904-4ce0-b36e-81e68b369efb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3. PROOF — Full audit trail, SLA timers, AI-powered case management. You can show your clients exactly how you responded and when.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "be829eb3-56a3-4e4e-86f4-1d8907a11d51",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Taskade Genesis Angle (Backend Power)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "afa552ed-b534-4d37-b24d-5c9a95d20257",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"The platform is built on Taskade Genesis — an enterprise AI workspace. That means every incident, case, and insight is stored, searchable, and can be turned into automated workflows. It's not just a reporting tool — it's a living intelligence system that gets smarter the more it's used.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a2e62d5c-905b-4bd7-ae16-5ddb1913daeb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Automations: when a critical incident is flagged, the right person is notified instantly — no manual chain of command needed",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c6d6d7ad-96a0-4832-8439-0a2798e48f2d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AI (ARIA): trained on all case data — can brief shift supervisors, suggest escalation actions, spot patterns before they become problems",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7146a48d-ab7c-4f53-9fe9-7fbe1f181f45",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Scales instantly — same system works for Birmingham Airport today and JFK tomorrow, no rebuild",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "457e350c-8e39-49eb-8684-ba88dd22afad",
+            "text": {
+              "ops": [
+                {
+                  "insert": "LIKELY QUESTIONS + HOW TO ANSWER THEM",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ed15a699-853a-4466-9ff0-ebbbb0f551bc",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"What problem does this actually solve for us?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "efaf2512-8f0a-4427-a646-309bc0656d93",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Right now, incidents happen that never get formally reported — staff don't feel safe speaking up, or the process is too slow. By the time leadership hears about something, it's already a problem. We change that. Your people can flag something in 30 seconds from any location, anonymously. You see it instantly. You act before it escalates.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "07983a83-ed4b-4863-a466-e4ee092a6f01",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"How is this different from what we already have?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "68d245a7-55ba-4ed6-97ec-59bbbdafa676",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Most systems are built for after the fact — logging what happened. This is built for right now. The live map, the AI triage, the SLA countdown — it's a command centre, not a spreadsheet. And because it's built on an AI platform, it learns and improves with your data.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "05ea7a83-b686-4dd2-921b-0223a3f62d3b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Can this work at scale — across airports, multiple sites?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ac10a67d-014f-493b-8b9d-0b84276fb7b8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Yes — by design. You can have one platform covering Birmingham, JFK, and every other site simultaneously. Each site has its own zones, its own QR codes, its own reporting — but leadership sees everything in one place. No additional installs, no extra licences per site.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33367a63-a06d-44b8-aea0-021483e4022f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"What does implementation look like? How long?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a805f3f7-45d6-440f-8237-b0ac3462b505",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"We can have a pilot site live within days — not months. There's no software to install for users, just QR codes placed in locations. The management dashboard is web-based. We configure your zones, your categories, your escalation rules — then it's live. We can start with one site and prove value before rolling out.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "471863bd-9368-4982-973b-327959bfbaf2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"What does it cost?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"We price this based on scale and configuration. For an organisation of your size across multiple sites, we'd put together a tailored proposal. What I'd suggest today is agreeing to run a pilot — let the numbers speak first.\" [Do NOT commit to a price in the room — ask to follow up]",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Who else is using this?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"We've built this specifically for the security and facilities management space. Wilson James would be our flagship enterprise partner — which also means you shape how it evolves. We're not selling you an off-the-shelf box, we're building alongside you.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Is this GDPR compliant? Where does the data go?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"The platform is anonymous by design — we collect zero personal data from reporters. No name, no email, nothing that identifies the individual. Because there's no personal data, the GDPR exposure is minimal. Infrastructure is enterprise-grade, encrypted end-to-end, and we can provide full data processing documentation on request.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "6b83a1e2-0012-4b3a-9c0d-000000000006",
+            "text": {
+              "ops": [
+                {
+                  "insert": "QUESTIONS YOU SHOULD ASK THEM",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"How are your teams currently reporting welfare or safety concerns on site today?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000008",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"When an incident happens at one of your sites, how quickly does leadership typically know about it?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000009",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"With JFK coming online — how are you thinking about keeping operational visibility consistent across UK and US?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Are your clients — the airports — asking you for better reporting or incident data as part of their contracts?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"What would success look like for you in the first 90 days of something like this?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Who else internally would need to be involved in a decision like this?\" [Identify the real decision maker]",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "6b83a1e2-0012-4b3a-9c0d-000000000013",
+            "text": {
+              "ops": [
+                {
+                  "insert": "DEMO FLOW — WHAT TO SHOW & IN WHAT ORDER",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Open the live map — show zones, real-time incident pins, severity colour coding. Say: \"This is what your operations team sees right now.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Show the QR code on your phone — scan it, fill in a concern in 20 seconds. Watch it appear live on the map. Say: \"This is what your staff see — no app, no login, 30 seconds.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Show the critical alert notification appearing — say: \"The right person gets notified instantly. No waiting for shift handover.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000017",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Show ARIA — ask it a question about the incident. Say: \"This is your AI safety lead. It knows every case, suggests actions, and can brief anyone in seconds.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000018",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Show the analytics / stats panel — 6 total, 1 critical, 2 high. SLA timer. Say: \"This is what you show your client when they ask 'how did you handle it?'\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "6b83a1e2-0012-4b3a-9c0d-000000000019",
+            "text": {
+              "ops": [
+                {
+                  "insert": "HOW TO CLOSE THE MEETING",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Do NOT try to close a sale in this meeting — the goal is to agree a pilot",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000021",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Suggested close: \"What I'd love to do is pick one site — Birmingham or wherever makes sense — and run this for 30 days. No big commitment. Let the data tell the story.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000022",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ask for a follow-up: \"Who else should be part of the next conversation — operations, HR, IT?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000023",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Send follow-up within 2 hours: brief summary, what was shown, proposed next step, security/GDPR doc",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "6b83a1e2-0012-4b3a-9c0d-000000000024",
+            "text": {
+              "ops": [
+                {
+                  "insert": "KEY THINGS TO REMEMBER IN THE ROOM",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000025",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Chief of Staff thinks strategically — connect everything back to scale, risk, and reputation",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000026",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "They are expanding internationally — position this as infrastructure for that growth, not just a reporting tool",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000027",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Their end clients (airports) hold them accountable — help them see this makes THEM look better to their clients",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000028",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Don't oversell the tech — let the demo do the work. Keep your language simple and outcome-focused",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000029",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If they ask something you don't know: \"Great question — I'll confirm that in writing after the meeting\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6b83a1e2-0012-4b3a-9c0d-000000000030",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Be confident — you have a working, live product. Very few people walk in with that.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "⚗️"
+    }
+  },
+  "pinnedAt": "2026-05-12T12:11:24.815Z"
+}

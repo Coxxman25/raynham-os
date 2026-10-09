@@ -1,0 +1,1024 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "3e857ddd-ef10-4c13-a2f2-f894b57438a4",
+        "text": {
+          "ops": [
+            {
+              "insert": "Genesis Farm B2B Commercial Architecture"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "bf965c50-53b1-4cd9-bfc6-7f39f1aebfa8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Recommended tenancy model",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "28a103a3-73de-4f61-8bb1-35435051779b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Use a hybrid architecture: one central Genesis Farm commercial control plane and one dedicated Taskade space plus app per customer organisation.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fb3510e2-bceb-4ec7-b9ea-ea4b64027f2e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Do not place multiple farms with shared operational data into one Genesis app using only tenantId filtering. Client-side filtering is not a security boundary.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "86e7d71d-1dd3-43cd-8176-71a4413bdac0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Dedicated customer spaces fit the high-touch onboarding model, reduce cross-customer exposure, preserve custom configuration, and make offboarding and data ownership clearer.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "93fdc020-77ce-4108-8cf4-0af6ef56711f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Authentication and authorisation findings",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "85adc079-f439-4d21-a980-5ad111707e9a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "GenesisAuth supplies app-specific email sign-in, managed sessions and App User administration. App Users are separate from Taskade workspace members and do not consume workspace seats.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c82a073d-cdf3-4018-af68-c43420c5c2c8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The current Raynham app does not wrap its routes in GenesisAuth, so app-level authentication is not currently implemented.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "29b24d33-7c28-4199-a5cf-645bfc987a95",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Gateway row scoping supports private per-user writable rows and shared read-only projects. It does not natively provide organisation-wide shared writable rows with manager-versus-worker role policies.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "26915e51-4210-4ecd-a581-3a5414ad6750",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Taskade SAML and SCIM govern Taskade workspace members, not Genesis App Users. Do not sell customer app SSO or SCIM until a verified app-user identity path exists.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "4bd9acc2-6a6f-4a94-98c7-298f143461ed",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Billing and entitlement model",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c37398c5-854d-482a-aa6b-071fb8b1781b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Use Stripe as payment authority and merchant processor. Taskade can create checkout sessions, payment links, customers, products, prices, subscriptions, invoices and refunds, and react to payment and subscription events.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1c672c4e-7c6f-4330-a256-b7fcb771797b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Never store card details in Taskade. Mirror only Stripe customer, subscription, price, status and entitlement identifiers needed for operations.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "25c56ddb-9628-46de-93f9-329a24ebdcc1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Commercial contract is Spatial Core plus optional modules plus onboarding and implementation services. Stripe subscription line items map to module entitlements.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "96b829a2-ba6d-48e0-9221-0a83a761a2a3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AI must have an included allowance and paid overage or credit packs. Do not promise unlimited intelligence because Taskade AI usage limits can stop AI-dependent workflows.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "074ac7f0-f829-45c2-b316-08f7e71ddcd0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Control plane and tenant plane",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "9be5918f-db5c-4f40-ab77-64f943c14607",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Central control plane holds organisations, contracts, Stripe references, plan catalogue, module entitlements, tenant deployment registry, usage ledger, onboarding status and support state. It must not hold farm operational records.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "99dcb596-553b-4343-9ff6-4904ea089dcb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Each customer tenant plane holds that customer's spatial core, people, safety, work, assets, intelligence, files, automations and agents in a dedicated space and published app.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ffac662b-2bb2-4b10-a542-4f8331b57fa9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Taskade off",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "i"
+                    },
+                    {
+                      "insert": "c",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "ial"
+                    },
+                    {
+                      "insert": "ly",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " "
+                    },
+                    {
+                      "insert": "sup",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "po"
+                    },
+                    {
+                      "insert": "rt",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "s"
+                    },
+                    {
+                      "insert": " cl",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "oning "
+                    },
+                    {
+                      "insert": "a",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " "
+                    },
+                    {
+                      "insert": "G",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "e"
+                    },
+                    {
+                      "insert": "nesis",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " a"
+                    },
+                    {
+                      "insert": "pp",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " "
+                    },
+                    {
+                      "insert": "wi",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "t"
+                    },
+                    {
+                      "insert": "h its Wo",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "r"
+                    },
+                    {
+                      "insert": "kspac",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "e"
+                    },
+                    {
+                      "insert": " DNA,",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " in"
+                    },
+                    {
+                      "insert": "clud",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "in"
+                    },
+                    {
+                      "insert": "g",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " pro"
+                    },
+                    {
+                      "insert": "je",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "c"
+                    },
+                    {
+                      "insert": "ts, ag",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "e"
+                    },
+                    {
+                      "insert": "nt",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "s"
+                    },
+                    {
+                      "insert": " and",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " "
+                    },
+                    {
+                      "insert": "a",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "utomation"
+                    },
+                    {
+                      "insert": "s w",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "i"
+                    },
+                    {
+                      "insert": "th",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " "
+                    },
+                    {
+                      "insert": "thei",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "r"
+                    },
+                    {
+                      "insert": " ",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "s"
+                    },
+                    {
+                      "insert": "etu",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "p"
+                    },
+                    {
+                      "insert": " ",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "a"
+                    },
+                    {
+                      "insert": "nd",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " "
+                    },
+                    {
+                      "insert": "optiona",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "l"
+                    },
+                    {
+                      "insert": " curr",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "e"
+                    },
+                    {
+                      "insert": "n",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "t "
+                    },
+                    {
+                      "insert": "data. This m",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "a"
+                    },
+                    {
+                      "insert": "k",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "es "
+                    },
+                    {
+                      "insert": "dedic",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "a"
+                    },
+                    {
+                      "insert": "te",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "d "
+                    },
+                    {
+                      "insert": "cust",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "o"
+                    },
+                    {
+                      "insert": "m",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "e"
+                    },
+                    {
+                      "insert": "r workspa",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "c"
+                    },
+                    {
+                      "insert": "es",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " "
+                    },
+                    {
+                      "insert": "f",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "ea"
+                    },
+                    {
+                      "insert": "sible. I",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "n"
+                    },
+                    {
+                      "insert": "i",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "t"
+                    },
+                    {
+                      "insert": "ial",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " provisioning "
+                    },
+                    {
+                      "insert": "should",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " "
+                    },
+                    {
+                      "insert": "s",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "t"
+                    },
+                    {
+                      "insert": "ill be",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " con"
+                    },
+                    {
+                      "insert": "t",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "r"
+                    },
+                    {
+                      "insert": "oll",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "ed "
+                    },
+                    {
+                      "insert": "until ",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "c"
+                    },
+                    {
+                      "insert": "redenti",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "a"
+                    },
+                    {
+                      "insert": "ls, ",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "p"
+                    },
+                    {
+                      "insert": "u",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "b"
+                    },
+                    {
+                      "insert": "lish",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "i"
+                    },
+                    {
+                      "insert": "ng, interna",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "l"
+                    },
+                    {
+                      "insert": " references, clean data, t",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "i"
+                    },
+                    {
+                      "insert": "er en",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "ti"
+                    },
+                    {
+                      "insert": "tl",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "e"
+                    },
+                    {
+                      "insert": "ment",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "s and u"
+                    },
+                    {
+                      "insert": "pgrade",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " "
+                    },
+                    {
+                      "insert": "pr",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "o"
+                    },
+                    {
+                      "insert": "cedures have",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " be"
+                    },
+                    {
+                      "insert": "en",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": " "
+                    },
+                    {
+                      "insert": "tested ac",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "ro"
+                    },
+                    {
+                      "insert": "s",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "s"
+                    },
+                    {
+                      "insert": " a r",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "e"
+                    },
+                    {
+                      "insert": "al clone",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "8cc2e663-cd61-40bd-87f4-a9f87485ece3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Security boundary and scale decision",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "1cb407e0-79bb-46bd-9733-0adcd4b08bb2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Taskade-native architecture is suitable for managed pilots and dedicated customer deployments. Fine-grained secure role access to shared writable tenant data is the principal gap.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2be03f39-678e-48af-a6e3-7d313d754223",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Before broad self-serve scale, choose between constrained Taskade-native access patterns and an external policy/data service for organisation membership, role enforcement, tenant-wide shared writes, billing webhooks and automated provisioning.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "🔥"
+    }
+  }
+}
