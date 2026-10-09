@@ -1,0 +1,532 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "072b27ed-de78-4334-98b9-0ab8ce8fe270",
+        "text": {
+          "ops": [
+            {
+              "insert": "Risk Zones"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "c3000001-0001-0001-0001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Critical Cluster — "
+                },
+                {
+                  "insert": "WJ",
+                  "attributes": {}
+                },
+                {
+                  "insert": "-"
+                },
+                {
+                  "insert": "A",
+                  "attributes": {}
+                },
+                {
+                  "insert": "R"
+                },
+                {
+                  "insert": "R",
+                  "attributes": {}
+                },
+                {
+                  "insert": "-001 "
+                },
+                {
+                  "insert": "Term",
+                  "attributes": {}
+                },
+                {
+                  "insert": "i"
+                },
+                {
+                  "insert": "nal",
+                  "attributes": {}
+                },
+                {
+                  "insert": " 1"
+                },
+                {
+                  "insert": " Departures",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@rzLT": 52.2348,
+              "@rzLN": -0.5234,
+              "@rzRD": 60,
+              "@rzIC": 4,
+              "@rzSV": {
+                "type": "Select",
+                "optionId": "critical"
+              }
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "c74eb140-fb22-456d-8cd9-8f2a1935636e": {
+            "id": "c74eb140-fb22-456d-8cd9-8f2a1935636e",
+            "fieldPath": "/attributes/@rzLT",
+            "rank": "V"
+          },
+          "2b8663f8-67f4-4059-b0c8-af7c3b0cd1d2": {
+            "id": "2b8663f8-67f4-4059-b0c8-af7c3b0cd1d2",
+            "fieldPath": "/attributes/@rzLN",
+            "rank": "k"
+          },
+          "3bedf1e4-0f9f-4ba7-a0a8-a3b5484bff23": {
+            "id": "3bedf1e4-0f9f-4ba7-a0a8-a3b5484bff23",
+            "fieldPath": "/attributes/@rzRD",
+            "rank": "s"
+          },
+          "8a9f02d2-68ae-43b5-84e3-fe4a9be23d25": {
+            "id": "8a9f02d2-68ae-43b5-84e3-fe4a9be23d25",
+            "fieldPath": "/attributes/@rzIC",
+            "rank": "w"
+          },
+          "6974f8eb-06c7-40cd-b463-be53befe3cc9": {
+            "id": "6974f8eb-06c7-40cd-b463-be53befe3cc9",
+            "fieldPath": "/attributes/@rzSV",
+            "rank": "y"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "b1b4831e-070d-4ac0-bbf9-743fbb7a340c": {
+            "id": "b1b4831e-070d-4ac0-bbf9-743fbb7a340c",
+            "fieldPath": "/attributes/@rzLT",
+            "rank": "V"
+          },
+          "1863c1dd-1014-44ef-80aa-1665bca77de4": {
+            "id": "1863c1dd-1014-44ef-80aa-1665bca77de4",
+            "fieldPath": "/attributes/@rzLN",
+            "rank": "k"
+          },
+          "50b785b4-f88a-4ae4-8361-6340654683e3": {
+            "id": "50b785b4-f88a-4ae4-8361-6340654683e3",
+            "fieldPath": "/attributes/@rzRD",
+            "rank": "s"
+          },
+          "c3c4f71e-d8a7-4624-b18c-50a49640bd25": {
+            "id": "c3c4f71e-d8a7-4624-b18c-50a49640bd25",
+            "fieldPath": "/attributes/@rzIC",
+            "rank": "w"
+          },
+          "94a52809-1093-4919-aeda-d89ffd5adaeb": {
+            "id": "94a52809-1093-4919-aeda-d89ffd5adaeb",
+            "fieldPath": "/attributes/@rzSV",
+            "rank": "y"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "aa1e405f-c354-47f0-a160-2fd38f17b9e0": {
+            "id": "aa1e405f-c354-47f0-a160-2fd38f17b9e0",
+            "fieldPath": "/attributes/@rzLT",
+            "rank": "z"
+          },
+          "2d6d8487-dfe2-4d05-b734-992f243fe631": {
+            "id": "2d6d8487-dfe2-4d05-b734-992f243fe631",
+            "fieldPath": "/attributes/@rzLN",
+            "rank": "zV"
+          },
+          "59cfe644-c032-4937-a509-073af031bb0f": {
+            "id": "59cfe644-c032-4937-a509-073af031bb0f",
+            "fieldPath": "/attributes/@rzRD",
+            "rank": "zk"
+          },
+          "4d2b25ee-278b-4387-b8b5-89ef1a744835": {
+            "id": "4d2b25ee-278b-4387-b8b5-89ef1a744835",
+            "fieldPath": "/attributes/@rzIC",
+            "rank": "zs"
+          },
+          "aa5e7572-fb55-41cb-aa9b-f3b036f78ef4": {
+            "id": "aa5e7572-fb55-41cb-aa9b-f3b036f78ef4",
+            "fieldPath": "/attributes/@rzSV",
+            "rank": "zw"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "29ddf510-8f60-44bb-ab4e-0343410f08da": {
+            "id": "29ddf510-8f60-44bb-ab4e-0343410f08da",
+            "fieldPath": "/attributes/@rzLT",
+            "rank": "V"
+          },
+          "afaf5a01-e75b-4e82-b3b5-db93fc69723b": {
+            "id": "afaf5a01-e75b-4e82-b3b5-db93fc69723b",
+            "fieldPath": "/attributes/@rzLN",
+            "rank": "k"
+          },
+          "253607c1-f2b5-4779-92ad-86ff4638406a": {
+            "id": "253607c1-f2b5-4779-92ad-86ff4638406a",
+            "fieldPath": "/attributes/@rzRD",
+            "rank": "s"
+          },
+          "c69f17e0-2645-46ef-aaa0-9bd328050712": {
+            "id": "c69f17e0-2645-46ef-aaa0-9bd328050712",
+            "fieldPath": "/attributes/@rzIC",
+            "rank": "w"
+          },
+          "47f0f178-7d20-479c-876f-bd89664b5a32": {
+            "id": "47f0f178-7d20-479c-876f-bd89664b5a32",
+            "fieldPath": "/attributes/@rzSV",
+            "rank": "y"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "7dda65c8-589b-4a63-a571-b90539b13e0b": {
+            "id": "7dda65c8-589b-4a63-a571-b90539b13e0b",
+            "fieldPath": "/attributes/@rzLT",
+            "rank": "V"
+          },
+          "63bb2d74-189e-4136-928e-571d99b6d6d3": {
+            "id": "63bb2d74-189e-4136-928e-571d99b6d6d3",
+            "fieldPath": "/attributes/@rzLN",
+            "rank": "k"
+          },
+          "85a6dbfa-a19a-4f19-81a8-80d37c4523f1": {
+            "id": "85a6dbfa-a19a-4f19-81a8-80d37c4523f1",
+            "fieldPath": "/attributes/@rzRD",
+            "rank": "s"
+          },
+          "896e01cd-8f1f-4b7c-b24a-ef6a9eea0080": {
+            "id": "896e01cd-8f1f-4b7c-b24a-ef6a9eea0080",
+            "fieldPath": "/attributes/@rzIC",
+            "rank": "w"
+          },
+          "76319df1-f78d-40e5-968e-b35507d01eb8": {
+            "id": "76319df1-f78d-40e5-968e-b35507d01eb8",
+            "fieldPath": "/attributes/@rzSV",
+            "rank": "y"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "f8cab4a0-1636-4a90-ba2b-ce177ebcf38f": {
+            "id": "f8cab4a0-1636-4a90-ba2b-ce177ebcf38f",
+            "fieldPath": "/attributes/@rzLT",
+            "rank": "z"
+          },
+          "b1c33f17-1dc2-4f97-b058-a7c18ea0fd60": {
+            "id": "b1c33f17-1dc2-4f97-b058-a7c18ea0fd60",
+            "fieldPath": "/attributes/@rzLN",
+            "rank": "zV"
+          },
+          "196d4001-5c85-412c-b5d6-4ff7c249e226": {
+            "id": "196d4001-5c85-412c-b5d6-4ff7c249e226",
+            "fieldPath": "/attributes/@rzRD",
+            "rank": "zk"
+          },
+          "14db6035-1447-4021-9e83-8daffa9827e6": {
+            "id": "14db6035-1447-4021-9e83-8daffa9827e6",
+            "fieldPath": "/attributes/@rzIC",
+            "rank": "zs"
+          },
+          "ada289ba-9e5f-433c-917c-25e3f90252bc": {
+            "id": "ada289ba-9e5f-433c-917c-25e3f90252bc",
+            "fieldPath": "/attributes/@rzSV",
+            "rank": "zw"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@rzLT": {
+        "type": "number",
+        "displayName": "Center Latitude",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@rzLN": {
+        "type": "number",
+        "displayName": "Center Longitude",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@rzRD": {
+        "type": "number",
+        "displayName": "Radius Meters",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@rzIC": {
+        "type": "number",
+        "displayName": "Incident Count",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@rzSV": {
+        "type": "Select",
+        "displayName": "Zone Severity",
+        "options": {
+          "medium": {
+            "id": "medium",
+            "name": "Medium",
+            "rank": "0",
+            "color": "#f59e0b"
+          },
+          "high": {
+            "id": "high",
+            "name": "High",
+            "rank": "1",
+            "color": "#f43f5e"
+          },
+          "critical": {
+            "id": "critical",
+            "name": "Critical",
+            "rank": "2",
+            "color": "#9f1239"
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "avatar": {
+      "type": "emoji",
+      "value": "⚗️"
+    }
+  }
+}

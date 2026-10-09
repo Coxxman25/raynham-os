@@ -1,0 +1,4487 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "aa000001-0001-4000-a000-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "GuardLink QR System — Competitive Advantage Analysis"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b1000001-aaaa-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "1. The Core Thesis — The Access Barrier Is Everything",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c1000001-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Every competitor — Everbridge, Citizen, Bond — requires an app download, account creation, or both. This single friction point eliminates 70-90% of potential reporters.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-adv"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c1000002-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "GuardLink QR system: Scan → Report → Done. 30 seconds. No app. No login. No account. No personal data collected from the reporter. Works on any smartphone camera.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-adv"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c1000003-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Why this matters: A visitor who witnesses aggression in A&E will never download Everbridge. A retail customer who sees shoplifting will never create a Citizen account. A parent at a school event will never install Bond. But they WILL scan a QR code on the wall.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-scenario"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c1000004-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The intelligence gap: Competitors only hear from pre-registered users (staff with the app installed). We hear from EVERYONE in the building — staff, visitors, patients, parents, contractors, delivery drivers, members of the public. That's 5-10x more intelligence per site.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-adv"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c1000005-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Anonymous by design: Reporters don't need to identify themselves. This removes fear of retaliation — Culture Shift 2026 research shows UK employees are scared to speak up. QR anonymity solves this at the architecture level, not the policy level.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-data"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c1000006-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Zone-aware: Each QR code is linked to a specific zone/location. When someone scans it, the system automatically knows WHERE the report came from — no GPS tracking, no location permissions needed. The physical placement of the QR IS the geo-intelligence.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-high"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-adv"
+                  }
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c1000007-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Deployment speed: Print QR posters. Stick them on walls. System is live. No IT integration. No MDM rollout. No staff onboarding sessions. No app store approvals. 48 hours from contract to operational.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-adv"
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b2000001-aaaa-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "2. Everbridge — Mass Notification for the Boardroom",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d2000001-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "How Everbridge Works",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e2000001-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Everbridge 360 is a Critical Event Management (CEM) platform. Three tiers: Core, Professional, Enterprise. Taken private by Thoma Bravo in 2023 for $1.5B.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-data"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000002-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Core function: Mass notification — sends alerts to thousands of employees via SMS, email, voice call, push notification, and desktop pop-up. Used by Fortune 500, government agencies, and public safety (IPAWS integration for national alerts in US).",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000003-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Visual Command Center aggregates threat intelligence feeds (weather, civil unrest, terror alerts) onto a global map. Security operations teams monitor the dashboard and decide when to broadcast alerts.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000004-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Customers include Sanofi, Goldman Sachs, HSBC, Siemens. Claims 358% ROI. Recognised as Forrester Wave Leader in CEM.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d2000002-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Their Access Model — The Barrier",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e2000005-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "REQUIRES: Everbridge mobile app download (iOS/Android) + account creation + organisation registration code. Employees must download the app, create an account, and enter their organisation's unique code.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-critical"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000006-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Employees must provide personal mobile numbers to receive alerts. This creates a GDPR friction point — staff may refuse to share personal numbers. Organisations then have to issue company phones or accept coverage gaps.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-high"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000007-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Visitors, contractors, patients, and members of the public have ZERO access. They cannot report. They cannot receive alerts. They are invisible to the system.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-critical"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000008-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Implementation: 6-12 months for enterprise deployment. Requires dedicated admin team. Per-user licensing means every new employee needs provisioning.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-high"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000009-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "UX described as 'workflows buried under layers of clicks' — designed for security operations professionals, not frontline shop workers or nurses.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d2000003-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Pricing — Why They're Not Our Market",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e2000010-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Small-to-mid deployments (500-2,000 contacts): $15,000-$60,000/year (Vendr 2026 data).",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-data"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000011-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Enterprise deployments (10,000+ contacts with multiple modules): $100,000-$500,000+/year. Setup fees, customisation, training all extra. GSA pricing shows 6.85% setup fee on annual contract value.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-data"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000012-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Our Starter tier at £199/mo (£2,388/yr) is 6-25x cheaper than Everbridge's smallest deployment. Our Professional at £499/mo is still 1/10th the cost. And we deploy in 48 hours, not 6-12 months.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-critical"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-adv"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d2000004-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What Everbridge Cannot Do (That We Can)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e2000013-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No in-the-moment response guidance — broadcasts alerts but never tells the person what to DO",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000014-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No QR-triggered reporting — every report requires a logged-in user with the app",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000015-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No anonymous reporting channel — reporter identity is always known to the system",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000016-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No de-escalation training or situational scripts",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000017-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No building-level zone heatmap — their Visual Command Center shows macro threats (earthquakes, weather, unrest), not which corridor in your hospital has the most aggression incidents",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000018-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No AI triage of individual incidents — no ARIA equivalent",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000019-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No voice journal / anonymous wellbeing channel",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000020-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No UK safeguarding compliance engine (Martyn's Law, KCSIE, CQC, HSE)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d2000005-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Talk Track — \"We Already Use Everbridge\"",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-talk"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e2000021-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "\"Everbridge is excellent at what it does — telling your security team about macro events. But can I ask: when a member of the public threatens your receptionist at 6pm on a Tuesday, what does Everbridge tell HER to do? ... Nothing. Because it's not designed for that. We are.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000022-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "\"We don't compete with Everbridge. We complete what Everbridge can't do. They handle the broadcast. We handle the person. Many of our clients run both — Everbridge for mass alerts, Absolute Defence for frontline protection.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e2000023-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "\"And respectfully — you're paying six figures a year for a system your frontline staff probably don't even have installed on their phones. Our QR code works for everyone in the building. Including the visitor who just witnessed something your staff missed.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b3000001-aaaa-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "3. Citizen — The Street Scanner That Stops at the Door",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d3000001-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "How Citizen Works",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e3000001-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Citizen is a consumer safety app with 10M+ users. It monitors police/fire radio dispatch and CAD (Computer-Aided Dispatch) feeds in US cities and pushes real-time location-based alerts to nearby users.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-data"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000002-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Claims to deliver alerts up to 45 minutes before traditional news or emergency systems. Covers 20+ incident categories (shooting, fire, robbery, assault, missing person, etc).",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000003-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Users can livestream incidents — creating a crowdsourced video surveillance network. Citizen now pays users to go live on the platform. NYPD can access user-generated videos.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000004-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Recently expanded to 15 new US cities (March 2026). Launched Citizen Enterprise — feeds alerts into business tools like Slack/Teams for corporate security teams to monitor asset zones.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000005-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Targeting $42M in latest fundraising round (PitchBook). Enterprise pricing undisclosed — demo/quote required.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-data"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d3000002-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Their Access Model — The Barrier",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e3000006-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "REQUIRES: App download (iOS/Android) + account creation + location permissions enabled. Must allow continuous background location access for alerts to work.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-critical"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000007-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "US-only. No UK police/fire radio feeds. No UK emergency service integration. No UK regulatory compliance. Useless in every sector we target.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-critical"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000008-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Monitors PUBLIC incidents (street-level crimes, fires, accidents) from emergency dispatch. Has zero visibility into what happens INSIDE buildings, offices, hospitals, schools, or retail stores.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-critical"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000009-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Crowdsourced content risk — user-generated reports and livestreams can spread misinformation. Has faced criticism for inciting vigilante behaviour and causing panic from unverified alerts.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d3000003-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What Citizen Cannot Do (That We Can)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e3000010-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No response guidance — tells you WHAT is happening nearby but never tells you what to DO about it",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000011-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No internal incident reporting — designed for public/street-level events only",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000012-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No anonymous reporting channel — all reports tied to user accounts",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000013-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No compliance engine — no audit trail, no HSE/Ofsted/CQC reporting, no Martyn's Law alignment",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000014-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No building/zone-level intelligence — cannot tell you which corridor, ward, or floor has problems",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000015-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No training, no SOS protocol, no wellbeing channel, no AI triage, no acknowledgement chain, no UK presence",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d3000004-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Talk Track — \"We've Looked at Citizen\"",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-talk"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e3000016-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "\"Citizen is a street scanner. It tells you there's a stabbing three blocks away. Useful — but it can't tell your nurse what to do when an aggressive patient is IN her ward right now. We can.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000017-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "\"Citizen doesn't operate in the UK. It has no integration with UK emergency services. It produces no compliance data your regulator would accept. And it requires every user to download an app and share their location permanently.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e3000018-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "\"The fundamental difference: Citizen watches the street outside your building. We protect the people inside it. They aggregate public incidents. We manage YOUR incidents — with guidance, accountability, and a compliance trail.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b4000001-aaaa-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "4. Bond (OBAI) — The $100M Personal Bodyguard App",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d4000001-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "How Bond Works",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e4000001-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Bond is an AI-powered 'Preventative Personal Security' platform. NASDAQ-listed as OBAI (Feb 2026). $100M+ invested. 28 countries. 1.4M+ security service requests handled. App Store 4.8/5 rating.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-data"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000002-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Combines AI with 24/7 human Personal Security Agents in command centres. Core features: Ready An Agent (panic hold — press and hold screen to put a security agent on standby), Video Monitor Me (live video watched by a human agent), Track Me On The Go (journey monitoring to destination), Send Me A Car (dispatches rideshare), Siren (phone alarm with lights/sound), Location Services (family real-time tracking).",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000003-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Heavyweight advisory board: former US Secret Service director, former NYPD commissioner, former FBI deputy director, former Israeli VIP protection head. Uses this for credibility with enterprise buyers.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000004-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Enterprise wins: Top-3 US telecom, $300B+ pharma leader, trillion-dollar multinational, European fintech firms. $250K ARR from single pharma deal. Potential $10M+ ARR from largest pilot.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-data"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d4000002-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Their Access Model — The Barrier",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e4000005-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "REQUIRES: App download (iOS/Android) + account creation + subscription payment. Every feature requires the user to have the app open and active on their phone.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-critical"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000006-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Consumer pricing: Basic (free — siren + location only). Premium $50/mo ($450/yr). Premium Plus $100/mo ($900/yr). Enterprise pricing is per-employee, custom quote.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-critical"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-data"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000007-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "At $50/mo per user, protecting 200 retail staff costs $120,000/year. For the same estate, Absolute Defence costs sub-£5,000/year. That is a 24x cost difference.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-critical"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-adv"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000008-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Designed for INDIVIDUALS outside buildings — walking home, commuting, lone travel. Not designed for organisational premises protection. Has no concept of building zones, site maps, or organisational risk patterns.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-critical"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000009-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Human-agent model doesn't scale cost-effectively. Every 'Ready An Agent' or 'Video Monitor Me' session requires a paid human security agent in the command centre watching a live feed. This model works for executives — it does NOT work for 500 retail workers or 10,000 NHS staff.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qlvl": {
+                        "type": "Select",
+                        "optionId": "imp-high"
+                      },
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d4000003-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Financial Warning Sign",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-high"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-data"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e4000010-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Market cap ~$27M despite $100M+ invested. Stock has fallen 94.91% from 52-week high. The market is questioning whether the personal bodyguard-on-call model is economically viable.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000011-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "This validates our approach: AI-first, QR-triggered, no human agent bottleneck. Our unit economics scale. Theirs don't.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d4000004-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What Bond Cannot Do (That We Can)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e4000012-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No QR-triggered reporting — every interaction requires app + active subscription",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000013-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No organisational intelligence — protects individuals, not buildings or zones",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000014-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No de-escalation guidance or situational response scripts",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000015-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No training component — zero behavioural change capability",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000016-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No anonymous internal reporting — no Voice Journal equivalent",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000017-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No compliance engine — no audit trail, no UK regulatory alignment (Martyn's Law, HSE, KCSIE, CQC)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000018-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No building-level heatmap or zone risk scoring",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000019-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No AI triage (ARIA equivalent) — relies on expensive human agents for every escalation",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "attributes": {
+                      "@qtyp": {
+                        "type": "Select",
+                        "optionId": "typ-gap"
+                      }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d4000005-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Talk Track — \"What About Bond?\"",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-talk"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e4000020-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "\"Bond is a personal bodyguard app for individuals. They protect one executive walking home. We protect EVERY person in your building — staff, visitors, patients, contractors — with a QR code on the wall. No app download. No subscription per person.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000021-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "\"At Bond's pricing, protecting your 200 staff costs £120,000 a year — and that's just the app subscription, before anyone calls a human agent. Our entire platform for the same estate costs under £5,000. And ours includes training, AI triage, heatmaps, and compliance data. Theirs doesn't.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e4000022-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "\"Bond has ex-Secret Service advisors. We have operators who've actually been in hostile environments. They raised $100M building a personal bodyguard app and the stock is down 95%. We built a complete organisational threat intelligence system for a fraction — because we know what actually works in the field.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b5000001-aaaa-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "5. Real-World Scenarios — Who Protects the Person in the Moment?",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d5000001-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Scenario A: Aggressive Customer in a Retail Store",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-scenario"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e5000001-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Everbridge: Does nothing. This is a micro-incident, not a mass event. The shop worker has no guidance. No report is filed unless she logs into a separate HR system later.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000002-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Citizen: Does nothing. This is inside a building. No police dispatch was triggered. Citizen has no visibility.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000003-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Bond: Only helps if the worker has the app installed AND a paid subscription AND opens it mid-confrontation. Then a human agent watches via video. No de-escalation script. No organisational record.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000004-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Absolute Defence: Worker scans QR in back office → gets de-escalation guidance for aggressive customer scenario (legal position, verbal techniques, when to disengage). If it escalates, SOS button dials 999 and creates silent timestamped log. Another customer who witnessed it scans the public QR poster and files an anonymous report. ARIA triages both submissions. Heatmap updates. Area manager is notified. Acknowledgement chain starts counting.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d5000002-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Scenario B: Violent Patient in NHS A&E",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-scenario"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e5000005-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Everbridge: Could broadcast a mass alert to hospital staff, but ONLY if a security team operator sees it first and decides to trigger one. The nurse being threatened gets nothing.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000006-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Citizen: Does nothing. No police radio dispatch triggered yet. Even if it was, Citizen doesn't operate in the UK.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000007-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Bond: Nurse would need to pull out her personal phone, open the Bond app, and initiate a video call with a security agent mid-assault. Completely impractical. No organisational incident log created.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000008-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Absolute Defence: QR on the ward wall gives instant guidance for violent patient scenario. SOS triggers silent alert to trust security team with GPS-stamped ward location. Waiting room visitor scans public QR to report what they witnessed. ARIA cross-references with previous incidents on same ward. Heatmap shows A&E night shift as highest-risk zone. Trust has full audit trail for CQC inspection.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d5000003-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Scenario C: Suspicious Person at a School Event",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-scenario"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e5000009-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Everbridge: School doesn't have Everbridge — £100k+ annual contract is beyond any school budget. Even if it did, parents and visitors have no access.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000010-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Citizen: Does nothing. Not available in UK. No police dispatch triggered. A suspicious person isn't a 911 call.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000011-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Bond: Parent would need Bond installed + paid subscription. Even then, Bond connects them to a remote human agent who has no context about the school's safeguarding procedures.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000012-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Absolute Defence: Parent scans QR poster at school entrance. Reports suspicious person in 30 seconds — anonymous, no app, no account. Designated Safeguarding Lead receives immediate notification. ARIA flags the report and cross-references with any previous concerns about the school perimeter. If critical, SOS escalation path activates. Full KCSIE-compliant chronological log created automatically. Ofsted can see exactly how the school responded and when.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d5000004-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Scenario D: Lone Estate Agent — Property Viewing Turns Hostile",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-high"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-scenario"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e5000013-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Everbridge: Does nothing. This is a lone worker scenario in a private property — completely outside Everbridge's mass notification model.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000014-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Citizen: Does nothing. Inside a property. No public dispatch.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000015-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Bond: This is Bond's strongest scenario. If the agent has the app, they can press Ready An Agent or initiate Video Monitor Me. A human security agent watches via live video. Bond can dispatch a car or coordinate with police. However — this costs the estate agency $50-100/mo per agent, there's no organisational intelligence, and no de-escalation guidance.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e5000016-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Absolute Defence: Agent was trained in hostile encounter de-escalation (Layer 1). Has SOS one-tap panic on phone (no app — bookmarked QR link). Situational Guide gives step-by-step response for 'hostile person in confined space' scenario. SOS creates silent GPS-stamped log with auto-999. Office manager receives instant notification. Pattern data shows this is the third incident at evening viewings — training and policy adjusted. Duty of care documented for SRA/FCA compliance.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b6000001-aaaa-4000-a000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "6. The Access Model — Side-by-Side Comparison",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d6000001-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Access Requirements Matrix",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-adv"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e6000001-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "App download required? — Everbridge: YES | Citizen: YES | Bond: YES | Absolute Defence: NO",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000002-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Account creation required? — Everbridge: YES | Citizen: YES | Bond: YES | Absolute Defence: NO",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000003-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Personal data collected from reporter? — Everbridge: YES (mobile number) | Citizen: YES (account + GPS) | Bond: YES (account + payment) | Absolute Defence: NO (anonymous by default)",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000004-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Visitors/public can report? — Everbridge: NO | Citizen: Only public street incidents | Bond: NO | Absolute Defence: YES",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000005-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Time to report? — Everbridge: 5-10 min (login + navigate) | Citizen: N/A (reporting not core function) | Bond: 2-3 min (open app, connect agent) | Absolute Defence: 30 seconds (scan QR, type, submit)",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000006-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Deployment time? — Everbridge: 6-12 months | Citizen: Days (alerts only) | Bond: Days (app rollout) | Absolute Defence: 48 hours (full system)",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000007-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Annual cost for 200-person site? — Everbridge: £15k-60k+ | Citizen Enterprise: Undisclosed (demo required) | Bond: ~£120k ($50/user/mo) | Absolute Defence: sub-£5k",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000008-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "In-the-moment response guidance? — Everbridge: NO | Citizen: NO | Bond: NO (calls human agent) | Absolute Defence: YES (Situational Guide + ARIA)",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000009-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "UK regulatory compliance? — Everbridge: Partial (ISO only) | Citizen: NO (US only) | Bond: NO | Absolute Defence: YES (Martyn's Law, KCSIE, CQC, HSE, ISO 45001)",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000010-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Behavioural training component? — Everbridge: NO | Citizen: NO | Bond: NO | Absolute Defence: YES (military-grade progressive training)",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "d6000002-aaaa-4000-a000-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "One-Line Kill Statements",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@qlvl": {
+                    "type": "Select",
+                    "optionId": "imp-critical"
+                  },
+                  "@qtyp": {
+                    "type": "Select",
+                    "optionId": "typ-talk"
+                  }
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e6000011-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "vs Everbridge: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"Everbridge tells your security team what happened. We tell the PERSON IN THE MOMENT what to do. And we cost 1/50th.\"",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000012-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "vs Citizen: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"Citizen watches the street outside. We protect the people inside. They don't even operate in the UK.\"",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000013-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "vs Bond: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"Bond protects one person with a $50/month app. We protect every person in the building with a QR code on the wall.\"",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000014-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "vs All Three: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"They all require an app download. We require a QR code on the wall. That's why we hear from everyone — and they only hear from people who bothered to install their software.\"",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e6000015-aaaa-4000-a000-000000000001",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "The Category Statement: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"Everbridge broadcasts. Citizen scans. Bond bodyguards. We DEFEND. Training + Platform + Intelligence. No one else does all three. That's Threat Intelligence for Ordinary People.\"",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@qlvl": {
+            "id": "/attributes/@qlvl",
+            "fieldPath": "/attributes/@qlvl",
+            "rank": "z"
+          },
+          "/attributes/@qtyp": {
+            "id": "/attributes/@qtyp",
+            "fieldPath": "/attributes/@qtyp",
+            "rank": "zV"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@qlvl": {
+            "id": "/attributes/@qlvl",
+            "fieldPath": "/attributes/@qlvl",
+            "rank": "z"
+          },
+          "/attributes/@qtyp": {
+            "id": "/attributes/@qtyp",
+            "fieldPath": "/attributes/@qtyp",
+            "rank": "zV"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@qlvl": {
+            "id": "/attributes/@qlvl",
+            "fieldPath": "/attributes/@qlvl",
+            "rank": "z"
+          },
+          "/attributes/@qtyp": {
+            "id": "/attributes/@qtyp",
+            "fieldPath": "/attributes/@qtyp",
+            "rank": "zV"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@qlvl": {
+            "id": "/attributes/@qlvl",
+            "fieldPath": "/attributes/@qlvl",
+            "rank": "z"
+          },
+          "/attributes/@qtyp": {
+            "id": "/attributes/@qtyp",
+            "fieldPath": "/attributes/@qtyp",
+            "rank": "zV"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@qlvl": {
+            "id": "/attributes/@qlvl",
+            "fieldPath": "/attributes/@qlvl",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@qtyp": {
+            "id": "/attributes/@qtyp",
+            "fieldPath": "/attributes/@qtyp",
+            "rank": "zV",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@qlvl": {
+            "id": "/attributes/@qlvl",
+            "fieldPath": "/attributes/@qlvl",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@qtyp": {
+            "id": "/attributes/@qtyp",
+            "fieldPath": "/attributes/@qtyp",
+            "rank": "zV",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@qlvl": {
+        "type": "Select",
+        "displayName": "Importance",
+        "options": {
+          "imp-critical": {
+            "id": "imp-critical",
+            "name": "Critical",
+            "color": "#EF4444",
+            "rank": "0"
+          },
+          "imp-high": {
+            "id": "imp-high",
+            "name": "High",
+            "color": "#F59E0B",
+            "rank": "1"
+          },
+          "imp-medium": {
+            "id": "imp-medium",
+            "name": "Medium",
+            "color": "#3B82F6",
+            "rank": "2"
+          }
+        }
+      },
+      "@qtyp": {
+        "type": "Select",
+        "displayName": "Type",
+        "options": {
+          "typ-adv": {
+            "id": "typ-adv",
+            "name": "Our Advantage",
+            "color": "#10B981",
+            "rank": "0"
+          },
+          "typ-gap": {
+            "id": "typ-gap",
+            "name": "Competitor Gap",
+            "color": "#EF4444",
+            "rank": "1"
+          },
+          "typ-data": {
+            "id": "typ-data",
+            "name": "Market Data",
+            "color": "#3B82F6",
+            "rank": "2"
+          },
+          "typ-talk": {
+            "id": "typ-talk",
+            "name": "Talk Track",
+            "color": "#8B5CF6",
+            "rank": "3"
+          },
+          "typ-scenario": {
+            "id": "typ-scenario",
+            "name": "Real Scenario",
+            "color": "#EC4899",
+            "rank": "4"
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "🎤"
+    }
+  }
+}

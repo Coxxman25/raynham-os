@@ -1,0 +1,2677 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "26585c23-d008-4d75-87f4-5063a1f77c70",
+        "text": {
+          "ops": [
+            {
+              "insert": "ADOS — Spatial Information & Protection Platform: Strategic Master Document"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "aa000001-0001-0001-0001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SECTION 1 — Master Positioning Statement",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b1000001-0001-0001-0001-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What ADOS Is: The QR-based live information and protection layer that sits above existing operations. It complements — never replaces — existing systems (guards, CCTV, facilities, reception).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000002-0001-0001-0001-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Tagline: The Spatial Information & Protection Platform",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000003-0001-0001-0001-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "One-liner: ADOS turns every QR code into a live point of information, protection, and value for your space.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000004-0001-0001-0001-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Commercial frame (kills Andy's objection): You are not buying incident insurance. You are buying a live site communication layer that happens to protect people.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000005-0001-0001-0001-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Strategic Wedge — 'The Layer' concept: No integration required. No change to guard contracts. No IT project. No staff retraining. No app download for users. Deploy in days, not quarters.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000006-0001-0001-0001-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Pitch to any partner: 'You already have guards, cameras, a facilities team, and a reception desk. ADOS does not replace any of that. It is the digital layer that connects the people inside your building to the operations team running it.'",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1000007-0001-0001-0001-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What to NEVER become: A full HSE platform / incident management system / facilities ticketing tool / guard management app / mass notification app / visitor management system. Each of those loses the daily hook and puts us in head-to-head competition we can't win.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "aa000002-0002-0002-0002-000000000002",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SECTION 2 — The Three Pillars: Inform · Protect · Engage",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b2000001-0002-0002-0002-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "PILLAR 1 — INFORM (Daily Utility Hook)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2000002-0002-0002-0002-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What it delivers: Opening times, closures, delays, directions, queue updates, event notices, visitor instructions, staff shift briefings, contractor guidance, disruption messaging.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2000003-0002-0002-0002-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Why it matters commercially: Creates the daily scan habit. People scan because it is immediately useful — they become familiar with the QR system before they ever need it in an emergency. Familiarity = faster response when it counts.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2000004-0002-0002-0002-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "PILLAR 2 — PROTECT (Trust & Safety Layer)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2000005-0002-0002-0002-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What it delivers: Anonymous reporting, urgent help requests, evidence-grade records, faster security response, Martyn's Law readiness, duty of care documentation, post-incident accountability, near-miss capture.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2000006-0002-0002-0002-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key UX rule: For urgent/red help — alert first, detail second. NEVER make someone complete a form before sending an urgent alert. One tap to send location + help type. Details optional after the alert is sent.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2000007-0002-0002-0002-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "PILLAR 3 — ENGAGE (Commercial Activation — Future Phase)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2000008-0002-0002-0002-000000000008",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What it delivers: Location-specific offers, tenant promotions, visitor incentives, retailer footfall, commercial revenue share for the client. Turns ADOS from cost centre to profit centre.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2000009-0002-0002-0002-000000000009",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Safe actions to reward: Scanning, viewing official updates, completing visitor feedback, checking service status, using a participating retailer offer. NEVER reward: SOS alerts, medical reports, security incidents, anonymous threat reports. Rewarding safety reports creates false reports.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b2000010-0002-0002-0002-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Naming: Call this module 'ADOS Engage' — not 'Rewards' (too consumer/gimmicky for B2B). Position as: 'Visitor Engagement and Commercial Activation Layer'.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "aa000003-0003-0003-0003-000000000003",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SECTION 3 — The Six Core Objects (Everything Maps to These)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b3000001-0003-0003-0003-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "RULE: If a feature doesn't connect clearly to one of these six objects, question whether it belongs in the product at all.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b3000002-0003-0003-0003-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "SITE — The overall client environment. Examples: Airport Terminal, University Campus, Shopping Centre, Business Park, Stadium, Construction Site.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b3000003-0003-0003-0003-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ZONE — A specific area inside a site. Examples: Main Entrance, Car Park B, Gate 4, Library Level 2, Loading Bay Zone C, Food Court.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b3000004-0003-0003-0003-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ANCHOR — The QR point. Physical gateway to ADOS. Hierarchy: Site → Zone → Anchor. Anchor lifecycle: Draft → Generated → Printed → Deployed → Live → Retired.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b3000005-0003-0003-0003-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "NOTICE — Information published to people scanning. Must have: type (Information/Guidance/Urgent), audience (Public/Staff/Security), expiry (default: Today). Stale notices destroy trust — flag any notice active for 14+ days without expiry.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b3000006-0003-0003-0003-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "REPORT — A submitted concern from the public. Categories (configurable): Concern · Help Request · Maintenance · Welfare · Lost Property · Medical · Accessibility · Overcrowding · Suspicious Behaviour · Other.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b3000007-0003-0003-0003-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "CASE — An actionable report requiring triage, response, and record. States: New → Assigned → In Progress → Resolved → Closed. TERMINOLOGY LAW: A person submits a Report. Urgent reports become Cases. Critical cases can have Alert status. NEVER use Incident, Ticket, Event interchangeably.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "aa000004-0004-0004-0004-000000000004",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SECTION 4 — The Four Core Capabilities (MVP Scope)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b4000001-0004-0004-0004-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1. ANCHOR — The QR Layer",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b4000002-0004-0004-0004-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "One QR per anchor point. Physical signage can be colour-coded if client wants, but technology is a single URL. When scanned: page knows Site, Zone, Building, Floor, Room, Access type. Displays: NOW (Pinboard) · KNOW (Information) · REPORT (Protection).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b4000003-0004-0004-0004-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2. PINBOARD — The Daily Hook",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b4000004-0004-0004-0004-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Site managers publish short, location-specific updates tied to place — not buried in emails or WhatsApp. This is the engine of daily utility and the commercial unlock. Every notice must have an expiry (options: 1 hour / Today / Until tomorrow / Custom / No expiry — default is Today). Publish Mode in the console is where this is composed — single column, no clutter.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b4000005-0004-0004-0004-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3. STREAM — Anonymous Reporting",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b4000006-0004-0004-0004-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No download. No login. 20 seconds scan-to-submit target. Location auto-attached via anchor. Optional contact details. Optional media upload. For red/urgent: send alert in one tap — details optional AFTER. Reference number given on confirmation.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b4000007-0004-0004-0004-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "4. VAULT — Evidence & Compliance Record",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b4000008-0004-0004-0004-000000000008",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Every scan, view, report, and response is timestamped and stored. Fields: Time · Location · Category · Evidence · Response Notes · Status · Assigned Team · Resolution History. This is the serious business layer that turns daily interactions into defensible operational records. The Respond mode in the console surfaces this as a case timeline — NOT a table. Tables are for accountants, not emergency responders.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b4000009-0004-0004-0004-000000000009",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5. INSIGHTS (Site Pulse) — Proving ROI",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b4000010-0004-0004-0004-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Dashboard answers 5 questions only: Is the site calm? What needs action? Where is attention concentrated? What information is being viewed? What has changed since yesterday? Five metric cards max. One-click monthly client report. This is what makes the platform renew.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "aa000005-0005-0005-0005-000000000005",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SECTION 5 — Two Separate Product Experiences",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b5000001-0005-0005-0005-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "CRITICAL PRINCIPLE: Two completely separate experiences powered by one backend. They must never feel like the same product squeezed onto different screens.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000002-0005-0005-0005-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "EXPERIENCE A — The Operator Console (Desktop/Tablet, Authenticated)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000003-0005-0005-0005-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Philosophy — Command Surface, not Control Panel. Think high-end car dashboard. Progressive disclosure by mental mode. The operator is always in one of four mental states.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000004-0005-0005-0005-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Layout: Thin status strip (32px, alerts only) + Left NavRail (72px, 4 icons only: Monitor/Respond/Publish/Configure) + Main Workspace (mode-driven, dominant) + Right Inspector Panel (340px, collapsed by default, on-demand).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000005-0005-0005-0005-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "MONITOR: Full-bleed map. Soft heat overlays for risk zones. Minimal dots for anchors. Bottom draggable zone sheet (collapsed, thin strip). Floating contextual card on zone tap with [Respond] and [Details] buttons. The map breathes. No tables, no panels, no phone mockups.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000006-0005-0005-0005-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "RESPOND: Single-column case timeline (max 680px, centred). Case header shows type, location, time, anonymous/named. Action buttons visible (Assign / Escalate / View Map / Close Case — never hidden in dropdowns). Timeline reads newest-first. Operators read a story, not scan a spreadsheet.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000007-0005-0005-0005-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "PUBLISH: Single-column composer (max 640px). NO phone mockup permanently. NO split screen. NO zone card sidebar. After publishing: composer fades to success state → 'Preview on phone' appears as modal → 'Deploy QR' as separate modal. Compose first, verify second, deploy third.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000008-0005-0005-0005-000000000008",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "CONFIGURE: Admin-only (not daily operational). Board layout — columns = zone types, cards = zones. Click a card to expand inline edit. No separate navigation. 'Add Zone' = new blank card appears at top of first column already in edit mode.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000009-0005-0005-0005-000000000009",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "EXPERIENCE B — The Public Anchor Page (Mobile-First, No Login)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000010-0005-0005-0005-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "This is the most important product surface — where ADOS becomes useful, habit-forming, and commercially valuable. Page structure (from top): Client/site brand + zone name + 'Live information point' label → Latest Update card → Three full-width action buttons (56px height) → Trust footer.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000011-0005-0005-0005-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Trust footer text: 'No app required. You can report anonymously. Your location is based on this QR point. In an emergency, always call 999.' Concise, not legalistic.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000012-0005-0005-0005-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "UX Performance Targets (non-negotiable): Scan to reading latest update < 5 seconds. Scan to submitting concern < 30 seconds. Scan to urgent alert sent < 10 seconds. If these targets are missed, the design has failed.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5000013-0005-0005-0005-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Anchor types (same backend, different labels): Information Anchor (entrances, maps, visitor areas) · Protection Anchor (car parks, isolated corridors, stadium concourses) · Staff Anchor (cleaner checkpoints, shift handover, contractor areas). Labels and enabled actions configured per anchor in the console.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "aa000006-0006-0006-0006-000000000006",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SECTION 6 — UI Design System & Language Rules",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b6000001-0006-0006-0006-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Colour System",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6000002-0006-0006-0006-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Backgrounds: Main #080B10 · Surface #111722 · Elevated card #171E2A · Border rgba(255,255,255,0.08). Text: Primary #F4F7FA · Secondary #A8B3C2 · Muted #6F7A89.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6000003-0006-0006-0006-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Accents: Platform/ARIA Cyan #00D9FF · Information/Safe Green #00C853 · Guidance/Caution Amber #FFB800 · Critical/Urgent Red #D92D20 · Premium Platinum #D8DEE9. RULE: Green is reserved exclusively for the traffic light system. It NEVER appears in UI chrome. The interface feels expensive through restraint.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6000004-0006-0006-0006-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Typography Scale (5 steps only)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6000005-0006-0006-0006-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Display 28px (mode titles) · Title 18px (case/zone titles) · Body 14px (normal) · Meta 12px (labels, timestamps) · Micro 10px (status tags, codes). ONE font family: Geist Sans or Inter. Tabular numbers for all times and counts. No mono fonts.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6000006-0006-0006-0006-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Words to USE in the UI",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6000007-0006-0006-0006-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Publish · Information · Guidance · Urgent · Reports · Cases · Zones · QR Anchors · Notices · Updates · Help Requests · Evidence · History · Insights · Site · Report a Concern · Get Help Now · Concern · Maintenance · Welfare",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6000008-0006-0006-0006-000000000008",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Words to AVOID in the UI",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6000009-0006-0006-0006-000000000009",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Broadcast Studio · Green Channel · Alert Registry · Vault Matrix · ARIA Cognitive Engine · QR Deployment Object · Incident Feed · Submit Evidence · Raise Ticket · Log Issue · Case File · Risk Event · Incident (use Report instead) · Ticket (use Case instead). These make the product feel harder than it is.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6000010-0006-0006-0006-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Alert Levels (4 only)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b6000011-0006-0006-0006-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "INFO (no action, no sound, no interrupt — appears in notice history) · GUIDANCE (soft visual indicator, awareness needed) · URGENT (appears in status strip, adds to Respond queue, optional sound) · CRITICAL (persistent strip, requires acknowledgement, cannot dismiss without action). If everything is urgent, nothing is urgent.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "aa000007-0007-0007-0007-000000000007",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SECTION 7 — The ADOS Value Loop & Revenue Model",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b7000001-0007-0007-0007-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Business Model Loop",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b7000002-0007-0007-0007-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Publish useful information → People scan because it is useful → Scanning becomes habitual → More people use the platform → More reports captured earlier → Site becomes safer and better informed → Shops/tenants get more visibility and footfall → Client sees measurable ROI → ADOS becomes harder to remove. The public page creates the habit. The operator console captures the value.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b7000003-0007-0007-0007-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Revenue Streams for Clients",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b7000004-0007-0007-0007-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1. TENANT-FUNDED OFFERS — Shops/cafés/restaurants pay £99–£500/month to feature location-specific offers on nearby anchor pages. Airport duty-free, campus coffee shops, shopping centre retailers. Client (venue/airport) receives revenue share.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b7000005-0007-0007-0007-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2. SPONSORED INFORMATION CARDS — Contextually useful cards sponsored by on-site businesses. CRITICAL RULE: Sponsored content appears ONLY in the Information/Green area. It NEVER interferes with Report a Concern or Get Help Now flows. Safety is always clean.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b7000006-0007-0007-0007-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3. REDEMPTION-BASED COMMISSION — ADOS tracks offer redemptions via codes. Revenue split example: ADOS ~40% / Client ~40% / Security Partner ~20%. Tenants pay only when value is created — performance-based model is attractive.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b7000007-0007-0007-0007-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "4. ADOS ENGAGE (Future Phase) — Reward scanning, information viewing, visitor feedback, retailer use. Module name: 'ADOS Engage' not 'Rewards'. B2B position: 'Visitor Engagement and Commercial Activation Layer'. This is a Phase 2/3 feature — don't build it now.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b7000008-0007-0007-0007-000000000008",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Site Pulse — The ROI Proof Tool",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b7000009-0007-0007-0007-000000000009",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5 metric cards max: Current Status (Calm/Active/Critical) · Today's Scans (+% vs yesterday) · Open Cases (# urgent) · Active Notices (# expiring today) · Average Response Time. Below: Recent Activity timeline. One-click monthly PDF report for client review meetings. This is what makes the contract renew.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "aa000008-0008-0008-0008-000000000008",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SECTION 8 — Wilson James Strategic Opportunity",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b8000001-0008-0008-0008-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "WHY THIS MATTERS: Meeting attendees are Head of Business Development (Aviation) + Chief of Staff. Wilson James is not a traditional guarding company — they operate in Aviation, Construction Logistics, Security, Facilities, and Front-of-House. Every one is a perfect ADOS environment.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b8000002-0008-0008-0008-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "THE PITCH: ADOS allows Wilson James to move from being a service provider to being a digital site intelligence partner. They stop selling hours and bodies — they start selling intelligent site infrastructure.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b8000003-0008-0008-0008-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AVIATION Use Cases",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b8000004-0008-0008-0008-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Passenger queue times · Gate changes · Terminal disruption messaging · Lost property guidance · Accessibility assistance · Anonymous concern reporting · Suspicious behaviour reporting (no-login, no hesitation) · Staff briefings · Contractor guidance · Retail commercial activation (delay offers, lounge discounts, duty-free promotions).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b8000005-0008-0008-0008-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "CONSTRUCTION LOGISTICS Use Cases",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b8000006-0008-0008-0008-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Delivery driver gate instructions · Contractor daily briefings · Crane lift exclusion zone alerts · Route closures · Restricted zone warnings · Near-miss hazard capture · Welfare concerns · Evidence of site communication (legally valuable for clients). Paper signage that becomes outdated is a known pain point — ADOS solves it.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b8000007-0008-0008-0008-000000000007",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Revenue Paths for Wilson James",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b8000008-0008-0008-0008-000000000008",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1. CONTRACT ADD-ON: 'Digital Site Intelligence Layer — Powered by ADOS' at £1,000–£5,000/month on top of existing contracts. 2. WHITE-LABEL: 'Wilson James SiteConnect' / 'PassengerConnect' / 'LogisticsConnect' powered by ADOS. They look innovative; ADOS is the infrastructure. 3. REVENUE SHARE: Client pays £1,500/month per site; Wilson James receives reseller margin on relationships they already have. 4. TENDER TOOL: ADOS makes their bid responses stand out — 'We provide digital evidence of site responsiveness.' 5. INSIGHTS REPORTING: Monthly Site Intelligence Report bundled into client reviews.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b8000009-0008-0008-0008-000000000009",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Meeting Strategy (Wilson James)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b8000010-0008-0008-0008-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Goal: Establish three things — (1) Strategic fit (ADOS aligns with their innovation/digital direction), (2) Commercial value (win/retain/expand contracts), (3) Pilot path. Agenda: Position (5m) → Frame the problem by asking about their pain points (10m) → ADOS model Anchor→Inform→Report→Respond→Record→Learn (10m) → Use case deep dive, let THEM choose aviation or construction (15m) → Commercial model (10m) → Pilot proposal (10m). Leave with: one chosen use case + one internal sponsor + follow-up date. Do NOT leave with vague interest.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "aa000009-0009-0009-0009-000000000009",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SECTION 9 — Dardan Partner Strategy & Pilot",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b9000001-0009-0009-0009-000000000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "DARDAN PITCH: Dardan already protects people physically. ADOS gives Dardan a digital protection and communication layer that connects directly to people inside client environments. Used daily for information → becomes the reporting/response channel when something is wrong. This moves them from selling guarding hours to selling intelligent protection infrastructure.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b9000002-0009-0009-0009-000000000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "30-Day Live Site Pilot Structure",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b9000003-0009-0009-0009-000000000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Site: One Dardan client venue, campus, or business park with daily foot traffic. Deploy 20–50 QR anchors. Configure Information/Guidance/Urgent journeys. Set up Live Pinboard. Enable anonymous reporting. Enable basic dashboard. Weekly insight reports. End: ROI and usage report.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b9000004-0009-0009-0009-000000000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "CRITICAL for pilot success: Site manager/Dardan ops manager MUST post one update per day on the Pinboard for the first two weeks. This creates the habit. Without daily content, the daily hook is not proven and the pilot fails.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b9000005-0009-0009-0009-000000000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Pricing: Pilot £2,500–£4,500 setup + £500–£750/month. Scale: £750–£1,500/month per site. Who does the work: Absolute Defence configures it. Dardan (or client) sticks the QR points where told.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b9000006-0009-0009-0009-000000000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key success metrics: Total QR scans (target 50+ in week 1, growing) · Repeat scan rate · Pinboard views vs report submissions (target 80–90% info / 10–20% reporting) · Anonymous reports submitted and resolved · Average resolution time · 'Would you keep this?' at day 30 · Client satisfaction.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "aa000010-0010-0010-0010-000000000010",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SECTION 10 — What to Avoid & What to Build (Phase Roadmap)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "97542f59-6e35-4df4-879b-288487c86389",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "BUILD NOW — MVP Overhaul",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "61c28984-45a6-4921-a0ee-a9ae9e9ec1eb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Four-mode operator shell (Monitor/Respond/Publish/Configure) · Public QR page redesign (mobile-first, 3 actions, latest-first, trust footer) · Publish composer (single column, expiry system, no permanent phone mockup) · Anonymous report submission · Respond case timeline view (not table) · Monitor full-bleed map with draggable zone sheet · QR anchor lifecycle management · Basic Site Pulse dashboard · Role-based navigation (Security Operator sees 3 modes; Admin sees all)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a0178505-c618-431f-9d9c-9a68637fb02d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "BUILD NEXT — Phase 2",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "56c2e7e4-f97c-47aa-a4bb-e74335d12af8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Publish templates (Facilities / Delay / Cleaning / Security Reassurance / Event) · Multi-zone publishing · Media uploads in reports · Assignment workflows · Monthly one-click client reports · Partner/client branding/white-label · ARIA summaries on cases · Exportable case PDFs",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9ec3af8a-0f32-4782-ade8-b63d3f2585e1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "BUILD LATER — Phase 3",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "678183d8-a350-4ac4-8d53-b1e19f427a00",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ADOS Engage (rewards/commercial activation) · Integrations (TrackTik, CAD, control room) · Multi-language support · Offline mode · SMS/email notifications · API/webhooks · Advanced heatmaps · White-label partner portal · Guard patrol integrations",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "35687763-67ac-46fd-83d6-cd9cc001d871",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Onboarding Flow (First Aha Moment)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d5fb810f-9a21-4f6d-ad83-4534d928b055",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Target first aha moment: 'I can publish a live update to a physical QR point in under 60 seconds.' Onboarding flow: Create Site → Add Zones → Generate QR Anchors → Add First Notices → Configure Report Categories → Invite Users → Go Live. The magic moment is: Create zone → Generate QR → Publish first notice → Scan it on their phone. That is it.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "270627d9-010f-4c30-b8ac-947f5d1d57bf",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The Brand Hierarchy",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "01fca515-4083-44fa-a96e-4f6a72277cc8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Absolute Defence — The company. Human. Protection-focused. | ADOS — The platform. Spatial. Information-aware. | ADOS Anchor — The QR point network. | ADOS Pinboard — The live information feed. | ADOS Stream — The reporting channel. | ADOS Vault — The evidence and compliance record. | ADOS Engage — The commercial activation layer (future). Lead with outcomes, not feature names.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "✒️"
+    }
+  }
+}

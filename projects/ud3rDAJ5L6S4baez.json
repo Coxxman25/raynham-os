@@ -1,0 +1,964 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a1b2c3d4-e5f6-7890-abcd-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "SafeGuard Demo Prep — Full Audit & Fix Log"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "a1b2c3d4-e5f6-7890-abcd-000000000010",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Demo Prep: April 2026 — Dardan Security CEO",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FIX: Marquee ticker too fast — slowed from 40s to 90s, added hover-pause",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FIX: IncidentDialog had no dark mode — added full dark theme",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FIX: Incident type missing title/location_name for notification cards",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VERIFIED: ARIA chat — agent wired, conversations create, context sends",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VERIFIED: Case Vault — acknowledge, review, resolve all wired to API",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VERIFIED: Zone Registry — add zones, QR gen, checklists, drawer all work",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000017",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VERIFIED: Zone Map — locations, risk zones, incidents all render correctly",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000018",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VERIFIED: Demo Kit Studio — posters, blueprint, bag checklist all functional",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000019",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VERIFIED: Voice Journal Monitor — flag updates, filtering, ARIA context all wired",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VERIFIED: Incident Notifications — auto-dismiss, queue, severity config all working",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a1b2c3d4-e5f6-7890-abcd-000000000021",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VERIFIED: API layer — all 4 project endpoints + 2 webhooks correctly configured",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1b2c3d4-e5f6-7890-abcd-000000000030",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FIX: Notification leak — used sessionStorage to persist seen IDs across refresh/remount",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1b2c3d4-e5f6-7890-abcd-000000000031",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FIX: Added bulk select, close, and delete to Case Vault",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1b2c3d4-e5f6-7890-abcd-000000000032",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FIX: Marquee slowed to 140s (was 40s→90s→140s) with hover-pause",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b1b2c3d4-e5f6-7890-abcd-000000000033",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FIX: Added deleteIncident, bulkUpdateIncidentStatus, bulkDeleteIncidents to API",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c1b2c3d4-e5f6-7890-abcd-000000000040",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FIX: 429/500 rate limit errors — sequential processing + 800ms throttle + exponential backoff retry",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c1b2c3d4-e5f6-7890-abcd-000000000041",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FIX: Added live progress bar to bulk operations with %, completed/total count",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d1b2c3d4-e5f6-7890-abcd-000000000050",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ROOT CAUSE FOUND: useAcknowledgementChain creates ESCALATION/BREACH incidents that re-enter the ack map → infinite ghost loop",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d1b2c3d4-e5f6-7890-abcd-000000000051",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FIX: Skip auto-generated incidents (BREACH-AUTO, ESCALATION-AUTO, SOS-AUTO reporters) from ack tracking + persist logged events in localStorage",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e1b2c3d4-e5f6-7890-abcd-000000000060",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ARIA formatting overhaul: rich markdown renderer with headings, callouts, tables, numbered lists, bold highlights",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e1b2c3d4-e5f6-7890-abcd-000000000061",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ARIA system prompt rewritten for structured, scannable, military-grade markdown output",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f1b2c3d4-e5f6-7890-abcd-000000000070",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ARIA UX OVERHAUL — 7 Phases Complete",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f1b2c3d4-e5f6-7890-abcd-000000000071",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "P1: AriaMarkdown component — copy buttons, rich heading/list/table/code/callout rendering",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": true,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f1b2c3d4-e5f6-7890-abcd-000000000072",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "P2: Collapsible sections — long responses auto-collapse, first 2 open",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": true,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f1b2c3d4-e5f6-7890-abcd-000000000073",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "P3+P4: Stat detection + summary cards (auto-detect counts → visual pills)",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": true,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f1b2c3d4-e5f6-7890-abcd-000000000074",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "P5: Quick-reply chips — contextual follow-up buttons after each ARIA response",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": true,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f1b2c3d4-e5f6-7890-abcd-000000000075",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "P6: Notification cards — incident ID badge, zone code tag, quick-acknowledge button",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": true,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f1b2c3d4-e5f6-7890-abcd-000000000076",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "P7: Vault → ARIA bridge — Zap button on hover + expanded panel Ask ARIA CTA",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "checkbox",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": true,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "4a36be94-e246-46d6-9eca-e82f2a25112c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "WILSON JONES DEMO PREP — May 2026",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": true,
+            "children": [
+              {
+                "type": "text",
+                "id": "d6cef5d0-216f-4396-a3c3-243154e15761",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "CRITICAL FIX: Observation Intake webhook 01KQJHJDC1YXES028BY0GEHDJ0 was DISABLED — now ENABLED",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "56cdf5ee-fa33-4963-a636-ad30e293d387",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ENABLED: Case Status Lookup 01KQJHQSWAVCR92DHC2XAKPQ9J — was disabled",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f084122a-e55d-4275-bf7b-937852d5103a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ENABLED: Human Triage Override 01KQJHRZAD9TN76HB4SXWBC4FY — was disabled",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a52454e8-9418-4d84-8024-d65ef3d8c1a6",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ENABLED: SLA Breach Monitor 01KQJHTKHV2ZJJARD6GABRTAQV — was disabled",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a4c18d12-5eb6-4fb1-b0a9-945407db8b38",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Locations Registry updated: GL-RSH sports zones → WJ-ARR airport zones (10 zones total)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "64a19cce-c822-47b1-9821-1440a2ee4219",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "App code updated: AnchorShell, Registry, AriaChat, UserSettingsModal all now reflect airport/aviation context",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "726ff690-39f6-4d44-91f2-bdce199691af",
+            "text": {
+              "ops": [
+                {
+                  "insert": "FIX: Ghost critical notifications on refresh — switched sessionStorage→localStorage (key v3), added PAGE_LOAD_TIME age guard, always seed seen on initial mount",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": true,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "💾"
+    }
+  }
+}

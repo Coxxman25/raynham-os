@@ -1,0 +1,137 @@
+{
+  "version": "2",
+  "flowTitle": "Reflex C2 — SLA Breach Monitor (Cases)",
+  "trigger": {
+    "valid": true,
+    "displayName": "Every Hour — SLA Scan",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-schedule",
+      "pieceVersion": "BLANK",
+      "triggerName": "schedule.hourly",
+      "input": {}
+    }
+  },
+  "actions": [
+    {
+      "name": "b8e9f0a1-c2d3-4567-bcde-567890123456",
+      "valid": false,
+      "displayName": "Fetch Open Cases from Cases Project",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "tasks.find",
+        "input": {
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "MNXitRw4WKLaDdGC"
+          },
+          "rowsToReturn": "all_matching_rows",
+          "noTasksFoundBehavior": "continue"
+        }
+      }
+    },
+    {
+      "name": "c9f0a1b2-d3e4-5678-cdef-678901234567",
+      "valid": false,
+      "displayName": "ARIA — Identify SLA Breaches",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "agent.ask",
+        "input": {
+          "input": "SLA BREACH SCAN — Current time: {{ trigger[\"triggerTime\"] }}. Review these open cases from the Cases project. For each case: compare the current time against SLA T1 Deadline (fields/@csT1), SLA T2 Deadline (fields/@csT2), and SLA Breach Deadline (fields/@csBR). Identify ALL cases where any deadline has now passed. For each breached case state: Ref Code (fields/@csRC), Zone (fields/@csZN), which deadline was breached (T1/T2/Breach), how many minutes overdue, Effective Urgency (fields/@csEU). Cases: {{ b8e9f0a1-c2d3-4567-bcde-567890123456[\"tasks\"] }}",
+          "agentId": {
+            "type": "flow-template-variable-input-type",
+            "id": "01KRYKE3TVFYXGG1BDJ9JR1PP0"
+          }
+        }
+      }
+    },
+    {
+      "name": "d0a1b2c3-e4f5-6789-defa-789012345678",
+      "valid": false,
+      "displayName": "Log Breach Scan to Evidence Pack",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "fields": {
+            "@epAC": {
+              "data": {
+                "value": "Reflex C2 / Automated"
+              },
+              "rank": "3",
+              "fieldId": "@epAC"
+            },
+            "@epCI": {
+              "data": {
+                "value": "SYSTEM-SCAN"
+              },
+              "rank": "0",
+              "fieldId": "@epCI"
+            },
+            "@epDT": {
+              "data": {
+                "value": "Hourly SLA scan completed at {{ trigger[\"triggerTime\"] }}. ARIA breach analysis logged above."
+              },
+              "rank": "4",
+              "fieldId": "@epDT"
+            },
+            "@epEV": {
+              "data": {
+                "value": "escalated_t1"
+              },
+              "rank": "2",
+              "fieldId": "@epEV"
+            },
+            "@epRC": {
+              "data": {
+                "value": "SCAN"
+              },
+              "rank": "1",
+              "fieldId": "@epRC"
+            },
+            "@epSL": {
+              "data": {
+                "value": "yes"
+              },
+              "rank": "5",
+              "fieldId": "@epSL"
+            }
+          },
+          "content": "SCHEDULED SLA SCAN — {{ trigger[\"triggerTime\"] }} — {{ c9f0a1b2-d3e4-5678-cdef-678901234567[\"result\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "PdW5aV2A9UJJjoXh"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "MNXitRw4WKLaDdGC": {
+      "id": "MNXitRw4WKLaDdGC",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    },
+    "01KRYKE3TVFYXGG1BDJ9JR1PP0": {
+      "id": "01KRYKE3TVFYXGG1BDJ9JR1PP0",
+      "rank": "k",
+      "type": "string",
+      "format": "taskade-space-agent-id"
+    },
+    "PdW5aV2A9UJJjoXh": {
+      "id": "PdW5aV2A9UJJjoXh",
+      "rank": "s",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "f0a1b2c3-d4e5-f678-90ab-cdef01234568",
+        "text": {
+          "ops": [
+            {
+              "insert": "SENTINEL Frontend Enhancement Strategy — Surfacing Agentic Power"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e501",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Core Principle: Show the organism thinking, not just the results",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e502",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5 enhancements, zero bloat. Each one reveals the agentic backend in a way that makes the demo unforgettable.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e510",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Enhancement 1: SENTINEL Neural Activity Strip (top of dashboard)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e511",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Slim animated strip below header. Shows agent names lighting up as they process. Like a neural pathway firing. ARIA → GUARDIAN → WITNESS chain visible in real time.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e520",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Enhancement 2: Case Vault Forensic Timeline (replaces flat list)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e521",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Each incident gets an expandable forensic timeline. Every agent action timestamped: ARIA classified (2s), GUARDIAN deployed guidance (5s), WITNESS chained evidence (6s), COMPASS classified regulatory (8s).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e530",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Enhancement 3: Agent Confidence Badges on incident cards",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e531",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Every incident card shows which agents processed it and their confidence. e.g., ARIA 94% | COMPASS: RIDDOR applicable | GUARDIAN: Response deployed. Small pills, huge credibility.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e540",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Enhancement 4: Predictive Risk Overlay on Zone Map",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e541",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ORACLE's predictive heatmap as a toggleable layer on the existing Zone Map. Shows time-of-day risk predictions. 'This car park is 4.2x more likely to have an incident between 20:00-23:00 on Fridays.'",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e550",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Enhancement 5: ARIA becomes the orchestrator voice — shows which agent is speaking",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "a1a1a1a1-b2b2-c3c3-d4d4-e5e5e5e5e551",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "When user asks ARIA a question, the chat shows which agent is being consulted. 'Consulting ORACLE for historical patterns...' 'COMPASS confirms: RIDDOR reportable.' Makes the multi-agent backend visible through conversation.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "💾"
+    }
+  }
+}

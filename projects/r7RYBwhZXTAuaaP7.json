@@ -1,0 +1,1339 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "072b27ed-de78-4334-98b9-0ab8ce8fe26f",
+        "text": {
+          "ops": [
+            {
+              "insert": "Enhanced Incidents"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "d848017d-11c3-4657-8eba-888ba8b3a8a9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[MAINTENANCE] Broken Toilets "
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778507408792",
+              "@incLC": "ZONE-A1",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 0,
+              "@incLN": 0,
+              "@incRP": "Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1d8d7d06-a62c-4de6-ab84-5e84ae0b78d5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[WELFARE] Bullying "
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778507529518",
+              "@incLC": "ZONE-A1",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.7551389,
+              "@incLN": -2.3024453,
+              "@incRP": "Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fbce4fb7-36ad-4c21-8f86-6d30bd23adc6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[URGENT_HELP] VIOLENCE: Accident in hall"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778508964546",
+              "@incLC": "ZONE-A1",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "resolved"
+              },
+              "@incLT": 51.755131,
+              "@incLN": -2.3024212,
+              "@incRP": "Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e4fc6ab4-d029-433b-837b-624363c221bb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[MAINTENANCE] Slippery floor "
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778592177397",
+              "@incLC": "DEMO-DEMO-MAIN-ENT",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.842183925025616,
+              "@incLN": -2.1802902647365747,
+              "@incRP": "DEMO-Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "433de250-d7ce-49c5-bc35-b35db059702b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[MAINTENANCE] Help me "
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778593393099",
+              "@incLC": "DEMO-DEMO-MAIN-ENT",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.7551365,
+              "@incLN": -2.3024341,
+              "@incRP": "DEMO-Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cb10b4ed-e0a1-4aa9-bfa1-26b51964b936",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[FACILITIES] Hey"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778593659022",
+              "@incLC": "DEMO-DEMO-MAIN-ENT",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 54.662227212290354,
+              "@incLN": -6.2169689658953295,
+              "@incRP": "DEMO-Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e3d11ee8-334c-4b0c-91fc-e4d01e99ec86",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[SUSPICIOUS] Suspicious person"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778593667351",
+              "@incLC": "DEMO-DEMO-MAIN-ENT",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.84218392592201,
+              "@incLN": -2.180290264987508,
+              "@incRP": "DEMO-Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d84b11e9-096a-4d17-b8d7-952ccfe597a7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[MAINTENANCE] Testing before tomorrow "
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778675363451",
+              "@incLC": "WJ-ARR-001",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.7551158,
+              "@incLN": -2.3024455,
+              "@incRP": "Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7519cda8-c1ef-4f69-8289-7c1101f749b7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[URGENT_HELP] MEDICAL: Feeling sick"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778675436947",
+              "@incLC": "WJ-ARR-001",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "critical"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.7551676,
+              "@incLN": -2.3024311,
+              "@incRP": "Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7e928e14-8797-4406-a548-8884bb7205ae",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[LOST] Can't find my car keys "
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778675505124",
+              "@incLC": "WJ-ARR-001",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.7551595,
+              "@incLN": -2.302444,
+              "@incRP": "Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "07e40ceb-4fac-459e-bd4c-d65477e6879c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[MAINTENANCE] Slippery floor "
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778753844185",
+              "@incLC": "WJ-ARR-002",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.8421621,
+              "@incLN": -2.1803774,
+              "@incRP": "Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "50465822-ed09-44fe-a1ed-24c5aa28dfea",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[MAINTENANCE] Slippery floor "
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778753844185",
+              "@incLC": "WJ-ARR-002",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@incLT": 51.8421621,
+              "@incLN": -2.1803774,
+              "@incRP": "Anonymous"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "052ee056-8ed5-420a-baf6-25923cd8d0b2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "[SUSPICIOUS] Masked man near security door"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@incID": "INC-1778753867696",
+              "@incLC": "WJ-ARR-002",
+              "@incSV": {
+                "type": "Select",
+                "optionId": "medium"
+              },
+              "@incST": {
+                "type": "Select",
+                "optionId": "reviewing"
+              },
+              "@incLT": 52.21113472059457,
+              "@incLN": 0.16751750709713129,
+              "@incRP": "Anonymous"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "31d22907-6bf3-498d-96c5-0cc8208a53f1": {
+            "id": "31d22907-6bf3-498d-96c5-0cc8208a53f1",
+            "fieldPath": "/attributes/@incID",
+            "rank": "V"
+          },
+          "9863dcd8-9118-4f11-91ac-048c07ec0723": {
+            "id": "9863dcd8-9118-4f11-91ac-048c07ec0723",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "k"
+          },
+          "75ad2431-f7df-403d-a06c-ec90482f6639": {
+            "id": "75ad2431-f7df-403d-a06c-ec90482f6639",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "s"
+          },
+          "417ce648-4f52-450d-9b07-f04e74eb997a": {
+            "id": "417ce648-4f52-450d-9b07-f04e74eb997a",
+            "fieldPath": "/attributes/@incST",
+            "rank": "w"
+          },
+          "743d9cce-24a8-424c-9ce0-b80e95e14424": {
+            "id": "743d9cce-24a8-424c-9ce0-b80e95e14424",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "y"
+          },
+          "69bfc3fa-b00c-4aca-bc1a-5bccf9013836": {
+            "id": "69bfc3fa-b00c-4aca-bc1a-5bccf9013836",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "z"
+          },
+          "419857a2-c12b-4b6b-9771-72f44f8238f5": {
+            "id": "419857a2-c12b-4b6b-9771-72f44f8238f5",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zV"
+          },
+          "73f20cce-0fe8-4172-a09e-54ba49a8a4b2": {
+            "id": "73f20cce-0fe8-4172-a09e-54ba49a8a4b2",
+            "fieldPath": "/attributes/@incRC",
+            "rank": "zk"
+          },
+          "3b85a106-127d-4227-8a19-4d39090df19f": {
+            "id": "3b85a106-127d-4227-8a19-4d39090df19f",
+            "fieldPath": "/attributes/@incAU",
+            "rank": "zs"
+          },
+          "a081f1f8-b62f-4bb8-a9fa-d37b686de510": {
+            "id": "a081f1f8-b62f-4bb8-a9fa-d37b686de510",
+            "fieldPath": "/attributes/@incHU",
+            "rank": "zw"
+          },
+          "90104e54-f2f1-44a6-afac-5c62057b6d61": {
+            "id": "90104e54-f2f1-44a6-afac-5c62057b6d61",
+            "fieldPath": "/attributes/@incAA",
+            "rank": "zy"
+          },
+          "835bd50f-dce0-40be-aea3-b86bed4acfb2": {
+            "id": "835bd50f-dce0-40be-aea3-b86bed4acfb2",
+            "fieldPath": "/attributes/@incAB",
+            "rank": "zz"
+          },
+          "09d29f17-bfe7-4d30-b15c-ecd653508541": {
+            "id": "09d29f17-bfe7-4d30-b15c-ecd653508541",
+            "fieldPath": "/attributes/@incT1",
+            "rank": "zzV"
+          },
+          "8a04d092-27a5-4f95-9ff4-f08668544a9b": {
+            "id": "8a04d092-27a5-4f95-9ff4-f08668544a9b",
+            "fieldPath": "/attributes/@incBR",
+            "rank": "zzk"
+          },
+          "1f901d9a-bd3f-45b8-b249-9f020748c383": {
+            "id": "1f901d9a-bd3f-45b8-b249-9f020748c383",
+            "fieldPath": "/attributes/@incAI",
+            "rank": "zzs"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "27c93885-20cf-4736-a8e3-515905ef7d95": {
+            "id": "27c93885-20cf-4736-a8e3-515905ef7d95",
+            "fieldPath": "/attributes/@incID",
+            "rank": "V"
+          },
+          "e68a01c0-4232-453a-bd90-ff321dfd6e91": {
+            "id": "e68a01c0-4232-453a-bd90-ff321dfd6e91",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "k"
+          },
+          "1aacd5f7-d4f8-4356-9ab0-bab4a6945802": {
+            "id": "1aacd5f7-d4f8-4356-9ab0-bab4a6945802",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "s"
+          },
+          "a9c87ec0-6841-4389-8dab-fb11773feb44": {
+            "id": "a9c87ec0-6841-4389-8dab-fb11773feb44",
+            "fieldPath": "/attributes/@incST",
+            "rank": "w"
+          },
+          "5783ede0-70eb-4d79-92da-155c67641b47": {
+            "id": "5783ede0-70eb-4d79-92da-155c67641b47",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "y"
+          },
+          "bed56eea-51cc-40df-89f6-55b9bc9abac4": {
+            "id": "bed56eea-51cc-40df-89f6-55b9bc9abac4",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "z"
+          },
+          "175f6c75-b89e-4432-8a14-81512d49f8d9": {
+            "id": "175f6c75-b89e-4432-8a14-81512d49f8d9",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zV"
+          },
+          "9c2f48cb-3356-4050-a574-a914542ea2e4": {
+            "id": "9c2f48cb-3356-4050-a574-a914542ea2e4",
+            "fieldPath": "/attributes/@incRC",
+            "rank": "zk"
+          },
+          "54cd876a-80e7-42ed-b23d-1903ee22610b": {
+            "id": "54cd876a-80e7-42ed-b23d-1903ee22610b",
+            "fieldPath": "/attributes/@incAU",
+            "rank": "zs"
+          },
+          "1243362a-46ba-4742-be6b-6e69cc90a58f": {
+            "id": "1243362a-46ba-4742-be6b-6e69cc90a58f",
+            "fieldPath": "/attributes/@incHU",
+            "rank": "zw"
+          },
+          "d7916f45-d92f-476e-a00c-94d630c4c616": {
+            "id": "d7916f45-d92f-476e-a00c-94d630c4c616",
+            "fieldPath": "/attributes/@incAA",
+            "rank": "zy"
+          },
+          "8b50ae22-17c8-4bbe-8d4c-d6adba65ab22": {
+            "id": "8b50ae22-17c8-4bbe-8d4c-d6adba65ab22",
+            "fieldPath": "/attributes/@incAB",
+            "rank": "zz"
+          },
+          "d9aa0edb-0fb1-49d4-a6d2-b5d9dc35f4b9": {
+            "id": "d9aa0edb-0fb1-49d4-a6d2-b5d9dc35f4b9",
+            "fieldPath": "/attributes/@incT1",
+            "rank": "zzV"
+          },
+          "ec07a099-1290-4ea5-b786-f7d171dd6023": {
+            "id": "ec07a099-1290-4ea5-b786-f7d171dd6023",
+            "fieldPath": "/attributes/@incBR",
+            "rank": "zzk"
+          },
+          "12c50fb6-281a-4a8e-9e26-2a76678addc0": {
+            "id": "12c50fb6-281a-4a8e-9e26-2a76678addc0",
+            "fieldPath": "/attributes/@incAI",
+            "rank": "zzs"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "c818651e-db51-4471-a160-dd7d3ee6f506": {
+            "id": "c818651e-db51-4471-a160-dd7d3ee6f506",
+            "fieldPath": "/attributes/@incID",
+            "rank": "z"
+          },
+          "ffd0d656-d5b4-46a4-88fb-55716fed6da2": {
+            "id": "ffd0d656-d5b4-46a4-88fb-55716fed6da2",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "zV"
+          },
+          "41e3ade1-0dcb-48a4-ad2e-976975b5f0a6": {
+            "id": "41e3ade1-0dcb-48a4-ad2e-976975b5f0a6",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "zk"
+          },
+          "2d80433a-40e5-491e-aecb-b9d17174382d": {
+            "id": "2d80433a-40e5-491e-aecb-b9d17174382d",
+            "fieldPath": "/attributes/@incST",
+            "rank": "zs"
+          },
+          "ffef69f2-705a-4be6-bae6-60a4d9089dc6": {
+            "id": "ffef69f2-705a-4be6-bae6-60a4d9089dc6",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "zw"
+          },
+          "9104714e-55f8-4e97-b7ff-dc83cc437e10": {
+            "id": "9104714e-55f8-4e97-b7ff-dc83cc437e10",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "zy"
+          },
+          "b58bccfc-a935-44a1-99a3-364959b659e1": {
+            "id": "b58bccfc-a935-44a1-99a3-364959b659e1",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zz"
+          },
+          "5b057a44-101e-4d6a-98bf-d903fee51951": {
+            "id": "5b057a44-101e-4d6a-98bf-d903fee51951",
+            "fieldPath": "/attributes/@incRC",
+            "rank": "zzV"
+          },
+          "8ec928bd-2bd0-4ecb-98c3-9212620b8bff": {
+            "id": "8ec928bd-2bd0-4ecb-98c3-9212620b8bff",
+            "fieldPath": "/attributes/@incAU",
+            "rank": "zzk"
+          },
+          "426116b1-e1be-4834-90dd-65b8e6c04985": {
+            "id": "426116b1-e1be-4834-90dd-65b8e6c04985",
+            "fieldPath": "/attributes/@incHU",
+            "rank": "zzs"
+          },
+          "c845cf4f-130b-4cdc-843a-ca50a3f249b3": {
+            "id": "c845cf4f-130b-4cdc-843a-ca50a3f249b3",
+            "fieldPath": "/attributes/@incAA",
+            "rank": "zzw"
+          },
+          "487f4a39-74ce-4a11-83ba-3dbce5376b10": {
+            "id": "487f4a39-74ce-4a11-83ba-3dbce5376b10",
+            "fieldPath": "/attributes/@incAB",
+            "rank": "zzy"
+          },
+          "4277dd81-7a6c-4389-a186-a96514fe7e4d": {
+            "id": "4277dd81-7a6c-4389-a186-a96514fe7e4d",
+            "fieldPath": "/attributes/@incT1",
+            "rank": "zzz"
+          },
+          "2775b527-6db6-4e2c-97d2-9c980be4653a": {
+            "id": "2775b527-6db6-4e2c-97d2-9c980be4653a",
+            "fieldPath": "/attributes/@incBR",
+            "rank": "zzzV"
+          },
+          "718075b7-d56f-47b1-91e7-6cafe48038d2": {
+            "id": "718075b7-d56f-47b1-91e7-6cafe48038d2",
+            "fieldPath": "/attributes/@incAI",
+            "rank": "zzzk"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "908110e4-4ca1-414a-9e87-94c471701510": {
+            "id": "908110e4-4ca1-414a-9e87-94c471701510",
+            "fieldPath": "/attributes/@incID",
+            "rank": "V"
+          },
+          "27f64960-5c86-48d9-aec0-dc722ea0264c": {
+            "id": "27f64960-5c86-48d9-aec0-dc722ea0264c",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "k"
+          },
+          "ee72d5a3-e486-478e-9696-f43eea64da6d": {
+            "id": "ee72d5a3-e486-478e-9696-f43eea64da6d",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "s"
+          },
+          "20602373-9c46-4502-ab9a-e0aa44669854": {
+            "id": "20602373-9c46-4502-ab9a-e0aa44669854",
+            "fieldPath": "/attributes/@incST",
+            "rank": "w"
+          },
+          "4b269a4d-f275-4b17-b48b-9e9cc40b64c3": {
+            "id": "4b269a4d-f275-4b17-b48b-9e9cc40b64c3",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "y"
+          },
+          "79f30854-f659-4993-b5df-b6cedfd5e47d": {
+            "id": "79f30854-f659-4993-b5df-b6cedfd5e47d",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "z"
+          },
+          "518cd831-8e5d-45b6-ae13-8f131581797d": {
+            "id": "518cd831-8e5d-45b6-ae13-8f131581797d",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zV"
+          },
+          "fcdee4bc-6a3e-4203-a23b-87a9312a5249": {
+            "id": "fcdee4bc-6a3e-4203-a23b-87a9312a5249",
+            "fieldPath": "/attributes/@incRC",
+            "rank": "zk"
+          },
+          "664261a9-77ac-4ab5-9879-0601e5c576f8": {
+            "id": "664261a9-77ac-4ab5-9879-0601e5c576f8",
+            "fieldPath": "/attributes/@incAU",
+            "rank": "zs"
+          },
+          "cd87bb39-0ac1-4d39-a68f-e8b4f179536c": {
+            "id": "cd87bb39-0ac1-4d39-a68f-e8b4f179536c",
+            "fieldPath": "/attributes/@incHU",
+            "rank": "zw"
+          },
+          "284efa43-6c26-4c4d-af09-afffb6c33c8d": {
+            "id": "284efa43-6c26-4c4d-af09-afffb6c33c8d",
+            "fieldPath": "/attributes/@incAA",
+            "rank": "zy"
+          },
+          "3ddfd6fa-c269-4441-a95c-a557dddd8a5c": {
+            "id": "3ddfd6fa-c269-4441-a95c-a557dddd8a5c",
+            "fieldPath": "/attributes/@incAB",
+            "rank": "zz"
+          },
+          "42a0899b-7124-4da4-b445-4504300806e1": {
+            "id": "42a0899b-7124-4da4-b445-4504300806e1",
+            "fieldPath": "/attributes/@incT1",
+            "rank": "zzV"
+          },
+          "3e506a62-8c3c-4277-a4dc-b3fc161c49c7": {
+            "id": "3e506a62-8c3c-4277-a4dc-b3fc161c49c7",
+            "fieldPath": "/attributes/@incBR",
+            "rank": "zzk"
+          },
+          "11822e41-fae4-45a1-810f-f960414ccf53": {
+            "id": "11822e41-fae4-45a1-810f-f960414ccf53",
+            "fieldPath": "/attributes/@incAI",
+            "rank": "zzs"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "72b9b493-3290-4222-acc3-037e905153b6": {
+            "id": "72b9b493-3290-4222-acc3-037e905153b6",
+            "fieldPath": "/attributes/@incID",
+            "rank": "V"
+          },
+          "78e40d63-d423-4dd5-abba-f5907027e9a8": {
+            "id": "78e40d63-d423-4dd5-abba-f5907027e9a8",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "k"
+          },
+          "a83969d6-dc7d-44fc-a51c-2918e1362ad3": {
+            "id": "a83969d6-dc7d-44fc-a51c-2918e1362ad3",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "s"
+          },
+          "1151c366-5a10-4273-93c7-a60863890ab8": {
+            "id": "1151c366-5a10-4273-93c7-a60863890ab8",
+            "fieldPath": "/attributes/@incST",
+            "rank": "w"
+          },
+          "facc5e49-7051-47f2-aa49-3d5cadb28bdf": {
+            "id": "facc5e49-7051-47f2-aa49-3d5cadb28bdf",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "y"
+          },
+          "977d351e-43d0-4393-9985-667298cc14eb": {
+            "id": "977d351e-43d0-4393-9985-667298cc14eb",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "z"
+          },
+          "cbbf7d11-a37f-4d57-8b57-5b2c88cbf206": {
+            "id": "cbbf7d11-a37f-4d57-8b57-5b2c88cbf206",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zV"
+          },
+          "de48f5f8-b194-493c-b370-058d657fc4d9": {
+            "id": "de48f5f8-b194-493c-b370-058d657fc4d9",
+            "fieldPath": "/attributes/@incRC",
+            "rank": "zk"
+          },
+          "afca1cce-ec87-45c1-9384-afe2dd5cf766": {
+            "id": "afca1cce-ec87-45c1-9384-afe2dd5cf766",
+            "fieldPath": "/attributes/@incAU",
+            "rank": "zs"
+          },
+          "590051ac-d506-49b0-9dcc-5027135c7e1b": {
+            "id": "590051ac-d506-49b0-9dcc-5027135c7e1b",
+            "fieldPath": "/attributes/@incHU",
+            "rank": "zw"
+          },
+          "42731c4c-66f2-4ddf-9521-0c53bef9d4ac": {
+            "id": "42731c4c-66f2-4ddf-9521-0c53bef9d4ac",
+            "fieldPath": "/attributes/@incAA",
+            "rank": "zy"
+          },
+          "f2f9b343-539b-41da-9c74-f6ec0f446943": {
+            "id": "f2f9b343-539b-41da-9c74-f6ec0f446943",
+            "fieldPath": "/attributes/@incAB",
+            "rank": "zz"
+          },
+          "e647a5b3-02b0-4657-a652-a6905f62c70b": {
+            "id": "e647a5b3-02b0-4657-a652-a6905f62c70b",
+            "fieldPath": "/attributes/@incT1",
+            "rank": "zzV"
+          },
+          "7c0bb9b3-d0a7-45eb-9781-9919fa9d0fa8": {
+            "id": "7c0bb9b3-d0a7-45eb-9781-9919fa9d0fa8",
+            "fieldPath": "/attributes/@incBR",
+            "rank": "zzk"
+          },
+          "92f7b52f-09c6-40e1-8f0c-7d5ee2f71d80": {
+            "id": "92f7b52f-09c6-40e1-8f0c-7d5ee2f71d80",
+            "fieldPath": "/attributes/@incAI",
+            "rank": "zzs"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "fcdfe419-ddb8-475f-b0c8-3629b4b96c77": {
+            "id": "fcdfe419-ddb8-475f-b0c8-3629b4b96c77",
+            "fieldPath": "/attributes/@incID",
+            "rank": "z"
+          },
+          "628fea96-3c5b-48ae-af72-fec121a4a1b8": {
+            "id": "628fea96-3c5b-48ae-af72-fec121a4a1b8",
+            "fieldPath": "/attributes/@incLC",
+            "rank": "zV"
+          },
+          "54fe1ae1-8340-4ddc-bda4-123740bc67e4": {
+            "id": "54fe1ae1-8340-4ddc-bda4-123740bc67e4",
+            "fieldPath": "/attributes/@incSV",
+            "rank": "zk"
+          },
+          "667a5783-2268-4d2f-be98-244dfa0414d9": {
+            "id": "667a5783-2268-4d2f-be98-244dfa0414d9",
+            "fieldPath": "/attributes/@incST",
+            "rank": "zs"
+          },
+          "23300859-4793-46b8-8f9d-0c57aeb1735d": {
+            "id": "23300859-4793-46b8-8f9d-0c57aeb1735d",
+            "fieldPath": "/attributes/@incLT",
+            "rank": "zw"
+          },
+          "e7560f1b-f425-4a25-b5b9-c9442f898a9c": {
+            "id": "e7560f1b-f425-4a25-b5b9-c9442f898a9c",
+            "fieldPath": "/attributes/@incLN",
+            "rank": "zy"
+          },
+          "98951fca-de64-4440-8631-2d48bd2bcef8": {
+            "id": "98951fca-de64-4440-8631-2d48bd2bcef8",
+            "fieldPath": "/attributes/@incRP",
+            "rank": "zz"
+          },
+          "713dd4dd-6105-469b-8c34-f059b3865447": {
+            "id": "713dd4dd-6105-469b-8c34-f059b3865447",
+            "fieldPath": "/attributes/@incRC",
+            "rank": "zzV"
+          },
+          "bdc4ac79-f0c8-4f34-a778-2db0bc22cbec": {
+            "id": "bdc4ac79-f0c8-4f34-a778-2db0bc22cbec",
+            "fieldPath": "/attributes/@incAU",
+            "rank": "zzk"
+          },
+          "20131c37-9078-4bc2-8927-918b05389b65": {
+            "id": "20131c37-9078-4bc2-8927-918b05389b65",
+            "fieldPath": "/attributes/@incHU",
+            "rank": "zzs"
+          },
+          "443e7f4d-6a79-4cc4-895a-95ee93348a8a": {
+            "id": "443e7f4d-6a79-4cc4-895a-95ee93348a8a",
+            "fieldPath": "/attributes/@incAA",
+            "rank": "zzw"
+          },
+          "efb684ea-c8a0-419f-a480-74f480e66c0c": {
+            "id": "efb684ea-c8a0-419f-a480-74f480e66c0c",
+            "fieldPath": "/attributes/@incAB",
+            "rank": "zzy"
+          },
+          "26c44ef5-552a-429d-bf96-461c7e4ad671": {
+            "id": "26c44ef5-552a-429d-bf96-461c7e4ad671",
+            "fieldPath": "/attributes/@incT1",
+            "rank": "zzz"
+          },
+          "36ad3b3f-f6ef-4cef-b395-6e0d3b3ae6f5": {
+            "id": "36ad3b3f-f6ef-4cef-b395-6e0d3b3ae6f5",
+            "fieldPath": "/attributes/@incBR",
+            "rank": "zzzV"
+          },
+          "b3255732-291c-4bdb-8366-501727380109": {
+            "id": "b3255732-291c-4bdb-8366-501727380109",
+            "fieldPath": "/attributes/@incAI",
+            "rank": "zzzk"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@incLN": {
+        "type": "number",
+        "displayName": "Longitude",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@incSV": {
+        "type": "Select",
+        "displayName": "Severity",
+        "options": {
+          "low": {
+            "id": "low",
+            "name": "Low",
+            "rank": "0",
+            "color": "#3b82f6"
+          },
+          "medium": {
+            "id": "medium",
+            "name": "Medium",
+            "rank": "1",
+            "color": "#f59e0b"
+          },
+          "high": {
+            "id": "high",
+            "name": "High",
+            "rank": "2",
+            "color": "#f43f5e"
+          },
+          "critical": {
+            "id": "critical",
+            "name": "Critical",
+            "rank": "3",
+            "color": "#9f1239"
+          }
+        }
+      },
+      "@incAI": {
+        "type": "string",
+        "displayName": "AI Summary"
+      },
+      "@incLT": {
+        "type": "number",
+        "displayName": "Latitude",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@incHU": {
+        "type": "Select",
+        "displayName": "Human Override",
+        "options": {
+          "unset": {
+            "id": "unset",
+            "name": "— AI Only",
+            "color": "#64748b",
+            "rank": "0"
+          },
+          "low": {
+            "id": "low",
+            "name": "Low",
+            "color": "#3b82f6",
+            "rank": "1"
+          },
+          "medium": {
+            "id": "medium",
+            "name": "Medium",
+            "color": "#f59e0b",
+            "rank": "2"
+          },
+          "high": {
+            "id": "high",
+            "name": "High",
+            "color": "#f43f5e",
+            "rank": "3"
+          },
+          "critical": {
+            "id": "critical",
+            "name": "Critical",
+            "color": "#9f1239",
+            "rank": "4"
+          }
+        }
+      },
+      "@incBR": {
+        "type": "DateTime",
+        "title": "SLA Breach Deadline"
+      },
+      "@incRC": {
+        "type": "string",
+        "displayName": "Ref Code"
+      },
+      "@incAU": {
+        "type": "Select",
+        "displayName": "AI Urgency",
+        "options": {
+          "low": {
+            "id": "low",
+            "name": "Low",
+            "color": "#3b82f6",
+            "rank": "0"
+          },
+          "medium": {
+            "id": "medium",
+            "name": "Medium",
+            "color": "#f59e0b",
+            "rank": "1"
+          },
+          "high": {
+            "id": "high",
+            "name": "High",
+            "color": "#f43f5e",
+            "rank": "2"
+          },
+          "critical": {
+            "id": "critical",
+            "name": "Critical",
+            "color": "#9f1239",
+            "rank": "3"
+          }
+        }
+      },
+      "@incLC": {
+        "type": "string",
+        "displayName": "Location Code"
+      },
+      "@incID": {
+        "type": "string",
+        "displayName": "Incident ID"
+      },
+      "@incT1": {
+        "type": "DateTime",
+        "title": "SLA T1 Deadline"
+      },
+      "@incRP": {
+        "type": "string",
+        "displayName": "Reporter"
+      },
+      "@incAA": {
+        "type": "DateTime",
+        "title": "Acknowledged At"
+      },
+      "@incAB": {
+        "type": "string",
+        "displayName": "Acknowledged By"
+      },
+      "@incST": {
+        "type": "Select",
+        "displayName": "Status",
+        "options": {
+          "pending": {
+            "id": "pending",
+            "name": "Pending Triage",
+            "rank": "0",
+            "color": "#f43f5e"
+          },
+          "reviewing": {
+            "id": "reviewing",
+            "name": "Reviewing",
+            "rank": "1",
+            "color": "#f59e0b"
+          },
+          "resolved": {
+            "id": "resolved",
+            "name": "Resolved",
+            "rank": "2",
+            "color": "#10b981"
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "avatar": {
+      "type": "emoji",
+      "value": "🧩"
+    }
+  }
+}

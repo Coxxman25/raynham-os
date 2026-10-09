@@ -1,0 +1,1832 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "f1000001-0001-4001-c001-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "Explainer Video Script — Absolute Defence (TrackTik-style, Partner Positioning)"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "ee100001-0001-4001-c001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "📋 STRATEGIC FRAME — Read this first",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ee100001-0001-4001-c001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Length:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " 90 seconds. Same length as TrackTik's. Long enough to land the message, short enough to send Andy in a follow-up email.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee100001-0001-4001-c001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "TrackTik's formula we are mirroring:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (1) Open with a punchy business problem (2) Frame it as cost / risk / lost trust (3) Position platform as the answer (4) Tie features to outcomes (5) Close with confidence and a CTA",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee100001-0001-4001-c001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Our flip:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " TrackTik solves chaos in security operations. We solve the gap nobody is solving — what happens to the PEOPLE on the premises when an incident is unfolding. We do NOT compete with TrackTik. We are the layer that sits ON TOP.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee100001-0001-4001-c001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Audience:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " COOs and security directors at established firms (Dardan, Securitas, Mitie, G4S). They already have ops platforms. They need a way to differentiate, retain contracts, and answer Martyn's Law.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee100001-0001-4001-c001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Three business outcomes we tie everything to:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (1) WIN MORE CONTRACTS (2) PROTECT CONTRACT VALUE (3) NEW REVENUE LINE",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ee200001-0001-4001-c001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎬 SCENE 1 (0:00–0:10) — THE HOOK",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ee200001-0001-4001-c001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VISUAL:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Aerial drone shot of a corporate campus at dusk. Lights flicker on. A single guard walks the perimeter. Cut to a frightened receptionist alone at a front desk. Cut to a contractor in an empty stairwell. Cut to a cleaner in a basement corridor.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee200001-0001-4001-c001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VOICEOVER (calm, authoritative, slightly grave):",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee200001-0001-4001-c001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Your guards are trained. Your operations are tracked. Your patrols are logged.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee200001-0001-4001-c001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "(beat) ",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\"But there are sixty other people in your client's building tonight. And when something happens to one of them — your system has nothing for them.\"",
+                      "attributes": {
+                        "bold": true,
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ee300001-0001-4001-c001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎬 SCENE 2 (0:10–0:25) — THE PROBLEM (Cost / Risk / Lost Trust)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ee300001-0001-4001-c001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VISUAL:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Quick cuts. Newspaper headlines: '£18M Martyn's Law fines.' '41,226 NHS staff assaults.' 'Corporate manslaughter charges filed.' Each one stamps onto screen with a heavy thud.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee300001-0001-4001-c001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VOICEOVER:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee300001-0001-4001-c001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Last year, 642,000 workplace violence incidents happened in the UK. Your guards saw a fraction of them. Your platform recorded fewer.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee300001-0001-4001-c001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Every unreported incident is a contract you can't defend. Every untrained response is a courtroom you can't win. Every silent victim is a client you'll lose.\"",
+                      "attributes": {
+                        "bold": true,
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee300001-0001-4001-c001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "DELIVERY NOTE:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " This is the equivalent of TrackTik's 'chaos is killing security margins.' We are saying: invisible incidents are killing security CONTRACTS.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ee400001-0001-4001-c001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎬 SCENE 3 (0:25–0:40) — THE CATEGORY (We Are The Missing Layer)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ee400001-0001-4001-c001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VISUAL:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Animated three-layer stack rises from the ground. Bottom layer labelled 'Guard Operations.' Middle layer labelled 'Workforce Management.' Top layer — glowing cyan — labelled 'Human Protection.' The Absolute Defence logo settles on the top layer.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee400001-0001-4001-c001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VOICEOVER:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee400001-0001-4001-c001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Your workforce platform tracks your guards. We protect everybody else.\"",
+                      "attributes": {
+                        "bold": true,
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee400001-0001-4001-c001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Every visitor. Every staff member. Every contractor. Every member of the public on the premises.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee400001-0001-4001-c001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Absolute Defence is the human protection layer that sits on top of your existing operations. Not instead of. On top of.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee400001-0001-4001-c001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "⭐ THIS IS THE STRATEGIC PIVOT.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Andy hears 'on top of, not instead of' — his TrackTik investment is safe. The threat dissolves. Now he's listening.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ee500001-0001-4001-c001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎬 SCENE 4 (0:40–1:05) — FEATURES TIED TO BUSINESS OUTCOMES",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ee500001-0001-4001-c001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "STRUCTURE:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Three rapid-fire feature/outcome pairs. Each gets ~8 seconds. Each outcome is a CFO word.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee500001-0001-4001-c001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FEATURE 1 → WIN MORE CONTRACTS",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "ee500001-0001-4001-c001-000000000012",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "VISUAL:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Hand holding phone scans a QR poster on a glass wall. Three options bloom on screen: Report — SOS — Guidance. Cut to a Cambridge-style university courtyard with the same QR live.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ee500001-0001-4001-c001-000000000013",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "VO: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"A QR code on every wall turns every visitor, every staff member, every contractor into a sensor in your network. No app. No login. Thirty seconds.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ee500001-0001-4001-c001-000000000014",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "OUTCOME LINE: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"You walk into renewals with intelligence no other security firm can produce.\"",
+                          "attributes": {
+                            "bold": true,
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "ee500001-0001-4001-c001-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FEATURE 2 → PROTECT CONTRACT VALUE",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "ee500001-0001-4001-c001-000000000021",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "VISUAL:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Acknowledgement chain UI fires up — incident logged, Safety Lead notified, countdown ticking, escalation triggered. Cut to a courtroom. A folder labelled 'Duty of Care Evidence' lands on the bench.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ee500001-0001-4001-c001-000000000022",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "VO: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"Every incident is triaged by AI in seconds. Every response is timestamped. Every escalation is logged. Martyn's Law ready. Courtroom ready. Insurer ready.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ee500001-0001-4001-c001-000000000023",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "OUTCOME LINE: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"One serious incident without proof of due diligence is a lost contract. We make that loss impossible.\"",
+                          "attributes": {
+                            "bold": true,
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "ee500001-0001-4001-c001-000000000030",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FEATURE 3 → NEW REVENUE LINE",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "h2",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "ee500001-0001-4001-c001-000000000031",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "VISUAL:",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " Live threat heatmap pulses across a multi-site dashboard. Zone risk scores update in real time. Cut to a quarterly threat review document with a security firm's logo on the cover.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ee500001-0001-4001-c001-000000000032",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "VO: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"Eighteen months of zone-level threat intelligence. Predictive heatmaps. Sector benchmarks. White-labelled. Yours to sell.\"",
+                          "attributes": {
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "ee500001-0001-4001-c001-000000000033",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "OUTCOME LINE: ",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\"Stop selling guard hours. Start selling protected ecosystems. New margin. Stickier clients. Higher contract values.\"",
+                          "attributes": {
+                            "bold": true,
+                            "italic": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ee600001-0001-4001-c001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎬 SCENE 5 (1:05–1:20) — PROOF & PROVENANCE",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ee600001-0001-4001-c001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VISUAL:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Black and white archival-style footage of military operators on the ground (silhouetted, abstract — not literal). Dissolve into modern UI of ARIA agents lighting up. Then quick logos: Cambridge-tier client placeholder, Martyn's Law badge, ISO compliance marks.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee600001-0001-4001-c001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VO:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee600001-0001-4001-c001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Built by operators with thirty years in hostile environments. Not by software companies. Not by tech founders. By the people who've been in the moment.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee600001-0001-4001-c001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Deployed in forty-eight hours. Integrated with your existing platform. UK-hosted. Regulator-ready.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee600001-0001-4001-c001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "DELIVERY NOTE:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " The 'built by operators' line is for Andy specifically. Sandhurst. Royal Anglian. He buys from people who've earned the right to sell.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ee700001-0001-4001-c001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎬 SCENE 6 (1:20–1:30) — THE CLOSE",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ee700001-0001-4001-c001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VISUAL:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Hold on the three layers. The top layer (Absolute Defence) glows brighter. Then full screen: Tagline appears. Detect. Respond. Prove. Logo. URL.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee700001-0001-4001-c001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VOICEOVER (slow, definitive):",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee700001-0001-4001-c001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Your platform protects the security business.\"",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee700001-0001-4001-c001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Absolute Defence protects the people the security business is hired to keep safe.\"",
+                      "attributes": {
+                        "bold": true,
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee700001-0001-4001-c001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "(beat) ",
+                      "attributes": {
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\"Detect. Respond. Prove.\"",
+                      "attributes": {
+                        "bold": true,
+                        "italic": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee700001-0001-4001-c001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "END CARD: ",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "absolutedefence.com  |  Live demo on request  |  Deploys in 48 hours",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ee800001-0001-4001-c001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎯 DARDAN MEETING — How To Use This Script",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ee800001-0001-4001-c001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Send the 90-second video to Andy 24 hours BEFORE the meeting. Subject line: 'The layer TrackTik never built — for Dardan.' Pre-frame the conversation.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee800001-0001-4001-c001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "In the meeting, do NOT play the video. Reference it. 'You'll have seen our short film. The reason we made it short is because the gap is simple to describe — and it's costing the industry contracts.'",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee800001-0001-4001-c001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Lead with the partnership angle Andy can take to Philip Anthony (CEO): 'We are not asking Dardan to replace TrackTik. We are offering Dardan a layer to sell on top of it. Every site you protect becomes a Dardan-branded technology offering. Sticky clients. Higher contracts.'",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee800001-0001-4001-c001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The shared military background is the foundation. Lead with respect, not product. Ollie's tours and Andy's Sandhurst command shared language. The video does the product talking. The room does the relationship building.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ee900001-0001-4001-c001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎙 PRODUCTION NOTES",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "ee900001-0001-4001-c001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Voiceover talent: Male, British, 40s, low register. Think Idris Elba calm — not Hollywood thriller, not corporate slick. Authority earned, not performed.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee900001-0001-4001-c001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Music: Sparse cinematic score. Single sustained note that builds. No drums until Scene 4. Nothing triumphant — something resolved, inevitable.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee900001-0001-4001-c001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Colour grade: Cool dark blues with cyan accent on platform UI. Warm flesh tones on the human shots — the contrast tells the story before the words do.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee900001-0001-4001-c001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Production route: NotebookLM can generate a draft using this script. For broadcast quality, brief a freelance motion graphics studio (£3-8k) or use Synthesia / Runway for V1, then upgrade. Pin V1 to investor decks and Andy's email.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee900001-0001-4001-c001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Sub-30s cutdown: Chop out Scenes 4-5. Keep Hook, Problem, Category, Close. Use as LinkedIn organic + paid creative. Same script, two assets.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "🔗"
+    }
+  }
+}

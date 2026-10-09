@@ -1,0 +1,3528 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a0000001-0001-4001-b001-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "Pitch Deck — Why Absolute Defence Over TrackTik & QR-Patrol"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "907dd95b-5433-45c1-9fc3-5d9ac8aca896",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 1 — TITLE",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c1d0d3b4-5338-4400-8d0a-f6679f40815d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Headline:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"Beyond Guard Tours. Beyond Workforce Management. Into Human Protection.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "69f7def3-fa0a-41b3-9485-572d231994a0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Subtitle:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Why Absolute Defence is the layer that TrackTik and QR-Patrol cannot deliver.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c1a9e7f5-d9c7-4850-b4d3-de946a93e734",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Tagline:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Detect. Respond. Prove.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "141e8124-1164-47ec-9a0d-6ae09efc35a8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Visual notes:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Dark background. Cyan accent. Absolute Defence logo centre. No clutter. Authority.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "6f823950-ec47-46e0-9fbb-d40ca2071db5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 2 — THE QUESTION THAT CHANGES EVERYTHING",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "dc39a036-00e3-411d-a4af-784a71c58b67",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Centre of slide, large font:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2895ba55-55d7-4ddc-b5b2-be892ae35743",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Your guard management system tells you WHERE your guards are.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5b80a7b2-ab49-41bf-b5d4-342b93c2c9bb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"But when a visitor, a staff member, or a member of the public is threatened in your building right now — what does your system do for THEM?\"",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "abc38f29-258e-478c-b533-c1bb344b67ec",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Speaker notes:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Pause here. Let it land. This is the gap the entire industry has ignored. TrackTik tracks guards. QR-Patrol proves guards patrolled. Neither protects the person in danger.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "60575f2a-78c9-400c-b916-99824ba34797",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 3 — WHAT TRACKTIK ACTUALLY IS",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "f1749540-bd01-438c-abcb-e4f14ce317f2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"TrackTik = Workforce Management. The Business of Running a Security Company.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1415773a-5dd0-4cc5-8cd3-31cf6ea22093",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What TrackTik does well:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ac6b2bbe-ef71-4c60-92ae-1aa87928e773",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AI-optimised guard scheduling and shift management",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ed4ee30f-001f-4fd8-b49e-c08eab8483a1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "GPS-verified guard tour tracking (NFC, QR, GPS)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e08cb9b3-33e1-461b-8742-3f08ee28701c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "White-labelled client portals for service verification",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "86a58152-7641-467b-ad3b-d8eda108070d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Incident reporting by guards (ReportPro AI for report writing)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b5199894-ad9b-4ad7-9241-4eb7e763e45a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Payroll, billing, compliance licence tracking, business intelligence",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b29a4478-17af-4eca-a5b5-68d670b4f0fc",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The fundamental limit:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " TrackTik is built FOR security companies TO manage guards. It is not built for the people guards are supposed to protect. No public reporting. No anonymous channels. No real-time guidance. No AI threat intelligence. No Martyn's Law compliance engine.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c84bb5c7-16fa-4187-b2f9-5979fefe3a15",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Pricing:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Enterprise. ~$78/location/month upward. Custom quotes only. 6-12 month implementations.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "47dd393f-ed70-4693-bd34-53da3a4bc390",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 4 — WHAT QR-PATROL ACTUALLY IS",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c066a24c-70fa-4559-85c9-028c98f8173d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"QR-Patrol = Guard Accountability. Proving the Patrol Happened.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9892028c-14e6-47ee-b88e-a1072b6d8efe",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "What QR-Patrol does well:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1f89d88c-83ca-4547-88a4-0f00cc252a3e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QR/NFC/Beacon checkpoint scanning to verify guard patrol routes",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "0da6e14f-f3e4-49a3-8136-a7542aa19e3b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Guard schedule management and timekeeping",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c8889b65-6c2b-4b87-b58a-4197e26fcb37",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Missed checkpoint alerts and patrol duration reporting",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "dc6e3c2e-1124-4af8-b4c2-7507ed7a1fa2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Guard SOS button and basic incident reports (multimedia)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "da40356e-aa4f-442d-a057-cc7892b6d308",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Affordable: $3.20–$11.10/guard/month. Used by Securitas, Heathrow, IKEA, Pfizer",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9b98948b-41c9-471a-94f8-950f72df5da2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "The fundamental limit:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " QR-Patrol's QR codes are scanned BY guards TO prove they were at a checkpoint. Our QR codes are scanned BY anyone IN DANGER to access real-time protection. Same technology. Fundamentally different purpose.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bd32ff69-e118-405a-9b1b-6511101a3af5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No public/victim reporting. No anonymous channels. No AI triage. No threat heatmaps. No in-the-moment guidance. No Martyn's Law engine. No behavioural training.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d5a1b2c3-d4e5-f678-9001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 5 — THE THREE LAYERS (We Complete the Stack)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d5a1b2c3-d4e5-f678-9001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"Three Platforms. Three Purposes. One Missing Layer.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d5a1b2c3-d4e5-f678-9001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Visual:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Three stacked layers, building upward like a defence wall:",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d5a1b2c3-d4e5-f678-9001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Layer 1 (bottom) — QR-PATROL:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Guard Accountability. \"Did the guard patrol?\" QR checkpoints prove the patrol happened. Answers the question: was the guard there?",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d5a1b2c3-d4e5-f678-9001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Layer 2 (middle) — TRACKTIK:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Workforce Management. \"Is the operation running?\" Scheduling, payroll, client portals, business admin. Answers the question: is the security business efficient?",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d5a1b2c3-d4e5-f678-9001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Layer 3 (top, highlighted) — ABSOLUTE DEFENCE:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Human Protection. \"What happens when someone is actually in danger?\" Real-time threat response, AI intelligence, public/victim protection, compliance evidence. Answers the question: is the person safe?",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d5a1b2c3-d4e5-f678-9001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Bottom line:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"We are not competing with TrackTik or QR-Patrol. We are the missing third layer that neither can deliver. We complete the stack.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d6a1b2c3-d4e5-f678-9001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 6 — SAME TECHNOLOGY, DIFFERENT PURPOSE (The QR Comparison)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d6a1b2c3-d4e5-f678-9001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"QR Codes — Guard Tool vs Human Shield\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d6a1b2c3-d4e5-f678-9001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Visual: Split screen — LEFT vs RIGHT",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d6a1b2c3-d4e5-f678-9001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "LEFT — QR-PATROL:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Guard scans QR code on wall → System logs \"Guard was at Checkpoint 7 at 02:14\" → Manager sees patrol was completed. Purpose: ACCOUNTABILITY. Who scans: GUARD. Output: Timestamp.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d6a1b2c3-d4e5-f678-9001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "RIGHT — ABSOLUTE DEFENCE:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Person in danger scans QR code on wall → Three paths appear: Report a Concern | SOS Emergency | Situational Guide → ARIA triages, Safety Lead notified, guidance delivered in real-time. Purpose: PROTECTION. Who scans: ANYONE. Output: A defended human.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d6a1b2c3-d4e5-f678-9001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Speaker notes:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " This is the single most important slide. Same QR code. Completely opposite purpose. One proves a guard walked past. The other saves the person standing there.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d7a1b2c3-d4e5-f678-9001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 7 — FEATURE-BY-FEATURE MATRIX",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"What You Get — Side by Side\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Table: (Render as a clean comparison grid)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "GUARD TOUR TRACKING — TrackTik: ✅ Advanced | QR-Patrol: ✅ Core feature | Absolute Defence: ✅ (via zone check-ins)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "GUARD SCHEDULING & PAYROLL — TrackTik: ✅ AI-optimised | QR-Patrol: ✅ Basic | Absolute Defence: ✗ (not our layer)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "PUBLIC/VICTIM REPORTING — TrackTik: ✗ | QR-Patrol: ✗ | Absolute Defence: ✅ Anyone, no app, 30 seconds",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ANONYMOUS VOICE/TEXT CHANNEL — TrackTik: ✗ | QR-Patrol: ✗ | Absolute Defence: ✅ Voice Journal with AI sentiment analysis",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AI THREAT INTELLIGENCE — TrackTik: ✗ (ReportPro = report writing only) | QR-Patrol: ✗ | Absolute Defence: ✅ ARIA — triage, pattern detection, predictive heatmaps, real-time guidance",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000017",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "REAL-TIME SITUATIONAL GUIDANCE — TrackTik: ✗ | QR-Patrol: ✗ | Absolute Defence: ✅ De-escalation scripts, legal position, step-by-step actions for 8 threat scenarios",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000018",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "SOS EMERGENCY PROTOCOL — TrackTik: ✗ | QR-Patrol: ✅ Guard SOS only | Absolute Defence: ✅ One-tap for ANYONE — auto 999, silent log, GPS, Safety Lead alert",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000019",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ACKNOWLEDGEMENT CHAIN (Timed escalation) — TrackTik: ✗ | QR-Patrol: ✗ | Absolute Defence: ✅ 15min→30min→breach, fully audited",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "LIVE THREAT HEATMAP — TrackTik: ✗ | QR-Patrol: ✗ | Absolute Defence: ✅ Recency-weighted, zone-level, temporal patterns",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000021",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "MARTYN'S LAW COMPLIANCE — TrackTik: ✗ | QR-Patrol: ✗ | Absolute Defence: ✅ Out of the box",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000022",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "COURTROOM-READY EVIDENCE — TrackTik: Partial (guard logs) | QR-Patrol: ✗ | Absolute Defence: ✅ Full duty-of-care chain: who was alerted, when they responded, every timestamp",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000023",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "BEHAVIOURAL TRAINING — TrackTik: ✗ | QR-Patrol: ✗ | Absolute Defence: ✅ Military-grade, progressive, in-person, delivered by operators",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d7a1b2c3-d4e5-f678-9001-000000000024",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "DEPLOYMENT TIME — TrackTik: 6-12 months | QR-Patrol: Days | Absolute Defence: 48 hours, full platform",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d8a1b2c3-d4e5-f678-9001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 8 — ARIA: THE INTELLIGENCE LAYER THEY CAN'T BUILD",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"TrackTik Has ReportPro. We Have ARIA. They Are Not The Same Thing.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "LEFT column — TrackTik ReportPro AI:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Helps guards write incident reports faster using AI auto-complete",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Suggests report language and formatting",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "It's a typing assistant. It writes better reports. That's it.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "RIGHT column — Absolute Defence ARIA:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Real-time incident triage — classifies severity, concern type, regulatory category automatically",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000017",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Sentiment analysis on voice journals — detects distress, fear, urgency in anonymous reports",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000018",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Threat pattern recognition — identifies spatial clusters, temporal hotspots, repeat offenders",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000019",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Predictive heatmapping — \"This car park is 4.2x more likely to have an incident Fridays 20:00–23:00\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "On-demand legal and situational guidance — tells the person what to do RIGHT NOW",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000021",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Drafts Safety Lead escalation messages, compliance reports, and risk summaries in seconds",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d8a1b2c3-d4e5-f678-9001-000000000022",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Speaker notes:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " ReportPro helps a guard write a better sentence. ARIA analyses the entire threat landscape, predicts where danger will strike next, and tells the person in danger what to do. They are not even in the same category.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e9a1b2c3-d4e5-f678-9001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 9 — THE CRISIS THEIR PLATFORMS IGNORE",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e9a1b2c3-d4e5-f678-9001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"642,000 Workplace Violence Incidents. Zero Guard Tour Systems Helped The Victim.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e9a1b2c3-d4e5-f678-9001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Stats (large, impactful):",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e9a1b2c3-d4e5-f678-9001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "642,000 workplace violence incidents in UK — HSE 2023/24",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e9a1b2c3-d4e5-f678-9001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "41,226 physical assaults on NHS staff — up 21% since 2019",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e9a1b2c3-d4e5-f678-9001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "78% of retail workers verbally assaulted — BRC 2025",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e9a1b2c3-d4e5-f678-9001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "86% of tradespeople report customer abuse — 10% face physical attacks",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e9a1b2c3-d4e5-f678-9001-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Martyn's Law incoming — fines up to £18M for non-compliance",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e9a1b2c3-d4e5-f678-9001-000000000017",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Speaker notes:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " TrackTik's scheduling didn't prevent any of these. QR-Patrol's checkpoint scans didn't help the person being attacked. The guard management layer is necessary — but it is not sufficient. Protection requires a different system.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e10a1b2c-d4e5-f678-9001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 10 — THE ACKNOWLEDGEMENT CHAIN (What Courtrooms Ask For)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e10a1b2c-d4e5-f678-9001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"If Nobody Responds, The System Escalates. Automatically.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e10a1b2c-d4e5-f678-9001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Visual: Horizontal timeline with countdown:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e10a1b2c-d4e5-f678-9001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "T+0 — Incident logged. Safety Lead notified instantly. Clock starts.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e10a1b2c-d4e5-f678-9001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "T+15min — No acknowledgement? Auto-escalate to Tier 2 contact.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e10a1b2c-d4e5-f678-9001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "T+30min — No Tier 2 response? Compliance breach logged. Full audit trail created.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e10a1b2c-d4e5-f678-9001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Every timestamp. Every decision. Every delay. Courtroom-ready.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e10a1b2c-d4e5-f678-9001-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "TrackTik equivalent: None.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " TrackTik logs guard activity, not organisational response. QR-Patrol: None. Neither platform can demonstrate that the right people were alerted, responded within SLA, or escalated appropriately.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e11a1b2c-d4e5-f678-9001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 11 — NINE AI AGENTS (The Organisational Brain)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"Nine Specialised AI Agents. One Organisational Defence System.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Visual: Circular diagram with SENTINEL at centre, 8 agents around the perimeter:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "SENTINEL (Orchestrator) — Routes and coordinates all agents",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ARIA (Threat Intelligence) — Analyses every report, scores risk, detects patterns",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "GUARDIAN (Triage & Response) — Classifies severity, deploys guidance, manages SLA",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "WITNESS (Evidence) — Constructs courtroom-ready case files in real-time",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "COMPASS (Compliance) — Monitors Martyn's Law, RIDDOR, ISO 45001, KCSIE",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000017",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ORACLE (Predictive) — Historical pattern analysis, seasonal risk, proactive advisories",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000018",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "BRIDGE (Communications) — Multi-channel alerts, client reports, victim follow-up",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000019",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FORGE (Training) — Identifies capability gaps, generates training recommendations",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000020",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "SHIELD (Insurance) — Risk scores, premium reduction evidence, insurer-ready packs",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e11a1b2c-d4e5-f678-9001-000000000021",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "TrackTik has one AI feature: ReportPro (report writing). QR-Patrol has zero AI. We have nine specialised agents working in concert.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e12a1b2c-d4e5-f678-9001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 12 — PRICING REALITY CHECK",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e12a1b2c-d4e5-f678-9001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"What You Pay. What You Get. What You're Still Missing.\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e12a1b2c-d4e5-f678-9001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Three columns:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e12a1b2c-d4e5-f678-9001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "TrackTik:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " ~$78/location/month. Enterprise quotes only. 6-12 month implementation. You get: guard management, scheduling, payroll, client portal. You DON'T get: public protection, AI threat intel, compliance engine, training.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e12a1b2c-d4e5-f678-9001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QR-Patrol:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " $3.20–$11.10/guard/month. Self-serve. Deploys in days. You get: checkpoint scanning, guard SOS, patrol reports. You DON'T get: public reporting, AI, heatmaps, guidance, compliance, training.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e12a1b2c-d4e5-f678-9001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Absolute Defence:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Sub-£5k/yr per site. 48-hour deployment. You get: EVERYTHING on the human protection layer — AI triage, public reporting, SOS, heatmaps, acknowledgement chain, compliance engine, situational guidance, evidence chain. Plus military-grade training.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e12a1b2c-d4e5-f678-9001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Bottom line:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " You can use all three. TrackTik for your guards. QR-Patrol for your checkpoints. Absolute Defence for your people. Or you can keep paying for two systems and leave the people unprotected.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e13a1b2c-d4e5-f678-9001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 13 — THE OBJECTION KILLER",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e13a1b2c-d4e5-f678-9001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"But We Already Use TrackTik / QR-Patrol…\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e13a1b2c-d4e5-f678-9001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"We're not asking you to replace them. We're asking you to finish the job.\"",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e13a1b2c-d4e5-f678-9001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "TrackTik tells you your guards are deployed. It doesn't tell your receptionist what to do when someone threatens her.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e13a1b2c-d4e5-f678-9001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QR-Patrol proves your guard was at Checkpoint 7. It doesn't help the student being bullied at Checkpoint 7.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e13a1b2c-d4e5-f678-9001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Neither will generate the compliance evidence Martyn's Law demands.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e13a1b2c-d4e5-f678-9001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Neither will produce the duty-of-care documentation a courtroom requires.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e13a1b2c-d4e5-f678-9001-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Neither trains your people to handle a hostile situation without freezing.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e13a1b2c-d4e5-f678-9001-000000000017",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Absolute Defence doesn't replace your guard management. It protects the people your guards are there to protect.\"",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e14a1b2c-d4e5-f678-9001-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLIDE 14 — THE CLOSE",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e14a1b2c-d4e5-f678-9001-000000000010",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Title:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " \"When Something Happens In Your Building Tomorrow…\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e14a1b2c-d4e5-f678-9001-000000000011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Three lines, building in size:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e14a1b2c-d4e5-f678-9001-000000000012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Will your guard tour system help the person being threatened?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e14a1b2c-d4e5-f678-9001-000000000013",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Will your checkpoint scanner give them guidance on what to do?\"",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e14a1b2c-d4e5-f678-9001-000000000014",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "\"Will your system prove to a court that you did everything right?\"",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e14a1b2c-d4e5-f678-9001-000000000015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Absolute Defence. Detect. Respond. Prove.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e14a1b2c-d4e5-f678-9001-000000000016",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Deploy in 48 hours. Live demo available now.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e14a1b2c-d4e5-f678-9001-000000000017",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Built by operators. Not software companies.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📅"
+    }
+  }
+}

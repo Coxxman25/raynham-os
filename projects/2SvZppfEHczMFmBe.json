@@ -1,0 +1,589 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "text": {
+          "ops": [
+            {
+              "insert": "ADOS Action Plan — Analysis Session"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b2c3d4e5-f678-90ab-cdef-123456789001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Current State Summary",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c3d4e5f6-7890-abcd-ef12-345678900001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "App router: ?anchor=red/amber/green QR shells + operator Layout",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c3d4e5f6-7890-abcd-ef12-345678900002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Operator: NavRail + RiskMap + IncidentVault + Registry + VoiceJournalMonitor + KnowledgeVault + DemoKit + ARIA drawer",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c3d4e5f6-7890-abcd-ef12-345678900003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Design system: Absolute Night colors fully defined in index.css. Anchor colors: Red=#C0392B Amber=#FFB800 Green=#00C853 Cyan=#00E5FF",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c3d4e5f6-7890-abcd-ef12-345678900004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "APIs: Locations, Incidents, RiskZones, VoiceJournals projects. Webhook IDs exist. ARIA agent ID exists.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c3d4e5f6-7890-abcd-ef12-345678900005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QR Anchors: Red (ACT/SOS), Amber (KNOW/info), Green (GO/wayfinding) — shells exist but Amber/Green are thin",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b2c3d4e5-f678-90ab-cdef-123456789002",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Key Gaps Identified",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d4e5f678-90ab-cdef-1234-567890000001",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No Pinboard on QR portal (daily engagement hook missing)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d4e5f678-90ab-cdef-1234-567890000002",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No Pinboard Publisher in command layer (one-way only)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d4e5f678-90ab-cdef-1234-567890000003",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No Intelligence/Analytics module (Module C)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d4e5f678-90ab-cdef-1234-567890000004",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No Partner Layer (Module D) - white label portal",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d4e5f678-90ab-cdef-1234-567890000005",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QR portal language still uses 'incidents' not 'observations'",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d4e5f678-90ab-cdef-1234-567890000006",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AcknowledgementTimer exists but not prominently featured in command dashboard",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e5f6a7b8-c9d0-1234-efab-cdef01234567",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SLA Architecture — Session 3 (2026-05-01)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "f6a7b8c9-d0e1-2345-fabc-def012345678",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cases project created: ztd6SU83Rc7whFzu — SLA fields: @csST, @csAU, @csHU, @csEU, @csT1, @csT2, @csBR, @csAA, @csAB, @csEP",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a7b8c9d0-e1f2-3456-abcd-ef0123456789",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Evidence Pack project created: aLRijzrKNwArTeM2 — immutable audit trail, event types: submitted/ai_triage/human_override/acknowledged/escalated_t1/escalated_t2/sla_breach/resolved/note/evidence_sealed",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b8c9d0e1-f2a3-4567-bcde-f01234567890",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Observation Intake webhook: 01KQJHJDC1YXES028BY0GEHDJ0 — AI triage + ref code generation + Case creation + Evidence entry + JSON output with ref_code",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c9d0e1f2-a3b4-5678-cdef-012345678901",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Case Status Lookup webhook: 01KQJHQSWAVCR92DHC2XAKPQ9J — finds case by ref_code, returns status for anonymous submitters",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d0e1f2a3-b4c5-6789-defa-123456789012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Human Override webhook: 01KQJHRZAD9TN76HB4SXWBC4FY — logs override to Evidence Pack (sealed), notifies ARIA, returns confirmation",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e1f2a3b4-c5d6-7890-efab-234567890123",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Reflex C2 SLA Monitor: 01KQJHTKHV2ZJJARD6GABRTAQV — hourly, checks Cases project @csT1/@csT2/@csBR vs current time via ARIA, logs to Evidence Pack",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f2a3b4c5-d6e7-8901-fabc-345678901234",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "App: PublicReportForm updated — calls INTAKE_WEBHOOK_ID=01KQJHJDC1YXES028BY0GEHDJ0, gets server ref_code, displays 4-char code prominently on success screen",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a3b4c5d6-e7f8-9012-abcd-456789012345",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "App: IncidentVault — Override button added (amber, UserCheck icon), OverrideModal with urgency selector + reason + operator name, sealed to Evidence Pack. Uses OVERRIDE_WEBHOOK_ID=01KQJHRZAD9TN76HB4SXWBC4FY",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📃"
+    }
+  }
+}

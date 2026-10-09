@@ -1,0 +1,163 @@
+{
+  "version": "2",
+  "flowTitle": "Log Incident Webhook",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string",
+            "description": "Input for status"
+          },
+          "latitude": {
+            "type": "number"
+          },
+          "reporter": {
+            "type": "string",
+            "description": "Input for reporter"
+          },
+          "severity": {
+            "type": "string",
+            "description": "Input for severity"
+          },
+          "longitude": {
+            "type": "number"
+          },
+          "description": {
+            "type": "string",
+            "description": "Input for description"
+          },
+          "locationCode": {
+            "type": "string",
+            "description": "Input for locationCode"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "1d4ac10b-58cc-4372-a567-0e02b2c3d479",
+      "valid": false,
+      "displayName": "Create Incident Task",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "fields": {
+            "@incLC": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"locationCode\"] }}"
+              },
+              "rank": "0",
+              "fieldId": "@incLC"
+            },
+            "@incLN": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"longitude\"] }}"
+              },
+              "rank": "1",
+              "fieldId": "@incLN"
+            },
+            "@incLT": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"latitude\"] }}"
+              },
+              "rank": "2",
+              "fieldId": "@incLT"
+            },
+            "@incRP": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"reporter\"] }}"
+              },
+              "rank": "3",
+              "fieldId": "@incRP"
+            },
+            "@incST": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"status\"] }}"
+              },
+              "rank": "4",
+              "fieldId": "@incST"
+            },
+            "@incSV": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"severity\"] }}"
+              },
+              "rank": "5",
+              "fieldId": "@incSV"
+            }
+          },
+          "content": "{{ trigger[\"body\"][\"description\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "r7RYBwhZXTAuaaP7"
+          }
+        }
+      }
+    },
+    {
+      "name": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "valid": true,
+      "displayName": "AI Classify Severity & Category",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.categorize",
+        "input": {
+          "input": "Classify this incident report into one severity level — low, medium, high, or critical — and one category — slip_trip, equipment, safeguarding, or other. Respond ONLY with valid JSON matching the schema. Report: {{ trigger[\"body\"][\"description\"] }} Location: {{ trigger[\"body\"][\"locationCode\"] }}",
+          "output": {
+            "type": "custom",
+            "schema": {
+              "type": "object",
+              "required": [
+                "severity",
+                "category",
+                "summary"
+              ],
+              "properties": {
+                "summary": {
+                  "type": "string"
+                },
+                "category": {
+                  "enum": [
+                    "slip_trip",
+                    "equipment",
+                    "safeguarding",
+                    "other"
+                  ],
+                  "type": "string"
+                },
+                "severity": {
+                  "enum": [
+                    "low",
+                    "medium",
+                    "high",
+                    "critical"
+                  ],
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "r7RYBwhZXTAuaaP7": {
+      "id": "r7RYBwhZXTAuaaP7",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

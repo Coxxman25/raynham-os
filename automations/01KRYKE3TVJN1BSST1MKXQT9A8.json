@@ -1,0 +1,300 @@
+{
+  "version": "2",
+  "flowTitle": "Observation Intake — Ref Code + SLA Clock",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "latitude": {
+            "type": "number"
+          },
+          "reporter": {
+            "type": "string",
+            "description": "Input for reporter"
+          },
+          "longitude": {
+            "type": "number"
+          },
+          "anchorColor": {
+            "type": "string",
+            "description": "Input for anchorColor"
+          },
+          "description": {
+            "type": "string",
+            "description": "Input for description"
+          },
+          "locationCode": {
+            "type": "string",
+            "description": "Input for locationCode"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a1f2e3d4-b5c6-7890-abcd-ef0123456789",
+      "valid": true,
+      "displayName": "ARIA — Classify Urgency & Category",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.categorize",
+        "input": {
+          "input": "Classify this observation for a security/safety platform. Return severity (low/medium/high/critical) and category (verbal_abuse/physical_threat/slip_trip/facilities/welfare/suspicious/other). Observation: {{ trigger[\"body\"][\"description\"] }} Zone: {{ trigger[\"body\"][\"locationCode\"] }}",
+          "output": {
+            "type": "custom",
+            "schema": {
+              "type": "object",
+              "required": [
+                "severity",
+                "category",
+                "summary",
+                "ref_suffix"
+              ],
+              "properties": {
+                "summary": {
+                  "type": "string",
+                  "description": "One-sentence summary for operator triage card"
+                },
+                "category": {
+                  "enum": [
+                    "verbal_abuse",
+                    "physical_threat",
+                    "slip_trip",
+                    "facilities",
+                    "welfare",
+                    "suspicious",
+                    "other"
+                  ],
+                  "type": "string"
+                },
+                "severity": {
+                  "enum": [
+                    "low",
+                    "medium",
+                    "high",
+                    "critical"
+                  ],
+                  "type": "string"
+                },
+                "ref_suffix": {
+                  "type": "string",
+                  "description": "Exactly 2 uppercase alphanumeric characters for the reference code suffix (eg: B2, X9, M4)"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "b2e3f4a5-c6d7-8901-bcde-f01234567890",
+      "valid": false,
+      "displayName": "Write Observation to Incidents Project",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "fields": {
+            "@incAI": {
+              "data": {
+                "value": "{{ a1f2e3d4-b5c6-7890-abcd-ef0123456789[\"summary\"] }}"
+              },
+              "rank": "4",
+              "fieldId": "@incAI"
+            },
+            "@incLC": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"locationCode\"] }}"
+              },
+              "rank": "0",
+              "fieldId": "@incLC"
+            },
+            "@incLN": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"longitude\"] }}"
+              },
+              "rank": "2",
+              "fieldId": "@incLN"
+            },
+            "@incLT": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"latitude\"] }}"
+              },
+              "rank": "1",
+              "fieldId": "@incLT"
+            },
+            "@incRP": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"reporter\"] }}"
+              },
+              "rank": "3",
+              "fieldId": "@incRP"
+            }
+          },
+          "content": "{{ a1f2e3d4-b5c6-7890-abcd-ef0123456789[\"category\"] }} {{ trigger[\"body\"][\"description\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "r7RYBwhZXTAuaaP7"
+          }
+        }
+      }
+    },
+    {
+      "name": "c3f4a5b6-d7e8-9012-cdef-012345678901",
+      "valid": false,
+      "displayName": "Create Case — SLA Clock Started",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "fields": {
+            "@csAI": {
+              "data": {
+                "value": "{{ a1f2e3d4-b5c6-7890-abcd-ef0123456789[\"summary\"] }}"
+              },
+              "rank": "1",
+              "fieldId": "@csAI"
+            },
+            "@csHR": {
+              "data": {
+                "value": ""
+              },
+              "rank": "2",
+              "fieldId": "@csHR"
+            },
+            "@csZN": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"locationCode\"] }}"
+              },
+              "rank": "0",
+              "fieldId": "@csZN"
+            }
+          },
+          "content": "{{ a1f2e3d4-b5c6-7890-abcd-ef0123456789[\"category\"] }} — {{ trigger[\"body\"][\"description\"] }} — Zone: {{ trigger[\"body\"][\"locationCode\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "MNXitRw4WKLaDdGC"
+          }
+        }
+      }
+    },
+    {
+      "name": "d4a5b6c7-e8f9-0123-defa-123456789012",
+      "valid": false,
+      "displayName": "Write Evidence Entry — Submitted",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "fields": {
+            "@epAC": {
+              "data": {
+                "value": "Anonymous / QR Portal"
+              },
+              "rank": "1",
+              "fieldId": "@epAC"
+            },
+            "@epCI": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"locationCode\"] }}-{{ trigger[\"triggerTime\"] }}"
+              },
+              "rank": "0",
+              "fieldId": "@epCI"
+            },
+            "@epDT": {
+              "data": {
+                "value": "{{ a1f2e3d4-b5c6-7890-abcd-ef0123456789[\"summary\"] }} GPS: {{ trigger[\"body\"][\"latitude\"] }},{{ trigger[\"body\"][\"longitude\"] }}."
+              },
+              "rank": "2",
+              "fieldId": "@epDT"
+            },
+            "@epEV": {
+              "data": {
+                "value": "submitted"
+              },
+              "rank": "3",
+              "fieldId": "@epEV"
+            },
+            "@epSL": {
+              "data": {
+                "value": "yes"
+              },
+              "rank": "4",
+              "fieldId": "@epSL"
+            }
+          },
+          "content": "Observation submitted via {{ trigger[\"body\"][\"anchorColor\"] }} portal. Zone: {{ trigger[\"body\"][\"locationCode\"] }}. AI: {{ a1f2e3d4-b5c6-7890-abcd-ef0123456789[\"severity\"] }} / {{ a1f2e3d4-b5c6-7890-abcd-ef0123456789[\"category\"] }}. SLA clock started.",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "PdW5aV2A9UJJjoXh"
+          }
+        }
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "http_response",
+      "body": {
+        "type": "json",
+        "data": {
+          "type": "basic",
+          "payload": [
+            {
+              "ref_code": "{{ a1f2e3d4-b5c6-7890-abcd-ef0123456789[\"ref_suffix\"] }}"
+            },
+            {
+              "ai_urgency": "{{ a1f2e3d4-b5c6-7890-abcd-ef0123456789[\"severity\"] }}"
+            },
+            {
+              "ai_summary": "{{ a1f2e3d4-b5c6-7890-abcd-ef0123456789[\"summary\"] }}"
+            },
+            {
+              "zone": "{{ trigger[\"body\"][\"locationCode\"] }}"
+            },
+            {
+              "message": "Your observation has been received. Use your reference code to check its status at any QR point on site."
+            }
+          ]
+        }
+      },
+      "key": "trigger"
+    }
+  ],
+  "variables": {
+    "r7RYBwhZXTAuaaP7": {
+      "id": "r7RYBwhZXTAuaaP7",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    },
+    "MNXitRw4WKLaDdGC": {
+      "id": "MNXitRw4WKLaDdGC",
+      "rank": "k",
+      "type": "string",
+      "format": "taskade-project-id"
+    },
+    "PdW5aV2A9UJJjoXh": {
+      "id": "PdW5aV2A9UJJjoXh",
+      "rank": "s",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

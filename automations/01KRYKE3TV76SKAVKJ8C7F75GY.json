@@ -1,0 +1,173 @@
+{
+  "version": "2",
+  "flowTitle": "Human Triage Override — Urgency Correction",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "reason": {
+            "type": "string",
+            "description": "Input for reason"
+          },
+          "zone_id": {
+            "type": "string",
+            "description": "Input for zone_id"
+          },
+          "ref_code": {
+            "type": "string",
+            "description": "Input for ref_code"
+          },
+          "ai_urgency": {
+            "type": "string",
+            "description": "Input for ai_urgency"
+          },
+          "human_urgency": {
+            "type": "string",
+            "description": "Input for human_urgency"
+          },
+          "operator_name": {
+            "type": "string",
+            "description": "Input for operator_name"
+          },
+          "observation_id": {
+            "type": "string",
+            "description": "Input for observation_id"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "f6c7d8e9-a0b1-2345-fabc-345678901234",
+      "valid": false,
+      "displayName": "Log Override to Evidence Pack",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "fields": {
+            "@epAC": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"operator_name\"] }}"
+              },
+              "rank": "3",
+              "fieldId": "@epAC"
+            },
+            "@epCI": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"observation_id\"] }}"
+              },
+              "rank": "0",
+              "fieldId": "@epCI"
+            },
+            "@epDT": {
+              "data": {
+                "value": "AI classified: {{ trigger[\"body\"][\"ai_urgency\"] }}. Operator upgraded to: {{ trigger[\"body\"][\"human_urgency\"] }}. Reason: {{ trigger[\"body\"][\"reason\"] }}. SLA deadlines recalculated to {{ trigger[\"body\"][\"human_urgency\"] }} tier."
+              },
+              "rank": "4",
+              "fieldId": "@epDT"
+            },
+            "@epEV": {
+              "data": {
+                "value": "human_override"
+              },
+              "rank": "2",
+              "fieldId": "@epEV"
+            },
+            "@epRC": {
+              "data": {
+                "value": "{{ trigger[\"body\"][\"ref_code\"] }}"
+              },
+              "rank": "1",
+              "fieldId": "@epRC"
+            },
+            "@epSL": {
+              "data": {
+                "value": "yes"
+              },
+              "rank": "5",
+              "fieldId": "@epSL"
+            }
+          },
+          "content": "Human override: {{ trigger[\"body\"][\"ai_urgency\"] }} to {{ trigger[\"body\"][\"human_urgency\"] }} by {{ trigger[\"body\"][\"operator_name\"] }}. Ref: {{ trigger[\"body\"][\"ref_code\"] }}. Reason: {{ trigger[\"body\"][\"reason\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "PdW5aV2A9UJJjoXh"
+          }
+        }
+      }
+    },
+    {
+      "name": "a7d8e9f0-b1c2-3456-abcd-456789012345",
+      "valid": false,
+      "displayName": "Notify ARIA of Override",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "agent.ask",
+        "input": {
+          "input": "HUMAN OVERRIDE LOGGED — Operator {{ trigger[\"body\"][\"operator_name\"] }} has upgraded observation {{ trigger[\"body\"][\"ref_code\"] }} from {{ trigger[\"body\"][\"ai_urgency\"] }} to {{ trigger[\"body\"][\"human_urgency\"] }}. Zone: {{ trigger[\"body\"][\"zone_id\"] }}. Reason given: {{ trigger[\"body\"][\"reason\"] }}. The SLA clock has been recalculated to the {{ trigger[\"body\"][\"human_urgency\"] }} tier. Please acknowledge this change and confirm the updated response timeline.",
+          "agentId": {
+            "type": "flow-template-variable-input-type",
+            "id": "01KRYKE3TVFYXGG1BDJ9JR1PP0"
+          }
+        }
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "http_response",
+      "body": {
+        "type": "json",
+        "data": {
+          "type": "basic",
+          "payload": [
+            {
+              "success": "true"
+            },
+            {
+              "ref_code": "{{ trigger[\"body\"][\"ref_code\"] }}"
+            },
+            {
+              "new_urgency": "{{ trigger[\"body\"][\"human_urgency\"] }}"
+            },
+            {
+              "overridden_by": "{{ trigger[\"body\"][\"operator_name\"] }}"
+            },
+            {
+              "aria_response": "{{ a7d8e9f0-b1c2-3456-abcd-456789012345[\"result\"] }}"
+            },
+            {
+              "message": "Override recorded and sealed in evidence pack."
+            }
+          ]
+        }
+      },
+      "key": "trigger"
+    }
+  ],
+  "variables": {
+    "PdW5aV2A9UJJjoXh": {
+      "id": "PdW5aV2A9UJJjoXh",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    },
+    "01KRYKE3TVFYXGG1BDJ9JR1PP0": {
+      "id": "01KRYKE3TVFYXGG1BDJ9JR1PP0",
+      "rank": "k",
+      "type": "string",
+      "format": "taskade-space-agent-id"
+    }
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "text": {
+          "ops": [
+            {
+              "insert": "Intel — TrackTik + QR-Patrol Competitive Analysis"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b2c3d4e5-f678-90ab-cdef-234567890abc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Meeting: Andy Buxton (COO, Dardan Security) — 17 April 2026",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c3d4e5f6-7890-abcd-ef12-345678901234",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Andy Buxton: COO (not CEO — Philip Anthony is CEO). Former chief instructor at Sandhurst. Royal Anglian Regiment, Head of Intelligence, Surveillance. MSc, MBA, CSyP, RISC.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d4e5f678-90ab-cdef-1234-567890abcdef",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Dardan: Founded 1973, 50+ years, £67.8M revenue. Sectors: Critical Infrastructure, Higher Ed, Life Sciences, Corporate, R&D. Clients include University of Cambridge, National Grid, Savills, Royal College of Art.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e5f67890-abcd-ef12-3456-7890abcdef01",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Dardan currently uses TrackTik as their main platform. They publish quarterly threat reviews authored by Andy himself — intelligence-led security is clearly central to their identity.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f6789012-cdef-3456-7890-abcdef012345",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Key angle: Ollie (our CEO) and Andy both served in the military. This shared background is the relationship foundation. Do NOT lead with product — lead with shared language and operational understanding.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "01234567-89ab-cdef-0123-456789abcdef",
+            "text": {
+              "ops": [
+                {
+                  "insert": "TrackTik Core Gaps — What We Have That They Don't",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "12345678-9abc-def0-1234-56789abcdef0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1. Public/Victim Protection Layer — TrackTik is guard-facing only. Zero capability for staff, visitors, or public to self-report, raise SOS, or access guidance. Our QR/NFC system lets ANYONE enter the safety ecosystem in 12 seconds.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "23456789-abcd-ef01-2345-6789abcdef01",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2. AI Threat Intelligence (ARIA) — TrackTik has ReportPro AI for guard report writing. We have ARIA: real-time risk triage, sentiment analysis on voice reports, threat pattern recognition, predictive heatmaps. Fundamentally different intelligence layer.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3456789a-bcde-f012-3456-789abcdef012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3. Martyn's Law / UK Regulatory Compliance Engine — TrackTik has NO Martyn's Law capability. Zero RIDDOR automation. Our Compliance Engine auto-classifies incidents, monitors deadlines, generates regulator-ready reports.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "456789ab-cdef-0123-4567-89abcdef0123",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "4. Anonymous Reporting / Voice Journal — TrackTik has no anonymous channel. Reports come only from guards. Our Voice Journal lets anyone — staff, visitor, public — report anonymously by voice or text. ARIA flags risk. This is a Martyn's Law differentiator.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "56789abc-def0-1234-5678-9abcdef01234",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5. Situational Guidance System — TrackTik gives guards post orders. We give the PERSON IN DANGER real-time de-escalation, legal, and immediate action guidance across 8 threat scenarios. No other platform does this.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6789abcd-ef01-2345-6789-abcdef012345",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "6. Duty of Care Evidence Chain — TrackTik logs guard activity. We log the entire organisational response: who was alerted, when they acknowledged, when they escalated, with SLA countdowns and breach notifications. This is courtroom-ready evidence.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "aa112233-4455-6677-8899-aabbccddeeff",
+            "text": {
+              "ops": [
+                {
+                  "insert": "QR-Patrol Analysis — The Third Player",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "bb223344-5566-7788-99aa-bbccddeeff00",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "QR-Patrol by Terracom (Greece). Uses QR/NFC/Beacons for GUARD checkpoint scanning — NOT for public protection. Their QR codes are scanned BY guards TO prove they patrolled a location.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cc334455-6677-8899-aabb-ccddeeff0011",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Pricing: $3.20-$11.10/guard/month. Massively cheaper than TrackTik ($78/location/month). Clients include Securitas, Heathrow, IKEA, Pfizer, Marriott, Honda.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "dd445566-7788-99aa-bbcc-ddeeff001122",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "SafePass feature (Gold tier): gives VIPs/individuals access to a mobile app to monitor their own patrol. This is the closest thing to our public protection idea — but it's for VIPs who already have the app, not universal zero-friction access.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ee556677-8899-aabb-ccdd-eeff00112233",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "CRITICAL DISTINCTION: QR-Patrol's QR codes = guard accountability tool (proving guard was at checkpoint). Our QR/NFC = public access portal (giving anyone in danger an entry point into the safety ecosystem). Same technology, fundamentally different purpose.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "ff667788-99aa-bbcc-ddee-ff0011223344",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Repositioned USP — The Three-Layer Model",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "11223344-5566-7788-99aa-bbccddeeff11",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "TrackTik = Workforce Management (the business of security). QR-Patrol = Guard Accountability (proving the patrol happened). Absolute Defence OS = Human Protection (what happens when someone is actually in danger).",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "22334455-6677-8899-aabb-ccddeeff0022",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "We are NOT competing with either platform. We are the missing third layer that neither can deliver. We complete the stack.",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📈"
+    }
+  }
+}
